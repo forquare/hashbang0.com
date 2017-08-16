@@ -1,0 +1,31 @@
+baseurl = "http://hashbang0.com"
+languageCode = "en-gb"
+title = "#!0 - A Site of Life & Geekery"
+theme = "rehyde-x"
+
+[author]
+	name = "Ben Lavery-Griffiths"
+
+[permalinks]
+	post = "/:year/:month/:day/:title/"
+
+[taxonomies]
+	category = "categories"
+
+[params]
+	truncate = false
+	theme = "theme-base-0b"
+	highlight = "sunburst"
+	home = "Home"
+#	
+	github = "forquare"
+	stackOverflow = "https://stackexchange.com/users/166079/forquare"
+	linkedin = "benlavery"
+	twitter = "forquare"
+#
+	rss = true
+
+[[menu.main]]
+	name = "PGP Key"
+	identifier = "pgp"
+	url = "/pgp/"
