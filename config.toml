@@ -1,4 +1,4 @@
-baseurl = "http://hashbang0.com"
+baseurl = "/"
 languageCode = "en-gb"
 disqusShortname = "hb0"
 title = "#!0 - A Site of Life & Geekery"
@@ -36,3 +36,15 @@ theme = "rehyde-x"
 	name = "PGP Key"
 	identifier = "pgp"
 	url = "/pgp/"
+
+[related]
+	threshold = 80
+	includeNewer = false
+	toLower = true
+	
+[[related.indices]]
+	name = "keywords"
+	weight = 150
+[[related.indices]]
+	name  = "tags"
+	weight = 100
