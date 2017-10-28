@@ -29,6 +29,6 @@ I especially like the fact that I can use [Dropbox][2] with Ubuntu. Â I rely onÂ
 
 So, I'd like to raise my glass and say: Well done Canonical and the Ubuntu community, you have impressed me beyond what I thought I'd be.
 
-  [1]: http://hashbang0.com/2009/01/20/my-new-ibm-thinkpad-x32-and-wireless/
+  [1]: /2009/01/20/my-new-ibm-thinkpad-x32-and-wireless/
   [2]: http://db.tt/DwmKPr0
   [3]: http://db.tt/DwmKPr0

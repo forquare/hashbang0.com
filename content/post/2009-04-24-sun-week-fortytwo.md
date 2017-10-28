@@ -24,7 +24,7 @@ I say new, it's a CRT G3 iMac, 350MHz, 256MB RAM and a whopping 20GB hard drive,
   [1]: http://sunsolve.sun.com/handbook_pub/validateUser.do?target=Systems/SunBlade2000/SunBlade2000
   [2]: http://www.sun.com
   [3]: http://www.oracle.com/index.html
-  [4]: http://hashbang0.com/2009/04/20/oracle-buys-sun-microsystems/
+  [4]: /2009/04/20/oracle-buys-sun-microsystems/
   [5]: http://www.sun.com/aboutsun/executives/ryan/bio.jsp
   [6]: http://www.x404.co.uk/forum
   [7]: http://s9.photobucket.com/albums/a55/forquare/blog/iMac/

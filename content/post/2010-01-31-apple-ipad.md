@@ -18,7 +18,7 @@ Flash videos can go, with the introduction of H.264, YouTube doesn't need Flash 
 iPad. I guess it could conjure the image of an Apple branded nappy:
 
 
-[<img src="http://hashbang0.com/wp-content/uploads/2010/07/ipads-246x300.jpg" width="246" height="300" class="size-medium wp-image-1088 aligncenter" title="ipads" />][2]
+[<img src="/wp-content/uploads/2010/07/ipads-246x300.jpg" width="246" height="300" class="size-medium wp-image-1088 aligncenter" title="ipads" />][2]
 
 
 
@@ -40,4 +40,4 @@ Pricing isn't too bad. The 16GB model is $499 as of 31/1/10 that's £312.79! Per
 I'd like to see how the iPad is recieved when it is released. I'm also looking forward to seeing the second and third generation iPads.
 
   [1]: http://www.apple.com/uk/ipad/
-  [2]: http://hashbang0.com/wp-content/uploads/2010/07/ipads.jpg
+  [2]: /wp-content/uploads/2010/07/ipads.jpg

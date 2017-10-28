@@ -12,7 +12,7 @@ Applications crash and can take down a system, if we could virtualise the applic
 The idea was more than that though, I thought that files should also be chopped up and placed into separate areas (at the time I was thinking separate ZFS file systems).  Separating files into types would mean that one could limit what information applications could get hold of (why would an image editor need access to word documents, for example?). 
 Here's an image to somewhat illustrate my point: 
  
-[<img src="http://hashbang0.com/wp-content/uploads/2012/03/sandboxing-742x1024.png" width="742" height="1024" class="aligncenter size-large wp-image-1357" title="sandboxing" />][2] 
+[<img src="/wp-content/uploads/2012/03/sandboxing-742x1024.png" width="742" height="1024" class="aligncenter size-large wp-image-1357" title="sandboxing" />][2] 
  
 Now, back in 2010 I used the phrase "Virtual Application Environments".  Today I feel quite silly, as everyone simply calls it "sandboxing", Wikipedia has this to say about sandboxing: 
 > a **sandbox** is a security mechanism for separating running programs. 
@@ -26,6 +26,6 @@ Let's have a think about that.  A thin client connects to a main server, this s
  
 Now I'm very excited!  OnLive have released a product called [OnLive Desktop][3].  It allows you to access a MS Windows 7 instance from a tablet, right over the web.  So we begin to see this thin client (iPad) access a remote system (Win 7) to run apps.  All we need now is for the Win 7 instance to be able to run a multitude of Linux and OS X apps (by somehow forwarding the app from the Linux/Mac system to the Windows system (something like X11 forwarding)) and my idea would have become a reality!
 
-  [1]: http://hashbang0.com/2010/05/31/dissertation-is-over/ "Dissertation is over…"
-  [2]: http://hashbang0.com/wp-content/uploads/2012/03/sandboxing.png
+  [1]: /2010/05/31/dissertation-is-over/ "Dissertation is over…"
+  [2]: /wp-content/uploads/2012/03/sandboxing.png
   [3]: http://desktop.onlive.com/

@@ -11,14 +11,14 @@ Have you ever used your iPhone to search Google for something, then find that th
  
 It is, in fact, really easy.  Go to the page you want to search on, then click on the search box in the top right.  Type in your query and wait for the text "On This Page" to appear: 
  
-[<img src="http://hashbang0.com/wp-content/uploads/2011/05/photo-1-200x300.png" width="200" height="300" class="aligncenter size-medium wp-image-1207" title="Find text" />][1] 
+[<img src="/wp-content/uploads/2011/05/photo-1-200x300.png" width="200" height="300" class="aligncenter size-medium wp-image-1207" title="Find text" />][1] 
  
 Click on matched text and you're given this view: 
  
-[<img src="http://hashbang0.com/wp-content/uploads/2011/05/photo-2-200x300.png" width="200" height="300" title="Text found 1" />][2] [<img src="http://hashbang0.com/wp-content/uploads/2011/05/photo-3-200x300.png" width="200" height="300" title="Text found 2" />][3] 
+[<img src="/wp-content/uploads/2011/05/photo-2-200x300.png" width="200" height="300" title="Text found 1" />][2] [<img src="http://hashbang0.com/wp-content/uploads/2011/05/photo-3-200x300.png" width="200" height="300" title="Text found 2" />][3] 
  
 Simply click the "Next" button until you find the text you're after!
 
-  [1]: http://hashbang0.com/wp-content/uploads/2011/05/photo-1.png
-  [2]: http://hashbang0.com/wp-content/uploads/2011/05/photo-2.png
-  [3]: http://hashbang0.com/wp-content/uploads/2011/05/photo-3.png
+  [1]: /wp-content/uploads/2011/05/photo-1.png
+  [2]: /wp-content/uploads/2011/05/photo-2.png
+  [3]: /wp-content/uploads/2011/05/photo-3.png

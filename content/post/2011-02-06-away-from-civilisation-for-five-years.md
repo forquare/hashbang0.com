@@ -12,7 +12,7 @@ I started to think about what it would be like if I had found myself left on a d
 To set the scene somewhat, in late 2005 I was a second year Sixth Form student studying for an AVCE in ICT, an A-Level in Music Technology, and an AS-Level in Economics.
 I had recently built my first computer, a Pentium 4 with a whole 1GB of RAM and a Club 3D GF7300GS graphics card, my mobile was a Sendo S230 and was rarely used.  I was being educated using the Microsoft environment, Windows XP, Office, Visual Studio, with some Adobe CS2 stuff too.  I was using a mixture of old System 8 Macs and newer eMacs running OS 10.3 in the recording studio.
 
-[<img src="http://hashbang0.com/wp-content/uploads/2010/11/sendo-s230-300x300.jpg" width="300" height="300" alt="Sendo S230 - My first phone" class="size-medium wp-image-1140" title="sendo-s230" />][2]
+[<img src="/wp-content/uploads/2010/11/sendo-s230-300x300.jpg" width="300" height="300" alt="Sendo S230 - My first phone" class="size-medium wp-image-1140" title="sendo-s230" />][2]
 
 Back in 2005 Apple was still using PowerPC processors, was selling OS 10.4, Tiger, and was enjoying the boom of the iPod in the forms of the Classic, and the newly introduced Shuffle and Nano (which replaced the Mini).  Microsoft was still plugging Windows XP, Office 2003, and Internet Explorer 6.  Flash was still a part of Macromedia and Adobe had nothing to do with it.  Mobile phones were getting polyphonic ringtones and flashy colour screens, but were still quite primitive.
 
@@ -29,4 +29,4 @@ Granted the last five years hasn't been the most exciting with regards to techno
 The next five years could see everything doubling or more in power again, I think we might see more tablets come into use, though they may be a fad...No one knows!
 
   [1]: http://www.imdb.com/title/tt0162222/
-  [2]: http://hashbang0.com/wp-content/uploads/2010/11/sendo-s230.jpg
+  [2]: /wp-content/uploads/2010/11/sendo-s230.jpg

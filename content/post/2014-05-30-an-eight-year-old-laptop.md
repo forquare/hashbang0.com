@@ -6,7 +6,7 @@ categories = ["Mac","Musings","Uni"]
 +++
 
 Technology moves so fast, doesn't it?  I mean who would want such a battered looking laptop? 
-[<img src="http://hashbang0.com/wp-content/uploads/2014/05/2014-05-27-14.20.43-1024x593.jpg" width="700" height="405" class="aligncenter wp-image-1443 size-large" />][1] 
+[<img src="/wp-content/uploads/2014/05/2014-05-27-14.20.43-1024x593.jpg" width="700" height="405" class="aligncenter wp-image-1443 size-large" />][1] 
  
 It doesn't look like much, does it? 
  
@@ -31,10 +31,10 @@ Dead hard drive (~18months in) - a horribly inevitable situation, though I didn'
 Overheating (~5 years in) - Simple problem, the fan died, and this caused the MacBook to overheat.  The fan cost a couple of quid off eBay and it was down for only a couple of days. 
  
 Dead wifi (~7 years in) - I think due to excessive heat, the wifi chip died :(  Now I have to use an external WiFi dongle... 
-[<img src="http://hashbang0.com/wp-content/uploads/2014/05/2014-05-27-14.23.36-1024x768.jpg" width="700" height="525" class="aligncenter size-large wp-image-1445" />][4] 
+[<img src="/wp-content/uploads/2014/05/2014-05-27-14.23.36-1024x768.jpg" width="700" height="525" class="aligncenter size-large wp-image-1445" />][4] 
  
 Obsolescence - Since 2011 I have been unable to update the OS past 10.6 (Snow Leopard) due to the 32-bit CPU.  For a long time this didn't hinder me, and it's only in the last year or two that I've come across some 64-bit only apps, or apps that rely on an OS newer than 10.6. 
-[<img src="http://hashbang0.com/wp-content/uploads/2014/05/2014-05-27-14.24.05-919x1024.jpg" width="700" height="779" alt="2014-05-27 14.24.05" class="aligncenter size-large wp-image-1446" />][5] 
+[<img src="/wp-content/uploads/2014/05/2014-05-27-14.24.05-919x1024.jpg" width="700" height="779" alt="2014-05-27 14.24.05" class="aligncenter size-large wp-image-1446" />][5] 
 
 
 ## But despite all of this...
@@ -46,11 +46,11 @@ I had said to myself, eight years ago, that this laptop would have to last me se
  
 Long live Faegilath (forgotten elvish meaning)! 
  
-[<img src="http://hashbang0.com/wp-content/uploads/2014/05/2014-05-27-14.21.12-1024x768.jpg" width="700" height="525" class="aligncenter size-large wp-image-1444" />][6]
+[<img src="/wp-content/uploads/2014/05/2014-05-27-14.21.12-1024x768.jpg" width="700" height="525" class="aligncenter size-large wp-image-1444" />][6]
 
-  [1]: http://hashbang0.com/wp-content/uploads/2014/05/2014-05-27-14.20.43.jpg
+  [1]: /wp-content/uploads/2014/05/2014-05-27-14.20.43.jpg
   [2]: http://appleinsider.com/articles/10/02/16/apple_announces_macbook_repair_program_for_hard_drive_issues
-  [3]: http://hashbang0.com/2008/04/14/fixing-a-macbook-power-transformer/ "Fixing a Macbook power transformer"
-  [4]: http://hashbang0.com/wp-content/uploads/2014/05/2014-05-27-14.23.36.jpg
-  [5]: http://hashbang0.com/wp-content/uploads/2014/05/2014-05-27-14.24.05.jpg
-  [6]: http://hashbang0.com/wp-content/uploads/2014/05/2014-05-27-14.21.12.jpg
+  [3]: /2008/04/14/fixing-a-macbook-power-transformer/ "Fixing a Macbook power transformer"
+  [4]: /wp-content/uploads/2014/05/2014-05-27-14.23.36.jpg
+  [5]: /wp-content/uploads/2014/05/2014-05-27-14.24.05.jpg
+  [6]: /wp-content/uploads/2014/05/2014-05-27-14.21.12.jpg

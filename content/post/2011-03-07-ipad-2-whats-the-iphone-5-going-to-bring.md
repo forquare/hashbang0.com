@@ -25,4 +25,4 @@ The iPad 2 will sport a dual-core Apple A5 chip (the same clock speed as the A4,
 Hardware in the first generation iPad and the iPhone 4 were pretty similar, so what can we expect from the iPhone 5?<br />
 I think it's safe to say that the next iPhone will have the same A5 processor as the iPad 2 does, giving a bump to performance (especially helping multi-tasking for iOS) both in processing power and in graphical abilities, and we will also see a few millimetres shaved off.
 
-  [1]: http://hashbang0.com/2010/01/31/apple-ipad/
+  [1]: /2010/01/31/apple-ipad/

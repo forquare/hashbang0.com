@@ -9,7 +9,7 @@ So Oracle had Sun for a fair while now, all of the sites have been rebranded, an
 
 The icon has finally changed, see below for the old and new:
 
-[<img src="http://hashbang0.com/wp-content/uploads/2010/07/sun_virtualbox.png" width="180" height="176" class="size-medium wp-image-972 alignnone" title="Sun_Virtual_Box" />][1][<img src="http://hashbang0.com/wp-content/uploads/2010/07/virtualbox.png" width="180" height="176" class="size-medium wp-image-971 alignnone" title="Oracle_Virtual_Box" />][2]
+[<img src="/wp-content/uploads/2010/07/sun_virtualbox.png" width="180" height="176" class="size-medium wp-image-972 alignnone" title="Sun_Virtual_Box" />][1][<img src="http://hashbang0.com/wp-content/uploads/2010/07/virtualbox.png" width="180" height="176" class="size-medium wp-image-971 alignnone" title="Oracle_Virtual_Box" />][2]
 
 With the update comes a raft of new features including:
 
@@ -30,5 +30,5 @@ With the update comes a raft of new features including:
 * Ubuntu 10.04 (“Lucid Lynx”)
 * Mac OS X – On Apple hardware only
 
-  [1]: http://hashbang0.com/wp-content/uploads/2010/07/sun_virtualbox.png
+  [1]: /wp-content/uploads/2010/07/sun_virtualbox.png
   [2]:

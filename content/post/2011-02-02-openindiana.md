@@ -16,7 +16,7 @@ I updated my OpenSolaris machine using the upgrade instructions found [here][4].
 
 While OpenIndiana doesn't change much cosmetically, it's a step in the right direction, giving consumers a chance to run a Solaris derived OS for free.  I hope that one day it can compete on a desktop level with some of the more popular Linux distros, though I reckon it'll do most of it's battle in the data centre.
 
-  [1]: http://hashbang0.com/2010/08/14/goodbye-opensolaris/
+  [1]: /2010/08/14/goodbye-opensolaris/
   [2]: http://www.illumos.org/
   [3]: http://openindiana.org/
   [4]: http://wiki.openindiana.org/oi/Installing+or+Upgrading#InstallingorUpgrading-UpgradingfromOpenSolaris

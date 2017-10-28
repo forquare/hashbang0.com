@@ -25,5 +25,5 @@ I had a ticket from [Lewis][2] asking to attach some storage to a couple of v445
 
 All in all, a busy week!
 
-  [1]: http://hashbang0.com/2008/10/10/sun-week-fourteen/
+  [1]: /2008/10/10/sun-week-fourteen/
   [2]: http://www.lewiz.org/

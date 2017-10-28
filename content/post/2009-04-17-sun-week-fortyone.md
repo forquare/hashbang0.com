@@ -33,4 +33,4 @@ I'll update this later to say how I got on...
   [2]: http://sunsolve.sun.com/handbook_pub/Systems/U80/images/U80.gif
   [3]: http://forums.devshed.com/unix-help-35/changing-hostname-and-ip-on-solaris-10t-343047.html
   [4]: http://sunsolve.sun.com/handbook_pub/Systems/SunFire15K_shared/images/SunFire15K.jpg
-  [5]: http://hashbang0.com/2009/04/09/sun-week-forty/
+  [5]: /2009/04/09/sun-week-forty/

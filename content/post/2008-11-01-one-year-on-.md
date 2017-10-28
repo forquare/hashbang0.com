@@ -14,4 +14,4 @@ Of course, this was back on blogger, I moved to Wordpress shortly after.
 
 My second celebration was mine and Faye's one year :D
 
-  [1]: http://hashbang0.com/2007/11/01/4/
+  [1]: /2007/11/01/4/

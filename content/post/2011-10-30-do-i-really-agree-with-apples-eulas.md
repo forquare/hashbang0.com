@@ -12,5 +12,5 @@ I am pretty confident that hundreds of users click "accept" every day without re
  
 I have fallen in to this trap too, what "freedoms" am I signing away to Apple?  Over the next few weeks I'm going to sit down and read the EULA for Mac OS X Lion, iTunes, and iOS 5.  Am I really happy with signing these "freedoms" away?
 
-  [1]: http://hashbang0.com/2011/10/06/goodbye-steve/ "Goodbye, Steve"
+  [1]: /2011/10/06/goodbye-steve/ "Goodbye, Steve"
   [2]: http://stallman.org/archives/2011-jul-oct.html#27_October_2011_(Steve_Jobs)

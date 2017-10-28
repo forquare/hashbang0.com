@@ -15,4 +15,4 @@ I've been looking for a Folding@Home client for OpenSolaris, the number of blogs
 
 I hope that I'll be able to make some time to update this place next year, in amongst the rush of uni work, a home life, and other bits and bobs I'm hoping will come together, and I hope you lot keep reading, I enjoy looking at my stats on a weekly (sometimes daily) basis and seeing that you lot have pushed for another all time high...
 
-  [1]: http://hashbang0.com/2007/11/
+  [1]: /2007/11/

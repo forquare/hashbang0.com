@@ -7,7 +7,7 @@ categories = ["Games","iOS"]
 
 Even back on my iPod Touch I liked playing games, and now with my faster, more responsive iPhone I love playing games.  I thought I might share a few of my favourites.  So here we go, in no particular order (other than in the rough order I last played them).
 
-[<img src="http://hashbang0.com/wp-content/uploads/2010/10/Photo-Oct-21-8-55-24-PM-200x300.jpg" width="200" height="300" class="alignright size-medium wp-image-1121" title="Game Dev Story" />][1]
+[<img src="/wp-content/uploads/2010/10/Photo-Oct-21-8-55-24-PM-200x300.jpg" width="200" height="300" class="alignright size-medium wp-image-1121" title="Game Dev Story" />][1]
 
 
 ### [Game Dev Story][2]
@@ -18,7 +18,7 @@ This game allows you to control a game dev company.  You start out with two mem
 Games are built by selecting a platform to develop for (e.g. PC), a genre (e.g. racing), and a type (e.g. monster) and then working design of various aspects - first comes initial planning, then graphics design, and finally sound tracks - this is done either by members of your own team for free (well, included in their salary), or by outsourcing the work at an extra cost.
 Your developers work on the game over a period of time adding fun, creative, graphical, and sound 'points' to the game - the more points the better the game.  You can use object to boost certain points by using Research Points, these are acquired by your staff while they are working.
 
-[<img src="http://hashbang0.com/wp-content/uploads/2010/10/Photo-Oct-21-8-55-37-PM-150x150.jpg" width="150" height="150" class="alignleft size-thumbnail wp-image-1122" title="Game D Story" />][3]
+[<img src="/wp-content/uploads/2010/10/Photo-Oct-21-8-55-37-PM-150x150.jpg" width="150" height="150" class="alignleft size-thumbnail wp-image-1122" title="Game D Story" />][3]
 
 Contracts are an easy way to get money.  Contracts are made up of two things: a time frame (number of weeks), and points (e.g. fun points).  Set your developers to work and watch them bash out the points in the allotted time, if you miss the deadline the contractor will not use you again!  Different jobs pay a different amount of money, and it's not always proportional to the amount of work or time constraints!
 
@@ -27,7 +27,7 @@ You get to control most aspects if your company, the hiring, firing, and trainin
 All in all I think this is a great game, it must be seeing as I spent over four hours playing it last night!
 
 
-### [<img src="http://hashbang0.com/wp-content/uploads/2010/10/Photo-Oct-21-8-56-22-PM-300x200.jpg" width="300" height="200" class="alignright size-medium wp-image-1123" title="Virtual City" />][4][Virtual City][5]
+### [<img src="/wp-content/uploads/2010/10/Photo-Oct-21-8-56-22-PM-300x200.jpg" width="300" height="200" class="alignright size-medium wp-image-1123" title="Virtual City" />][4][Virtual City][5]
 
 
 Another simulation type game here.  In Virtual City you move into different towns and correct what is wrong with them.  Some towns require you to build roads to neighbouring towns, others require you to set up manufacturing plants, while others need a population boost and more cash.
@@ -41,7 +41,7 @@ Building the required manufacturing plants is easy, simply select the building f
 This is a great game for short and long periods of time, I've been playing it over the past couple of weeks on the way to and from work on the train.  It also has great iOS 4 multitasking support meaning that the game gets paused and you can resume right where you left off.
 
 
-### [<img src="http://hashbang0.com/wp-content/uploads/2010/10/Photo-Oct-21-8-57-07-PM-300x200.jpg" width="300" height="200" class="alignright size-medium wp-image-1124" title="Angry Birds" />][6][Angry Birds][7]
+### [<img src="/wp-content/uploads/2010/10/Photo-Oct-21-8-57-07-PM-300x200.jpg" width="300" height="200" class="alignright size-medium wp-image-1124" title="Angry Birds" />][6][Angry Birds][7]
 
 
 Angry Birds has been all over the Internet for months.  As many people will know, the pigs have stolen the birds' eggs and the birds are not happy.
@@ -50,7 +50,7 @@ Using a slingshot, hurl the birds at the pigs and the structures protecting them
 Again, with great iOS 4 multitasking support, this is an excellent game to stop and start throughout the day, especially when you are doing testing which requires a ten minute gap!
 
 
-### [<img src="http://hashbang0.com/wp-content/uploads/2010/10/Photo-Oct-21-8-57-17-PM-300x200.jpg" width="300" height="200" class="alignright size-medium wp-image-1125" title="P Vs Z" />][8][Plants Vs. Zombies][9]
+### [<img src="/wp-content/uploads/2010/10/Photo-Oct-21-8-57-17-PM-300x200.jpg" width="300" height="200" class="alignright size-medium wp-image-1125" title="P Vs Z" />][8][Plants Vs. Zombies][9]
 
 
 Another great game.  This can also be played on PCs and Macs through [Steam][10].
@@ -67,13 +67,13 @@ This games takes a bit more planning than others and it's best suited for longer
 
 Four of my current favourite iOS games shared with the world.
 
-  [1]: http://hashbang0.com/wp-content/uploads/2010/10/Photo-Oct-21-8-55-24-PM.jpg
+  [1]: /wp-content/uploads/2010/10/Photo-Oct-21-8-55-24-PM.jpg
   [2]: http://itunes.apple.com/gb/app/game-dev-story/id396085661?mt=8
-  [3]: http://hashbang0.com/wp-content/uploads/2010/10/Photo-Oct-21-8-55-37-PM.jpg
-  [4]: http://hashbang0.com/wp-content/uploads/2010/10/Photo-Oct-21-8-56-22-PM.jpg
+  [3]: /wp-content/uploads/2010/10/Photo-Oct-21-8-55-37-PM.jpg
+  [4]: /wp-content/uploads/2010/10/Photo-Oct-21-8-56-22-PM.jpg
   [5]: http://itunes.apple.com/gb/app/virtual-city/id372595983?mt=8
-  [6]: http://hashbang0.com/wp-content/uploads/2010/10/Photo-Oct-21-8-57-07-PM.jpg
+  [6]: /wp-content/uploads/2010/10/Photo-Oct-21-8-57-07-PM.jpg
   [7]: http://itunes.apple.com/gb/app/angry-birds/id343200656?mt=8
-  [8]: http://hashbang0.com/wp-content/uploads/2010/10/Photo-Oct-21-8-57-17-PM.jpg
+  [8]: /wp-content/uploads/2010/10/Photo-Oct-21-8-57-17-PM.jpg
   [9]: http://itunes.apple.com/gb/app/plants-vs-zombies/id350642635?mt=8
   [10]: http://store.steampowered.com/app/3590/

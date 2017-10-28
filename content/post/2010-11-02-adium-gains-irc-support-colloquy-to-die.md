@@ -19,10 +19,10 @@ The addition of IRC is one that I am really excited about.  For over a year I h
 
 For long time users of Adium, IRC feels natural, it feels like a group chat and it really works.  Throw in tabbed conversations and you can switch between IRC channels, MSN chats and other features.  It's a great addition to an already brilliant app.
 
-[<img src="http://hashbang0.com/wp-content/uploads/2010/11/Screen-shot-2010-11-02-at-09.20.46-300x254.png" width="300" height="254" alt="Adium 4.1 chat window showing IRC channels" class="size-medium wp-image-1133" title="Adium 4.1 chat window showing IRC channels" />][5]
+[<img src="/wp-content/uploads/2010/11/Screen-shot-2010-11-02-at-09.20.46-300x254.png" width="300" height="254" alt="Adium 4.1 chat window showing IRC channels" class="size-medium wp-image-1133" title="Adium 4.1 chat window showing IRC channels" />][5]
 
   [1]: http://adium.im/
   [2]: http://www.pidgin.im/
   [3]: http://trac.adium.im/wiki/AdiumVersionHistory#Version1.410312010
   [4]: http://colloquy.info/
-  [5]: http://hashbang0.com/wp-content/uploads/2010/11/Screen-shot-2010-11-02-at-09.20.46.png
+  [5]: /wp-content/uploads/2010/11/Screen-shot-2010-11-02-at-09.20.46.png

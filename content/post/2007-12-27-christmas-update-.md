@@ -11,6 +11,6 @@ Over the last few weeks I have been updating my site [\#! - A place of geekery.]
 
 I haven't really been doing much else on the site, I need to continue the Java tutorial at some point...But I'm also planning on learning Pythn, bought the book and everything, just need to properly sit down and read it...
 
-Oh yes! Just remembered, the site has moved! We are now <http://hashbang0.com>
+Oh yes! Just remembered, the site has moved! We are now <>
 
   [1]: http://users.aber.ac.uk/bil6

@@ -11,7 +11,7 @@ I play with my Raspberry Pi so rarely that I forget how to use my [CP2102 serial
 ## Connecting the cables
 
 
-[<img src="http://hashbang0.com/wp-content/uploads/2015/12/Raspberry-Pi-USB-UART-Cabling-768x699.png" width="700" height="637" alt="Raspberry Pi USB UART Cabling by Ben Lavery is licensed under a Creative Commons Attribution 4.0 International License." class="wp-image-1573 size-medium_large" />][2] Raspberry Pi Model B connected to USB—UART Adaptor. Click for bigger image.
+[<img src="/wp-content/uploads/2015/12/Raspberry-Pi-USB-UART-Cabling-768x699.png" width="700" height="637" alt="Raspberry Pi USB UART Cabling by Ben Lavery is licensed under a Creative Commons Attribution 4.0 International License." class="wp-image-1573 size-medium_large" />][2] Raspberry Pi Model B connected to USB—UART Adaptor. Click for bigger image.
 
 
 ## On a Mac
@@ -45,7 +45,7 @@ And you’re done!
 And you’re done!
 
   [1]: http://www.amazon.co.uk/gp/product/B00AFRXKFU
-  [2]: http://hashbang0.com/wp-content/uploads/2015/12/Raspberry-Pi-USB-UART-Cabling.png
+  [2]: /wp-content/uploads/2015/12/Raspberry-Pi-USB-UART-Cabling.png
   [3]: http://www.amazon.co.uk/gp/product/B00AFRXKFU
   [4]: https://www.silabs.com/Support%20Documents/Software/Mac_OSX_VCP_Driver.zip
   [5]: http://www.amazon.co.uk/gp/product/B00AFRXKFU

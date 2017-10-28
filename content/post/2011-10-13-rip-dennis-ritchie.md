@@ -12,5 +12,5 @@ Thanks to Ritchie's contributions to computing, we have the C language and its 
   [1]: http://en.wikipedia.org/wiki/C_(programming_language)
   [2]: http://en.wikipedia.org/wiki/Unix
   [3]: http://en.wikipedia.org/wiki/Dennis_Ritchie
-  [4]: http://hashbang0.com/2011/10/06/goodbye-steve/
+  [4]: /2011/10/06/goodbye-steve/
   [5]: http://en.wikipedia.org/wiki/List_of_C-based_programming_languages

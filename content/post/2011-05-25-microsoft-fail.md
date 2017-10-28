@@ -10,7 +10,7 @@ The other week I was looking at how Windows generates the old 8.3 style names fr
 
 
 
-[<img src="http://hashbang0.com/wp-content/uploads/2011/05/MS-Doh2.png" width="466" height="281" alt="This article applies to a different operating system than the one you are using. Article content that may not be relevant to you is disabled." class="size-full wp-image-1184 aligncenter" title="MS D&#39;oh!" />][2]
+[<img src="/wp-content/uploads/2011/05/MS-Doh2.png" width="466" height="281" alt="This article applies to a different operating system than the one you are using. Article content that may not be relevant to you is disabled." class="size-full wp-image-1184 aligncenter" title="MS D&#39;oh!" />][2]
 
 
 
@@ -21,4 +21,4 @@ On the one hand, I like how they've picked up that I'm not using a specific vers
 
 
   [1]: http://support.microsoft.com/kb/142982
-  [2]: http://hashbang0.com/wp-content/uploads/2011/05/MS-Doh2.png
+  [2]: /wp-content/uploads/2011/05/MS-Doh2.png

@@ -24,4 +24,4 @@ Monday me and Faye spent the day together, wandering out into town and having a 
 
 It was a great week, I loved spending all that time with Faye :)
 
-  [1]: http://hashbang0.com/2008/10/31/opensolaris-cs101/
+  [1]: /2008/10/31/opensolaris-cs101/

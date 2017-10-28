@@ -20,6 +20,6 @@ Below is a video (sans sound) which walks through the steps of installing AdBloc
 UPDATE:
 This doesn't seem to cure all problems, though it does solve some.
 
-  [1]: http://hashbang0.com/2011/02/09/oh-dear-facebook/
+  [1]: /2011/02/09/oh-dear-facebook/
   [2]: http://www.jonathanroscoe.com/
   [3]: https://chrome.google.com/webstore/detail/cfhdojbkjhnklbpkdaibdccddilifddb

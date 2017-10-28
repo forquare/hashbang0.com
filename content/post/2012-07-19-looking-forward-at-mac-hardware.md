@@ -21,5 +21,5 @@ I believe Apple are moving away from making computers, they have never liked too
 With that in mind, I expect that the Mac Mini, and probably the iMac will follow suit.  The MacMini will lose the swivel base and user upgradable RAM.  The hard drive will become flash storage which will be soldered onto the logic board for space saving reasons.  The same thing could happen with the iMac. 
 While this would severely reduce user customisation, if Apple pitch upgrades at the right price, I don't think it will be an issue.  People have lapped up the MacBook Air, and people will do the same with the new Retina MacBook Pro.
 
-  [1]: http://hashbang0.com/2012/07/07/wwdc-2012/ "WWDC 2012"
+  [1]: /2012/07/07/wwdc-2012/ "WWDC 2012"
   [2]: http://www.apple.com/uk/macbook-pro/specs/
