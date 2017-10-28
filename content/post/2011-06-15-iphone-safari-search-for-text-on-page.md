@@ -15,7 +15,7 @@ It is, in fact, really easy.  Go to the page you want to search on, then click 
  
 Click on matched text and you're given this view: 
  
-[<img src="/wp-content/uploads/2011/05/photo-2-200x300.png" width="200" height="300" title="Text found 1" />][2] [<img src="http://hashbang0.com/wp-content/uploads/2011/05/photo-3-200x300.png" width="200" height="300" title="Text found 2" />][3] 
+[<img src="/wp-content/uploads/2011/05/photo-2-200x300.png" width="200" height="300" title="Text found 1" />][2] [<img src="/wp-content/uploads/2011/05/photo-3-200x300.png" width="200" height="300" title="Text found 2" />][3] 
  
 Simply click the "Next" button until you find the text you're after!
 
