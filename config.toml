@@ -16,7 +16,7 @@ theme = "rehyde-x"
 [params]
 	truncate = false
 	theme = "theme-base-0b"
-	highlight = "sunburst"
+	highlight = "solarized-light"
 	home = "Home"
 #	
 	github = "https://github.com/forquare/"
