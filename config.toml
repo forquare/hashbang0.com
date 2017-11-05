@@ -27,6 +27,8 @@ theme = "rehyde-x"
 	email = "ben.lavery@hashbang0.com"
 #
 	rss = true
+#
+	fullWidth = true
 
 [params.social]
       iconSize = "2x"
@@ -37,6 +39,7 @@ theme = "rehyde-x"
 	identifier = "pgp"
 	url = "/pgp/"
 
+## For related content - not currently working
 [related]
 	threshold = 80
 	includeNewer = false
