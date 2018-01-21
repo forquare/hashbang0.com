@@ -15,7 +15,7 @@ theme = "rehyde-x"
 
 [params]
 	truncate = false
-	codeTheme = "theme-base-0b"
+	colorTheme = "theme-base-0b"
 	highlight = "solarized-light"
 	home = "Home"
 #	
