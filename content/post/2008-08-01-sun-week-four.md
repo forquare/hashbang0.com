@@ -1,6 +1,6 @@
 +++
 date = "2008-08-01T11:25:11"
-title = "Sun -Week Four"
+title = "Sun - Week Four"
 tags = ["jlt","moat","nigel hardy","photos","post-booking","sparc","spark","Sun","work"]
 categories = ["Sun"]
 +++

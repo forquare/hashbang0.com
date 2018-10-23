@@ -7,7 +7,7 @@ categories = ["Linux","Bash/Shell"]
 
 At work I deploy Red Hat Enterprise Linux VMs, for a variety of reasons, mostly by hand. 
  
-One of the steps I loath is setting up the network, it’s almost the only thing that truly requires manually tapping each character out. I have, however, learnt this bash one-liner such that I type it out without thinking: 
+One of the steps I loath is setting up the network, it's almost the only thing that truly requires manually tapping each character out. I have, however, learnt this bash one-liner such that I type it out without thinking: 
  
 {{% gist forquare 790518779e0577051aaa %}}
  
