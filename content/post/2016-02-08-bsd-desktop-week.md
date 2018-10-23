@@ -26,7 +26,7 @@ But for general desktopy stuff, it worked really nicely.  I happily did email, 
  
 In the middle of the week, I found a really beautiful email client that is still in development called [N1][11].  I downloaded the source and attempted to compile, but no luck.  Having [opened a ticket][12], the developers are making an attempt to make sure this works on FreeBSD as well as the other supported systems—which I think is awesome of them! 
  
-Next year I think I’ll start promoting earlier, and perhaps try to draw in some support from other BSD users.
+Next year I think I'll start promoting earlier, and perhaps try to draw in some support from other BSD users.
 
   [1]: https://twitter.com/hashtag/BSDdesktopWeek?src=hash
   [2]: http://freebsd.org

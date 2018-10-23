@@ -5,7 +5,7 @@ tags = ["console","freebsd","os x","Raspberry Pi","Serial","GPIO","UART","USB"]
 categories = ["Hardware","Mac OS","FreeBSD","Raspberry Pi"]
 +++
 
-I play with my Raspberry Pi so rarely that I forget how to use my [CP2102 serial converter][1] to connect from my iMac or FreeBSD laptop to the Raspberry Pi, so I thought I’d write a blog post and then I’d have an easy place to go back to remember how... 
+I play with my Raspberry Pi so rarely that I forget how to use my [CP2102 serial converter][1] to connect from my iMac or FreeBSD laptop to the Raspberry Pi, so I thought I'd write a blog post and then I'd have an easy place to go back to remember how... 
 
 
 ## Connecting the cables
@@ -25,7 +25,7 @@ I play with my Raspberry Pi so rarely that I forget how to use my [CP2102 serial
 5. Open up Terminal.app and type: 
 	screen -fn /dev/cu.SLAB_USBtoUART 115200 
 The _fn_ flag disables flow-control 
-And you’re done! 
+And you're done! 
 
 
 ## On FreeBSD
@@ -42,7 +42,7 @@ And you’re done!
 	cu -l /dev/ttyU0 -s 115200
  
  
-And you’re done!
+And you're done!
 
   [1]: http://www.amazon.co.uk/gp/product/B00AFRXKFU
   [2]: /wp-content/uploads/2015/12/Raspberry-Pi-USB-UART-Cabling.png
