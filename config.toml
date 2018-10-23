@@ -15,6 +15,7 @@ theme = "rehyde-x"
 
 [taxonomies]
 	category = "categories"
+	tag = "tags"
 
 [params]
 	truncate = false
