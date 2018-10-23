@@ -26,6 +26,6 @@ This list should have started all of the necessary NIS services.  Setting up th
 6. Run ypinit -c and name the NIS master server
 7. Start NIS client service with svcadm enable nis/client
 However, this didn't work.  I tried using host names and IP addresses to identify the NIS master when ypinit asked me to specify it, but it wouldn't work.
-As a work around I found that if you don't specify a master server at all, ypbind will use the -broadcast option and find the master automatically.  Using the method above and staerting ypbind -broadcast myself didn't seem to work.
+As a work around I found that if you don't specify a master server at all, ypbind will use the -broadcast option and find the master automatically.  Using the method above and starting ypbind -broadcast myself didn't seem to work.
 
 This all works on OpenSolaris 2009.06

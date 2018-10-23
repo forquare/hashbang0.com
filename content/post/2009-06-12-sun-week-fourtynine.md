@@ -1,6 +1,6 @@
 +++
 date = "2009-06-12T12:31:59"
-title = "Sun – Week Fourtynine"
+title = "Sun – Week Forty-nine"
 tags = []
 categories = ["Sun"]
 +++

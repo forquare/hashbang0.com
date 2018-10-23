@@ -20,6 +20,6 @@ admin@beleg-ia:~$ time-slider-setup
 
 I was then presented with the screen on the left
 
-As you can see, you can just tick the box saying "enable time slider" and the choose to snapshot all filesystems or select what filesystems you do want to snapshot.
+As you can see, you can just tick the box saying "enable time slider" and the choose to snapshot all file systems or select what file systems you do want to snapshot.
 
   [1]: http://i9.photobucket.com/albums/a55/forquare/blog/Picture1-2.png

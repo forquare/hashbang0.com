@@ -15,6 +15,6 @@ Steve's keynote speeches were always brilliant, it was these speeches that made 
  
 I will miss that we will no longer have the chance of seeing him at Apple events, on stage or in the crowd.  There will be no more reports of his one word responses to the pleads of customers/developers. 
  
-My thoughts go to his family, both at home and at Apple.  Goodbye, steve.
+My thoughts go to his family, both at home and at Apple.  Goodbye, Steve.
 
   [1]: http://www.apple.com/stevejobs/

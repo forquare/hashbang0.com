@@ -7,7 +7,7 @@ categories = ["Mac Hardware"]
 
 Last month at WWDC, Apple announced a new MacBook: The MacBook Pro with Retina display.  Specs can be found in my [WWDC 2012 post][1] or on the [Apple Specs][2] page.  But what could we broadly expect Apple's behaviour on future Mac hardware design to be? 
  
-Until recently, Apple's portable range have been mostly like other laptops.  Open them up by unscrewing screws and unclipping plastic clips.  Inside you'd find the battery, hard drive, optical drive, and logic board.  You could reasonably identify the CPU and RAM too.  This is true of the old PowerBooks and iBooks, as well as the white MacBooks and MacBook Pros. 
+Until recently, Apple's portable range have been mostly like other laptops.  Open them up by unscrewing screws and unclasping plastic clips.  Inside you'd find the battery, hard drive, optical drive, and logic board.  You could reasonably identify the CPU and RAM too.  This is true of the old PowerBooks and iBooks, as well as the white MacBooks and MacBook Pros. 
 Apple's desktop range was similar.  The Power Mac/Mac Pro are tower computers where you can see everything that most other computers have.  Even the Mac Mini looks familiar inside. 
  
 Nowadays Apple hardware is somewhat different.  Trying to get inside it is the first hurdle.  I guess it really started with the iPod, a device that was not a computer, merely an MP3 player.  The most obvious first example, though, was the MacBook Air. 

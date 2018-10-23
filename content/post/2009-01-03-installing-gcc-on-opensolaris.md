@@ -5,7 +5,7 @@ tags = ["gcc","gmake","SUNWgcc","svn"]
 categories = ["beleg-iâ","OpenSolaris"]
 +++
 
-Ok, I know I've blogged this before, but this is about doing it via the command line:
+OK, I know I've blogged this before, but this is about doing it via the command line:
 
 I installed everything as root...
 # pkg install SUNWgcc

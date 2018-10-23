@@ -5,7 +5,7 @@ tags = ["Aberration","faye","London","mobile internet","paddington","proud centr
 categories = ["General","Musings","Internet"]
 +++
 
-I've spent my Easter weekend in London with [Faye][1]. She has a exhibition at the [Proud Central Gallery][2] (Open for the next two weeks!). I traveled from Aberystwyth to Faye's home in Carmarthen on Friday, then from Carmarthen to Cardiff by car on Saturday, then Cardiff to London on the MegaBus. Saturday was the opening, and it went very well indeed!
+I've spent my Easter weekend in London with [Faye][1]. She has a exhibition at the [Proud Central Gallery][2] (Open for the next two weeks!). I travelled from Aberystwyth to Faye's home in Carmarthen on Friday, then from Carmarthen to Cardiff by car on Saturday, then Cardiff to London on the MegaBus. Saturday was the opening, and it went very well indeed!
 
 I spent Sunday in London too, walking around shops and generally seeing the London sites. I still marvel at the London Underground, I think it is an awesome service, I love it!
 I'm also marvelling at the state of modern technology. I love that I can hook my phone up to my laptop for internet use, which is what I'm doing at the moment, whinging my way down some train tracks out of London Paddington while writing this blog post. I think its brilliant!

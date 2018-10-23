@@ -7,7 +7,7 @@ categories = ["Apple","Mac OS"]
 
 I love the Mac App Store.  Opening back in January, all Mac users running OS X 10.6.6 or higher have had the chance to play with the store.
 
-I've bought a fair amount from the Store, inclusing:
+I've bought a fair amount from the Store, including:
 
 
 

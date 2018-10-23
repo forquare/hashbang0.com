@@ -30,14 +30,14 @@ The board, similar to an interactive whiteboard today, allowing many people to i
 The pad, a smaller more personal board, one could use a tab to drive a board. Pads ran on workstations with forwarded graphics.
 Today's iPad, in my mind, fulfils pretty much what the Xerox PARC Pad tried to accomplish almost two decades ago. The iPhone/iPod Touch is similar to the tab.
 
-The iPad's hardware is something to marvle at. Whatever Apple have in there it's super power efficient as Apple claim the iPad will last for ten hours on a single battery charge, and it all squeezes into an incredibly thin package.
+The iPad's hardware is something to marvel at. Whatever Apple have in there it's super power efficient as Apple claim the iPad will last for ten hours on a single battery charge, and it all squeezes into an incredibly thin package.
 The tablet is powered by a 1GHz Apple A4 chip. The A4 chip is a CPU and GPU all on one chip. I'm guessing the added bonus of having this combination is perhaps less power consumption and added room in a cramped space. I can see the next-gen iPhone having an Apple chip. The A4 drives all of the applications and the 9.7" screen which runs at a 1024x768 resolution.
 The three capacities given are 16GB, 32GB and 64GB, each costs $100 more than the previous.
 Apart from that, I think it will be interesting to see the first break-apart.
 
 Pricing isn't too bad. The 16GB model is $499 as of 31/1/10 that's £312.79! Perhaps Apple will up this to £350, though I fancy that they'll charge around £400 for it.
 
-I'd like to see how the iPad is recieved when it is released. I'm also looking forward to seeing the second and third generation iPads.
+I'd like to see how the iPad is received when it is released. I'm also looking forward to seeing the second and third generation iPads.
 
   [1]: http://www.apple.com/uk/ipad/
   [2]: /wp-content/uploads/2010/07/ipads.jpg

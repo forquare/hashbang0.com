@@ -18,7 +18,7 @@ Now, back in 2010 I used the phrase "Virtual Application Environments".  Today
 > a **sandbox** is a security mechanism for separating running programs. 
 My diss somewhat successfully implemented sandboxed applications, but these apps had access to the whole of the current users home directory, so obviously didn't implement the second part of the idea... 
  
-What is interesting is that this is sort of how the iPhone works, in so much as there are documents, photos, movies, music, and the user only really sees these through specific apps - so the Photo app doesn't view documents, and the iTunes app doesn't view photos, etc...And now a similar thing is happening on the MAc with the Mac App Store. 
+What is interesting is that this is sort of how the iPhone works, in so much as there are documents, photos, movies, music, and the user only really sees these through specific apps - so the Photo app doesn't view documents, and the iTunes app doesn't view photos, etc...And now a similar thing is happening on the Mac with the Mac App Store. 
  
 A short while after I had this idea in Starbucks, I began to think about how users could use a thin client (like a Sun Ray) and access sandboxed apps, running inside virtualised machines, running a variety of operating systems, all being able to access segregated file systems for different file types. 
  

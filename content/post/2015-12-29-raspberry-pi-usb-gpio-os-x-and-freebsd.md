@@ -18,7 +18,7 @@ I play with my Raspberry Pi so rarely that I forget how to use my [CP2102 serial
 
 
 
-1. Aquire a [CP2102 serial converter][3]
+1. Acquire a [CP2102 serial converter][3]
 2. Download the driver ([direct link to zip file][4])
 3. Reboot
 4. Attach Raspberry Pi using a **USB 2.0 or older** port (_not USB 3_)
@@ -32,7 +32,7 @@ And you’re done!
 
 
 
-1. Aquire a [CP2102 serial converter][5]
+1. Acquire a [CP2102 serial converter][5]
 2. Load uslcom.ko—either add it to _loader.conf_, compile it into the kernel, or as root do: 
 	kldload uslcom.ko
  

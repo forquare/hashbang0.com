@@ -1,11 +1,11 @@
 +++
 date = "2008-11-28T15:40:37"
-title = "Sun - Week Twentyone"
+title = "Sun - Week Twenty-one"
 tags = ["SCSI TOI","SMF course"]
 categories = ["Sun"]
 +++
 
-Monday morning started with us meeting several of our oversea's friends. Anthony from Singapore, Micheal from Germany and Tim from America. And we had a TOI about SCSI given by James MacFarlane.
+Monday morning started with us meeting several of our overseas friends. Anthony from Singapore, Micheal from Germany and Tim from America. And we had a TOI about SCSI given by James MacFarlane.
 
 Tuesday me and Michael set up some new boxes, and did some other menial tasks.
 

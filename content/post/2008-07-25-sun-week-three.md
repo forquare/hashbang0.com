@@ -5,7 +5,7 @@ tags = ["serengeti","sunfire"]
 categories = ["Sun"]
 +++
 
-This last week I have been on yet another training course! This week is was to look at the SunFire midrange servers, a.k.a. The Serengeti range
+This last week I have been on yet another training course! This week is was to look at the SunFire mid-range servers, a.k.a. The Serengeti range
 The serengetis are the [3800][1], [4800][2] and the [6800,][3] with a couple or variations.
 
 We looked at how to administer them and service them basically.

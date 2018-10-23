@@ -7,7 +7,7 @@ categories = ["Mac Hardware"]
 
 [<img src="http://i9.photobucket.com/albums/a55/forquare/Macbook/n309601224_925588_4200.jpg" width="182" height="137" class="alignright" style="border: 0; float: right" />][1]
 
-Just over a week agao I found that my Macbook wasn't charging, but the charger was plugged in and on. I inspected the cable and found that it had melted just outside of the transformer!
+Just over a week ago I found that my MacBook wasn't charging, but the charger was plugged in and on. I inspected the cable and found that it had melted just outside of the transformer!
 
 I temporarily fixed it with some blue insulation tape, but today, it failed all together :(
 
@@ -18,7 +18,7 @@ Prior to the work, I spent about an hour trawling the internet for a how-to, cou
 
 [<img src="http://i9.photobucket.com/albums/a55/forquare/Macbook/n309601224_925589_6180.jpg" width="138" height="103" class="alignleft" style="float: left; border: 0" />][2][<img src="http://i9.photobucket.com/albums/a55/forquare/Macbook/n309601224_925591_440.jpg" width="124" height="98" class="alignright" style="float: right; border: 0" />][3][<img src="http://i9.photobucket.com/albums/a55/forquare/Macbook/n309601224_925590_8382.jpg" width="132" height="99" class="alignright" style="float: right; border: 0" />][4]My burnt area was right up close to the transformer, so I needed to get in to sort out this problem. First, I cut the wire close to the transformer, so the magsafe adaptor is connected to the wire and burnt/damaged wire. [<img src="http://i9.photobucket.com/albums/a55/forquare/Macbook/n309601224_925592_2872.jpg" width="89" height="65" class="alignright" style="float: right; border: 0" />][5]I then set about forcing off the little clips the pop out enabling you to wrap up the cable. I couldn't find a way of preserving these, so they were snapped off. Also, snap out the little metal clip which makes them springy.
 
-After this, I needed to break into the casing. This is hard as it seems to be one, moulded unit. So I forced the rubbery flex protector where the little stub of cable clinged and managed to fish out the rubber material. I then had several holes into the case. To get the case open 'simply' take a screw driver and a hammer (that can't be good?), then chisel away at the plastic in the gap. After about two hours, you should have chipped through the casing. Well done! You will hear cracking as you chip away. Don't be worried!
+After this, I needed to break into the casing. This is hard as it seems to be one, moulded unit. So I forced the rubbery flex protector where the little stub of cable clung and managed to fish out the rubber material. I then had several holes into the case. To get the case open 'simply' take a screw driver and a hammer (that can't be good?), then chisel away at the plastic in the gap. After about two hours, you should have chipped through the casing. Well done! You will hear cracking as you chip away. Don't be worried!
 
 [<img src="http://i9.photobucket.com/albums/a55/forquare/Macbook/n309601224_925594_4209.jpg" width="161" height="120" class="alignleft" style="float: left; border: 0" />][6]
 

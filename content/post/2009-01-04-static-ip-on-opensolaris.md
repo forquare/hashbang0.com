@@ -29,7 +29,7 @@ Add your new IP and hostname into /etc/hosts following the same format as alread
 
 svcadm enable network/physical:default
 
-The add just the ip address of your default router to /etc/defaultrouter
+The add just the IP address of your default router to /etc/defaultrouter
 
 svcadm restart network/routing-setup
 

@@ -1,6 +1,6 @@
 +++
 date = "2009-03-06T19:34:25"
-title = "Sun - Week Thirtyfive"
+title = "Sun - Week Thirty-five"
 tags = ["bug","cr","IP","suse linux","ups"]
 categories = ["Sun"]
 +++

@@ -9,7 +9,7 @@ On the UNIX command line, the \`which\` command is great, it tells you where a c
  
 {{% gist forquare f4385bbb488f63ef7353 %}}
  
-It's nice and straighforward, nothing complicated about it at all.  In fact, to let everyone on your system use it, you could just stick "#!/bin/sh" at the top and stick in a file in /usr/bin ! 
+It's nice and straightforward, nothing complicated about it at all.  In fact, to let everyone on your system use it, you could just stick "#!/bin/sh" at the top and stick in a file in /usr/bin ! 
  
 Today, I wanted to find a man page, the sysidcfg man page to be precise.  Instead of doing the usual trick (\`find / | grep sysidcfg"), I thought I'd modify \`whence\` to look for it for me, and seeing as it's no longer \`whence\`, I called it \`whenceman\`: 
  

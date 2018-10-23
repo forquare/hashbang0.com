@@ -1,6 +1,6 @@
 +++
 date = "2008-12-05T15:45:33"
-title = "Sun - Week Twentytwo"
+title = "Sun - Week Twenty-two"
 tags = ["jumpstart","LX50","Machynlleth"]
 categories = ["Sun"]
 +++

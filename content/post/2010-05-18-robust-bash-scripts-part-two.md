@@ -24,7 +24,7 @@ exit 1
 fi
 #start setting up naming service 
  
-Although this is fine, what happends if you forget to add it?  Or assume that the network will always be set up so decide not to add it?  If the network doesn't get setup, you'll be in a bit of a pickle! 
+Although this is fine, what happens if you forget to add it?  Or assume that the network will always be set up so decide not to add it?  If the network doesn't get setup, you'll be in a bit of a pickle! 
  
 Bash provides its own, built-in, error checking for you in the form of the "errexit" option, or "set -e".  If a command fails in a script with this option enabled, the script will automatically stop with an error code 1. 
  

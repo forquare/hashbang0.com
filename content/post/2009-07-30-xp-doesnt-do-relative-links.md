@@ -5,7 +5,7 @@ tags = ["relative links","unix","UNIX is easy","windows","xp"]
 categories = ["Rants"]
 +++
 
-At work I've got a situation where I want to store a load of files in a central location, and then scatter links accross the rest of the file system (for reasons best not explained here).  The file system will be picked up and moved at some point, and indeed everybody accesses this file system through different addresses, so a relative link is exactly what I wanted. 
+At work I've got a situation where I want to store a load of files in a central location, and then scatter links across the rest of the file system (for reasons best not explained here).  The file system will be picked up and moved at some point, and indeed everybody accesses this file system through different addresses, so a relative link is exactly what I wanted. 
 Under UNIX, I'd do something like this: 
 	$ pwd
 /var/tmp/test
@@ -28,7 +28,7 @@ And:
 set objShell = CreateObject("Shell.Application") 
 objShell.ShellExecute "..foobar.xls", "", "", "open", 1 
 set objShell = nothing` 
-I was very dissapointed ,and now we have to settle with duplicating files to achieve the same thing (the work arounds didn't work on our system). 
+I was very disappointed ,and now we have to settle with duplicating files to achieve the same thing (the work arounds didn't work on our system). 
  
 \*taken from the W3C page, [here][1]
 

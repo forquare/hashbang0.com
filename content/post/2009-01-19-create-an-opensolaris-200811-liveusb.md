@@ -7,9 +7,9 @@ categories = ["OpenSolaris"]
 
 T'other day I won an IBM X32 on eBay (more on that tomorrow).  I want to install OpenSolaris on the laptop, but it doesn't have an optical drive...
 
-I set about looking for a solution.  Unfortunatly, Googling around didn't throw up anything to begin with :(  So I thought I'd record my steps as a walkthru.
+I set about looking for a solution.  Unfortunately, Googling around didn't throw up anything to begin with :(  So I thought I'd record my steps as a walkthrough.
 
-First of all, I installed the distributon constructor:
+First of all, I installed the distribution constructor:
 
 `# pkg install SUNWdistro-const`
 

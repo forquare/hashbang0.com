@@ -6,7 +6,7 @@ categories =  ["computing", "web"]
 author = "Ben Lavery-Griffiths"
 +++
 
-Often when I'm away from home I leave my iMac on incase I need to grab anything from it remotely, plus it's ready to go when I get home.  Usually I access it using SSH, via a Raspberry Pi:
+Often when I'm away from home I leave my iMac on in case I need to grab anything from it remotely, plus it's ready to go when I get home.  Usually I access it using SSH, via a Raspberry Pi:
 
     +-----------+              +---------------+
     | Internet  +--------------> Raspberry Pi  |

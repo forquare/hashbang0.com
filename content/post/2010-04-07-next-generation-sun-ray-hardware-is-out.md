@@ -24,4 +24,4 @@ The fibre connectors are nothing new, they were present on the old Sun Ray 2FS a
 
 The only negative thing I have to say about this new hardware is that it takes up around 10W more than it's predecessor.
 
-I like the fact that Oracle have released this, it shows that they are committed (at least in the immediate future) to Sun Ray and the Sun Ray software.  I'd love to see one of these things, they should really help push Sun Rays into the workplace as a very viable alternative to those lumps of metal on everyones desks!
+I like the fact that Oracle have released this, it shows that they are committed (at least in the immediate future) to Sun Ray and the Sun Ray software.  I'd love to see one of these things, they should really help push Sun Rays into the workplace as a very viable alternative to those lumps of metal on everyone's desks!

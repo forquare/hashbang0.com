@@ -8,7 +8,7 @@ categories = ["Apple","Musings","Internet"]
 At home I use an iMac.  When I'm away from my desk I use an iPhone 6.  At work, I'm forced to deal with Windows (though use Linux/BSD VMs where possible). 
  
 I have a lot of software on my Mac, a number of apps are “document based” though manage those document internally.  Some of these apps talk really nicely across many of the platforms I use (e.g. [Evernote][1]), other software works incredibly well within the Apple ecosystem (e.g. [OmniFocus][2]).   
-Lots of the software I use is “document based” in the real sense of the term, you click “save” and it spurts out a document that resides on your filesystem and these can be accessed on multiple platforms with various syncing services (e.g. [ownCloud][3], or [Dropbox][4]). 
+Lots of the software I use is “document based” in the real sense of the term, you click “save” and it spurts out a document that resides on your file system and these can be accessed on multiple platforms with various syncing services (e.g. [ownCloud][3], or [Dropbox][4]). 
 Then there is iWork.  The trio of apps can save a file to your desktop, or shove it in iCloud.  It works really well on OS X, and on iOS, and a host of other platforms thanks to [iCloud.com][5]. 
  
 In 2013, Apple release iWork for iCloud beta.  Users with supported browsers (officially Safari 6.0.3+, IE 9.0.8+, Chrome 27.0.1+) on (I presume) any platform can get access to _any_ of their iWork documents which live in iCloud.  How cool is that!?  So now I can have a look over my budget on my work computer while trying to sort out car insurance in my lunch hour, or give a presentation put together on my Mac on someone else Linux workstation. 

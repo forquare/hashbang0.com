@@ -13,7 +13,7 @@ Exciting new features include:
 
 * [Project Crossbo][2]w - Virtualise your network
 * Firefox 3.1 (Beta 3)
-* [Elisa][3] - Free media center
+* [Elisa][3] - Free media centre
 * Plus better hardware support and more!
 If you are using the development repositories, start reaping the benefits of 2010.02 in the next few weeks!
 

@@ -1,6 +1,6 @@
 +++
 date = "2009-03-13T19:41:50"
-title = "Sun - Week Thirtysix"
+title = "Sun - Week Thirty-six"
 tags = ["J4200","ldom","SunBlade 2000","virtual lab","virtualbox"]
 categories = ["Sun"]
 +++

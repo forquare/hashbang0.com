@@ -1,6 +1,6 @@
 +++
 date = "2009-02-27T20:26:56"
-title = "Sun - Week Thirtyfour"
+title = "Sun - Week Thirty-four"
 tags = ["script","sql","SunBlade 2000"]
 categories = ["Sun"]
 +++

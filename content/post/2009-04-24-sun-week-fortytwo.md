@@ -1,6 +1,6 @@
 +++
 date = "2009-04-24T19:45:16"
-title = "Sun - Week Fortytwo"
+title = "Sun - Week Forty-two"
 tags = ["G3","Oracle","Sun","SunBlade 2000","x404","x404.co.uk"]
 categories = ["Sun"]
 +++
@@ -11,7 +11,7 @@ Monday morning begins with Alex coming in to the office, I start looking at a [S
 Feeling a little weird, we went off to lunch to come back to a meeting that afternoon. The meeting was the usual Monday afternoon affair, however, we all knew one note on the agenda was Oracle. Paul doesn't know any more than we do, and confirmed that. After the meeting we tidied the lab as we have two student interviews and some guests coming for lab tours over the next few days.
 
 Tuesday starts with me looking more into this SunBlade 2000, I debate with Paul as to whether we should sacrifice a lab box and just get this machine up and running. He agrees and I set about finding another box, thankfully there is one over in GMP02 lab. Since I was going over there, I took Alex with me to look at a problem, it would appear a PSU is playing up on one of the machines over there. I was sure that the power lead had been pulled out from PSU0, I was correct and plugged it back in...I recovered the SunBlade 2000 and took it over the GMP03 lab.
-The afternoon for dominated with a call by one of the [executives][5]. He wasn't letting anything out the bag, it was basically a Q&amp;A session, but he kept telling us he couldn't answer this question, or that he couldn't comment on rumors...It wasn't so bad, someone had used the meeting room before us and ordered food from the canteen...We had platefuls of sandwiches and loads of things on sticks and baguette...
+The afternoon for dominated with a call by one of the [executives][5]. He wasn't letting anything out the bag, it was basically a Q&amp;A session, but he kept telling us he couldn't answer this question, or that he couldn't comment on rumours...It wasn't so bad, someone had used the meeting room before us and ordered food from the canteen...We had platefuls of sandwiches and loads of things on sticks and baguette...
 
 Wednesday was spent fixing up that SunBlade 2000, I took various bits from the old box, popped them in the new box and it seemed to work, this, however, took most of the morning...It wasn't an easy task trying to troubleshoot some of the problems.
 I spent the afternoon with Alex looking at JLT and jump starting machines.

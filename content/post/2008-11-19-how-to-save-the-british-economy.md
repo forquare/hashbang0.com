@@ -6,7 +6,7 @@ categories = ["General"]
 +++
 
 How do we save our falling economy? Well, it would appear the answer has arisen in the popular BBC quiz show QI. On Friday 14th November 2008, QI did a Children in Need special.
-The topic was on the Eaurovision song contest, and how countries such as France complain about us, yet use our language to sing their songs.
+The topic was on the EuroVision song contest, and how countries such as France complain about us, yet use our language to sing their songs.
 Ronni Ancona said (at somewhere around 19 minutes in), that we should tax other countries for using English.
 
 What a ruddy good idea! Tax countries for using our language which we have shrived to create. Can you imagine how much America could owe us!
