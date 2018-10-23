@@ -1,6 +1,6 @@
 +++
 date = "2008-12-12T16:40:31"
-title = "Sun - Week Twentythree"
+title = "Sun - Week Twenty-three"
 tags = ["etherlite","LX50","Solaris 9","Sun Ray","v20z"]
 categories = ["Sun"]
 +++

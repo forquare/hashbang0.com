@@ -15,7 +15,7 @@ The other week I was looking at how Windows generates the old 8.3 style names fr
 
 
 
-On the one hand, I like how they've picked up that I'm not using a specific version of Windows.  On the other hand I can still see the whole document where none of it is relevant, sp they haven't disabled anything...
+On the one hand, I like how they've picked up that I'm not using a specific version of Windows.  On the other hand I can still see the whole document where none of it is relevant, so they haven't disabled anything...
 
 
 

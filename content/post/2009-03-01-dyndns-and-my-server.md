@@ -7,7 +7,7 @@ categories = ["beleg-iâ","OpenSolaris"]
 
 I meant to blog this ages ago, and have only just remembered about it!
 
-I wanted a way for me to access my server when I wasn't on the local network.  A friend pointed me to [DynDNS][1], this will give you a domain name (e.g. myname.something.com) which you can update to point to your IP.  However, you need a method for updating the DNS entry, this is needed because everytime I switch off my modem and turn it back on, Tiscali give me a new IP.
+I wanted a way for me to access my server when I wasn't on the local network.  A friend pointed me to [DynDNS][1], this will give you a domain name (e.g. myname.something.com) which you can update to point to your IP.  However, you need a method for updating the DNS entry, this is needed because every time I switch off my modem and turn it back on, Tiscali give me a new IP.
 
 So, my OpenSolaris box will need to update DynDNS.
 DynDNS have a couple of scripts for doing this, and how to install/run them.  [Clicky][2].  I chose to use inadyn ([here][3]).

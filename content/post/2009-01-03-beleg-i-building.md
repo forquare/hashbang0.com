@@ -13,11 +13,11 @@ So this is my new case:
 
 It's a nice size, you can see the six brackets for hard drives in the bottom-left of the second picture, just up from those is a seventh bracket, above that there are three spaces for DVD/CD drives or for fan controls etc.
 
-I first fitted the psu, a 380W Antex recommended to me due to it's 80%+ efficiency rating.
+I first fitted the PSU, a 380W Antex recommended to me due to it's 80%+ efficiency rating.
 
 [<img src="http://i9.photobucket.com/albums/a55/forquare/server/XL803232.jpg" width="250" height="186" class="alignnone" title="Chassis with psu" />][3]
 
-Next came the motherboard and hard drives, look how dwarfed whis Micro-ATX board looks in this case!
+Next came the motherboard and hard drives, look how dwarfed this Micro-ATX board looks in this case!
 
 [<img src="http://i9.photobucket.com/albums/a55/forquare/server/XL803233.jpg" width="250" height="187" class="alignnone" title="Chassis with board" />][4][ <img src="http://i9.photobucket.com/albums/a55/forquare/server/XL803235.jpg" width="250" height="187" class="alignnone" title="chassis with hdd" />][5]
 

@@ -1,6 +1,6 @@
 +++
 date = "2009-04-17T12:50:11"
-title = "Sun Week Fortyone"
+title = "Sun Week Forty-one"
 tags = ["15k","Java email","NIS+","Solaris zones","SunBlade 2000","Ultra 80","vi"]
 categories = ["Sun","Java"]
 +++
@@ -22,10 +22,10 @@ I also got a new email from the guy who I'm doing this programming for.
 FRIDAY! Not a moment too soon either!
 OK, so I've listened to what Rob said in the comments from [last weeks entry][5] and started to re-plan things, plus sent an email to the guy I was doing the work for. He came back saying that he would prefer to stay as we were, with one stored procedure which gathers booking numbers based on some simple input and then punts the booking number to a Java application. So I've been working at undoing my changes this morning (note to all: don't do something then tell someone your thinking about doing it for fear they'll say no).
 I've gone away from university teachings in as much that I'm not bothering with reading in files by setting up a file and setting up a stream buffer, etc, instead I'm using the UNIX cat command, which works quite nicely :D
-It's currently lunchtime and I'm looking at publishing the blog now I think, I came back early as my yoghurt had separated and was all icky :( My plan for this afternoon is to finish off my email class which will send the emails and perfect the stored procedures.
+It's currently lunchtime and I'm looking at publishing the blog now I think, I came back early as my yogurt had separated and was all icky :( My plan for this afternoon is to finish off my email class which will send the emails and perfect the stored procedures.
 I'll update this later to say how I got on...
 
-:wq
+:Q
 
 \*note to self, Wordpress does not except Vim key bindings - FAIL!\*
 

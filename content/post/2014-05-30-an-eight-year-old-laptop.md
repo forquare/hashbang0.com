@@ -22,7 +22,7 @@ The third point - which is what made me justify it at the time - was that I woul
 ## The problems I've had
 
 
-Overheating (~6 months in) - a fault with the original design (or so I was told) was that one of the heat sensor wires based too close to the CPU.  When the CPU warmed up enough, it could melt the wire, this could trigger the logic board to think it was overheating and just shut everything down.  With advice from an Apple Retailer and certified engineer, I was able to get a little fix done for free under warranty, which was good as the logic boards weren't available un the UK yet. 
+Overheating (~6 months in) - a fault with the original design (or so I was told) was that one of the heat sensor wires based too close to the CPU.  When the CPU warmed up enough, it could melt the wire, this could trigger the logic board to think it was overheating and just shut everything down.  With advice from an Apple Retailer and certified engineer, I was able to get a little fix done for free under warranty, which was good as the logic boards weren't available in the UK yet. 
  
 Dead hard drive (~18months in) - a horribly inevitable situation, though I didn't think it would strike this soon.  Apple eventually [noted that there was a problem][2], but it was after I had fixed it myself, at a cost of £80. 
  
@@ -30,7 +30,7 @@ Dead hard drive (~18months in) - a horribly inevitable situation, though I didn'
  
 Overheating (~5 years in) - Simple problem, the fan died, and this caused the MacBook to overheat.  The fan cost a couple of quid off eBay and it was down for only a couple of days. 
  
-Dead wifi (~7 years in) - I think due to excessive heat, the wifi chip died :(  Now I have to use an external WiFi dongle... 
+Dead WiFi (~7 years in) - I think due to excessive heat, the WiFi chip died :(  Now I have to use an external WiFi dongle... 
 [<img src="/wp-content/uploads/2014/05/2014-05-27-14.23.36-1024x768.jpg" width="700" height="525" class="aligncenter size-large wp-image-1445" />][4] 
  
 Obsolescence - Since 2011 I have been unable to update the OS past 10.6 (Snow Leopard) due to the 32-bit CPU.  For a long time this didn't hinder me, and it's only in the last year or two that I've come across some 64-bit only apps, or apps that rely on an OS newer than 10.6. 
@@ -40,7 +40,7 @@ Obsolescence - Since 2011 I have been unable to update the OS past 10.6 (Snow Le
 ## But despite all of this...
 
 
-It has been an awesome laptop.  Costing around £1000 over its lifetime (currently working out at about £125/year) I still use it most days, and not just for hopping around the web - just this past christmas I was firing up Windows 7 virtual machines with VirtualBox to get train logs analysed (which took some fairly serious number crunching).  The apps that I need to run do, and for features that are missing (e.g. bookmarks in iCloud) I use other services (e.g. XMarks). 
+It has been an awesome laptop.  Costing around £1000 over its lifetime (currently working out at about £125/year) I still use it most days, and not just for hopping around the web - just this past Christmas I was firing up Windows 7 virtual machines with VirtualBox to get train logs analysed (which took some fairly serious number crunching).  The apps that I need to run do, and for features that are missing (e.g. bookmarks in iCloud) I use other services (e.g. XMarks). 
  
 I had said to myself, eight years ago, that this laptop would have to last me seven years - the 'arbitrary' length of time an old-time Mac user told me a Mac would last - and it has outdone itself.  True it's not been without problems, but it is still here to tell the tales (unlike some other laptops, both cheaper and more expensive).  When the MacBook Pro with Retina display was announced, I longed for one and I still do, but due to the fact that these things aren't cheap, and this little fellow is trooping along, I can't really justify it now. 
  

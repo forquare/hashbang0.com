@@ -18,12 +18,12 @@ The [V65s][1] and the [LX50s][2] that I tried either didn't have rpower configur
 Wednesday morning was partially spent on yesterdays problem, but I was also asked to help set up an [X2200.][3]
 The afternoon was spent trying to install \*Windows\* onto that server :| It felt wrong and awful...
 
-Thursday starts with me continuing the install of Windows....Apparently it doesn't know how to do sata raid :roll: Oh well, out comes the floopy disk so I can load drivers on!
+Thursday starts with me continuing the install of Windows....Apparently it doesn't know how to do SATA raid :roll: Oh well, out comes the floppy disk so I can load drivers on!
 The afternoon was spent doing some tickets. One involved moving some firmware versions form one place to another and reorganising some of firmware files. I also got the chance to look at my [880,][4] which I'm using to try and practice LiveUpgrades. I'm currently learning about the JumpStart profiles..
 
 .[<img src="http://i9.photobucket.com/albums/a55/forquare/blog/Picture1-1.png" width="80" height="78" class="alignnone" title="Floppy!" />][5]
 
-Friday morning I spent installing the drivers for the Windows box that didn"t understand fibre cards. I then helped David and James set up some storage for the box.
+Friday morning I spent installing the drivers for the Windows box that didn't understand fibre cards. I then helped David and James set up some storage for the box.
 I then went over to GMP02 to receive a package, this contained some fan trays for an [880][6] in GMP02 , so I went upstairs to fix it. I forgot to check the console line, so shut the server down while the engineer was doing work on it...I apologised and quickly went to lunch,
 After a slightly elongated lunch I received another email from the engineer who was very good about the situation :)
 I then spent the afternoon playing with custom Jumpstarts with my [880\.][7] At the moment it's complaining about unexpected allocated inodes....Here is my profile, it's most probably wrong:

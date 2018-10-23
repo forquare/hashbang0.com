@@ -1,6 +1,6 @@
 +++
 date = "2009-01-23T18:27:22"
-title = "Sun - Week Twentynine"
+title = "Sun - Week Twenty-nine"
 tags = ["b445","BIOS","dumb terminal","SCSI/SAS","SVM","w1100z","x2200"]
 categories = ["Sun"]
 +++
@@ -19,7 +19,7 @@ Thursday I got a ticket from a guy who I had been helping over the last few days
 I was also asked to check some fibre connections in the lab, I replaced some cables and everything seemed OK.
 
 Friday came with me not sitting in my seat for very long at all. I retired an old stable box called 'pint', the owner no longer wanted it, so after pulling the entry from NIS+ and our booking system, I retired the box to the recycling pile.
-Two of the machines in the lab had been labeled incorrectly, or rather, they both had the same labels. I spent about half an hour tracing cables and looking at location lights to figure which one thought it was host A, and which one thought it was host D. I reprinted some labels and stuck the on the offending machine :wink:
+Two of the machines in the lab had been labelled incorrectly, or rather, they both had the same labels. I spent about half an hour tracing cables and looking at location lights to figure which one thought it was host A, and which one thought it was host D. I reprinted some labels and stuck the on the offending machine :wink:
 I had another ticked regarding some fibre connections, after replacing the cabling the engineer found the problem had gone.
 I had a ticket from [Lewis][2] asking to attach some storage to a couple of v445's this caused several problems due to the state of the machines when Lewis had picked them up, but these were rectified by several reboots and unplugging cables...
 

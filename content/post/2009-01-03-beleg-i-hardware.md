@@ -7,7 +7,7 @@ categories = ["beleg-iâ","Hardware"]
 
 I decided I really wanted to build a server running OpenSolaris with ZFS.  My main idea is to use it as a file server.
 
-So, for about a month now I was contemplating the hardware I should use.  After reading a few articals, which I have conveniently miss placed, I decided to opt for the following configuration:
+So, for about a month now I was contemplating the hardware I should use.  After reading a few articles, which I have conveniently miss placed, I decided to opt for the following configuration:
 
 CPU: Intel Core 2 Duo E7400.  Running at 2.8GHz, it uses Intel's 45nm architecture.
 Motherboard: Gigabyte GA-G31M-S2L.  Micro-ATX board with a max of 4GB RAM (2x2GB), four SATA drives and very little else.

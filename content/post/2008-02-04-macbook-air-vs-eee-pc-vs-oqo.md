@@ -10,7 +10,7 @@ The MacBook Air has had much said about it. Jobs claimed it was the thinnest not
 Lets start with the OQO machine. It is an ultra portable piece of kit, with a width of 1.4cm, height of 0.8cm, a depth of 0.25cm and sports a 12.7cm screen (5 inches), it even weighs less than 500g! It is shipped to you with the Windows Vista operating system, for such a small device one would expect a cut down version, however, it runs the Ultimate version of Microsoft's latest OS![<img src="http://i9.photobucket.com/albums/a55/forquare/blog/VIA_OQO.jpg" width="177" height="132" />][3]
 The 5" screen runs at a native resolution of 800x400, but can run an external monitor (through it's HDMI port VIA an included VGA adaptor) up to 1200x720. The screen also acts as a touch screen (stylus included) and slips up to reveal a mini backlit keyboard.
 Speakers are built internally along with a small microphone, this should enable users to use the voice commands in Vista ([Dear aunt...][4]).
-Technical specs include a 1.5GHz or a 1.6GHz VIA Ultra Low Voltage C7M VX700 chipset, with 1GB RAM and a 60GB hard driver (64GB solid state hard drive optional), 1xUSB 2.0 and a 4500mAh battery. Networking includes Wireless, ethernet and bluetooth, with 3G capabilities on higher end models.
+Technical specs include a 1.5GHz or a 1.6GHz VIA Ultra Low Voltage C7M VX700 chipset, with 1GB RAM and a 60GB hard driver (64GB solid state hard drive optional), 1xUSB 2.0 and a 4500mAh battery. Networking includes Wireless, Ethernet and Bluetooth, with 3G capabilities on higher end models.
 Prices range from £909 to £1,971.
 Portability: \*\*\*\*\*
 Computing power: \*\*\*
@@ -20,7 +20,7 @@ Next we shall take a look at the MacBook Air. It's super thin, with it's thinnes
 It's spacious 13.3" screen boasts a native resolution of 1280x800 and has a micro-DVI out for an extra external monitor, presumably the graphics card can support resolutions of at least 1280x1024 as my MacBook does.
 The MacBook Air comes with a nice backlit keyboard, along with a trackpad that uses the new multi-touch technology, so you can use those pinch and sweep gestures like the iPod Touch and iPhone.
 Speakers are built in, but you only get mono, not stereo oddly enough. Like the MacBook and MBP, it also has an in-built microphone for those OS X voice commands. Lets not forget about the iSight either, the microphone and iSight means that you can video conference wherever you have network coverage.
-Technical specs include the Intel Core 2 Duo (C2D) running at 1.6GHz or 1.8GHz (£190 to upgrade the base configuration), 2GB RAM by default (not upgradable) and a 80GB hard drive, or a 64GB solid state hard drive (high end MBA only), 1xUSB 2.0 and presumably the same 5200mAh battery that comes in a standard MacBook (should last around 5 hours). Networking includes bluetooth and wireless, ethernet is available via a USB adaptor. One thing to note is that there is no Firewire ports.
+Technical specs include the Intel Core 2 Duo (C2D) running at 1.6GHz or 1.8GHz (£190 to upgrade the base configuration), 2GB RAM by default (not upgradable) and a 80GB hard drive, or a 64GB solid state hard drive (high end MBA only), 1xUSB 2.0 and presumably the same 5200mAh battery that comes in a standard MacBook (should last around 5 hours). Networking includes Bluetooth and wireless, Ethernet is available via a USB adaptor. One thing to note is that there is no Firewire ports.
 Prices range from £1,199 for the base model and £2.028 for the base solid state hard drive option.
 Portability: \*\*\*\*
 Computing power: \*\*\*\*
@@ -30,7 +30,7 @@ Price: \*\*\*
 The native resolution of it's 7 inch screen is 800x480, and it has a VGA out, though I couldn't see what other resolutions it may support.
 The Eee PC has a keyboard and trackpad, as well as a microphone in socket.
 It has built-in speakers but no microphone.
-Technical specs include an Intel Celeron Mobile (no speed mentioned), 512MB RAM, a 2GB solid state hard drive, 3xUSB 2.0 and a 2400mAh battery. Networking includes wireless, ethernet and a modem!
+Technical specs include an Intel Celeron Mobile (no speed mentioned), 512MB RAM, a 2GB solid state hard drive, 3xUSB 2.0 and a 2400mAh battery. Networking includes wireless, Ethernet and a modem!
 Prices start at £189 ([Ebuyer][7]).
 Portability: \*\*\*\*\*
 Computing power: \*\*

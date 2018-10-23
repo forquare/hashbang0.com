@@ -1,6 +1,6 @@
 +++
 date = "2008-12-19T16:46:19"
-title = "Sun - Week Twentyfour"
+title = "Sun - Week Twenty-four"
 tags = ["disk layout"]
 categories = ["Sun"]
 +++

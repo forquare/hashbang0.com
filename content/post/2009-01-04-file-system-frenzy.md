@@ -29,7 +29,7 @@ rpool/swap                                         
 The bold entries are separate file systems I have created using:
 zfs create rpool/
 
-For ezample:
+For example:
 zfs create rpool/share
 
 I then did the following to allow the file system and all sub systems to be shared over NFS:

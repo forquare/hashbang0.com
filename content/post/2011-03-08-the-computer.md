@@ -7,7 +7,7 @@ categories = ["Musings","Rants"]
 
 We live in an age where computers are all around us.  While they may not yet be embedded into every object we come in contact with, they are on our desks at home or in the office, and in our pockets and bags when we're out and about.  But one thing worries me, few of these people understand how to use these powerful machines, or leverage them to even half their potential.
 
-Computers were once large, unwieldily things, operated by a series of trained individuals.  Today, you have read this merely by punching a few keys (onscreen or physical) or clicking a link or two, everything from fetching the data on a disk, assembling it, processing it, sending it to you and assembling, processing, and displaying that has been done for you.
+Computers were once large, unwieldy things, operated by a series of trained individuals.  Today, you have read this merely by punching a few keys (onscreen or physical) or clicking a link or two, everything from fetching the data on a disk, assembling it, processing it, sending it to you and assembling, processing, and displaying that has been done for you.
 
 
 
@@ -23,7 +23,7 @@ I argue that some functions of a computer have become really simple, while other
 
 
 
-This very situation has arisen before.  I was working in an office almost two years ago, the staff regularly used such things as mail merge for letters using the companies network address book.  They were migrating to a system where they needed a form filled out for every directory created (detailing access rights, when deletion was due, etc.), the problem was that they had already created a shed load of directories...The staff had started to catalog these by hand, getting somewhere between twenty to sixty forms done a day (they had other duties as well).  <br />
+This very situation has arisen before.  I was working in an office almost two years ago, the staff regularly used such things as mail merge for letters using the companies network address book.  They were migrating to a system where they needed a form filled out for every directory created (detailing access rights, when deletion was due, etc.), the problem was that they had already created a shed load of directories...The staff had started to catalogue these by hand, getting somewhere between twenty to sixty forms done a day (they had other duties as well).  <br />
 For me, it took a day of messing about with some [VBScript][2] and I could list all of these directories in a text file.  I could import this text file into Excel using '' as a delimiter, this meant I could separate the path names as the form requested.  I found that it was very easy to see what group of directories had what attributes and found I could copy &amp; paste an awful lot.  When finished, all of this was mail merged into the Word document which held the form.  After a day of downtime, I could now process eighty directories an hour.<br />
 OK, the VBScript was a little specialist, but no general user thinks of doing this kind of thing.
 

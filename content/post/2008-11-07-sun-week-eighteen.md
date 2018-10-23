@@ -5,7 +5,7 @@ tags = ["multihead","SunRay","utmhadm"]
 categories = ["Sun"]
 +++
 
-Monday was spent traveling back from Aber, I arrived back in Camberley at just past midnight
+Monday was spent travelling back from Aber, I arrived back in Camberley at just past midnight
 
 Tuesday was spent getting some storage trays set up for an engineer. It just comprised of setting up two trays really, there was thought about getting me to hook the systems up, but the engineer decided to do the rest himself.
 I spent a portion of the afternoon postbooking some systems in th 02 lab as they were appearing dead. I brought two of them back to life...One still needs my attention.
@@ -19,9 +19,9 @@ utmhadm -d oldMultiHeadGroup
 utmhadm -a newMultiHeadGroup -g 2x1 -p primaryMAC -l primaryMAC,secondaryMAC
 ^D`
 
-Thursday was spent corresponding to an engineer who wanted an unspecified host linked up with unspecified storage. After making him book the various pieces of kit, I started setting up the infrastructure. Basically just using a fiber connection from a host ([x4100][2]) to a storage array ([StorageTek 2540][3]).
+Thursday was spent corresponding to an engineer who wanted an unspecified host linked up with unspecified storage. After making him book the various pieces of kit, I started setting up the infrastructure. Basically just using a fibre connection from a host ([x4100][2]) to a storage array ([StorageTek 2540][3]).
 
-On Friday I set up a new KVM unit. A 1U tray which looks a bit like a laptop, cables come out of the back and you can hook them up to hosts to see whats coming out the vga port.
+On Friday I set up a new KVM unit. A 1U tray which looks a bit like a laptop, cables come out of the back and you can hook them up to hosts to see whats coming out the VGA port.
 I was also given a Neptune card by Paul to plug into a machine, along with the card came a ticket which involved just plugging the card in at this point...More next week I suppose...
 
   [1]: http://www.sun.com/software/index.jsp?cat=Desktop&tab=3&subcat=Sun%20Ray%20Clients

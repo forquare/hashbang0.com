@@ -5,7 +5,7 @@ tags = ["ipad","iphone","mobile"]
 categories = ["iPad","iPhone","Mac Hardware"]
 +++
 
-Ars Technica published [this article][1] the other day which says how Apple are not awarding Mac applications the Apple Design Award this year and are instead focussing on the iPhone and the iPad.
+Ars Technica published [this article][1] the other day which says how Apple are not awarding Mac applications the Apple Design Award this year and are instead focusing on the iPhone and the iPad.
 
 It's true that Apple have been pumping out some great mobile devices since 2007, but each year at WWDC we see more and more iPhone and iPhone OS stuff than we do Mac hardware and OS X development.  Since the iPhone launched back in 2007 we've had two revisions of OS X in the form of Leopard and Snow Leopard (while there has been three (almost four) releases of the iPhone OS), and these have been treated somewhat like an afterthought to the big iPhone/iPod Touch news.
 
@@ -13,7 +13,7 @@ Even in the Mac hardware we've seen Apple take a very mobile attitude since the 
 
 In January Apple announced the iPad, and in [less than 60 days it has sold 2,000,000][2] of them!
 
-I've just been watching some of the videos from the D8 conference and Steve Jobs was asked this questions by Walk Mossberg:
+I've just been watching some of the videos from the D8 conference and Steve Jobs was asked this questions by Walt Mossberg:
 > “Is the tablet going to eventually replace the PC?”
 This was Steve's reply:
 > “PC's are going to be like trucks, they're still going to be around, they're still going to have a lot of value. But they're going to be used by one out of X people.  And this transformation is going to make some people uneasy, people from the PC world like you and me, it's going to make us uneasy because the PC has taken us a long way, it's brilliant.  And we like to talk about the post-PC era, but when it really starts to happen, I think it's uncomfortable for a lot of people.  And because it's change, and a** lot of vested interests are going to change** and it's going different.”

@@ -1,7 +1,7 @@
 +++
 date = "2009-01-16T16:45:52"
-title = "Sun - Week Twentyeight"
-tags = ["IPV6","KVM","SAS","t5120","v210","v240","windows"]
+title = "Sun - Week Twenty-eight"
+tags = ["IPv6","KVM","SAS","t5120","v210","v240","windows"]
 categories = ["Sun"]
 +++
 
@@ -13,7 +13,7 @@ Tuesday was spent catching up on some work from the week before.
 
 Wednesday everything went bang! I had started to tidy the cable store, but seeing as we were two men down, I came out and worked on reducing tickets on the queue. I went over to GMP02 and readied a customer system for an engineer, this wasn't too hard, but took a while to get console connections to work.
 
-Thursday was spent working on a ticket I had picked up on Wednesday, a ticket from a formidable engineer, one which James had started, be we were a James short! It required taking two T5120's and connecting them to a single storage array. This would have been fine it it were an ethernet connection, or even fibre, but he wanted it all stuck together with SAS cabling. This cabling doesn't patch around the lab, so I shifted the three machines into a rack where there was space and cabled them all up there.
+Thursday was spent working on a ticket I had picked up on Wednesday, a ticket from a formidable engineer, one which James had started, be we were a James short! It required taking two T5120's and connecting them to a single storage array. This would have been fine it it were an Ethernet connection, or even fibre, but he wanted it all stuck together with SAS cabling. This cabling doesn't patch around the lab, so I shifted the three machines into a rack where there was space and cabled them all up there.
 I also set up a 'generic' x86 box for an engineer. He wanted a box set up in GMP02 which would allow him to install Windows \*shudders\* NT4. I set the box up and left the rest until Friday.
 
 Friday morning came and I had a cabling job in the lab to do before fiddling with the NT4 box. It was just to install an HBA and connect a host up to some storage.

@@ -1,6 +1,6 @@
 +++
 date = "2009-04-21T14:07:36"
-title = "Opensolaris Live USB Creator"
+title = "OpenSolaris Live USB Creator"
 tags = []
 categories = ["OpenSolaris"]
 +++

@@ -11,7 +11,7 @@ I am still alive!  Still working on the ERTMS project in Machynlleth which is g
  
 Outside of work I am working on some bits in the virtual world of [Second Life][1], a good friend of mine creates objects and I have started writing scripts in the [Linden Scripting Language][2] to make his objects more interesting/interactive. 
  
-OH!  I've got a new iMac!  A sexy 27" beast, equiped with a 3.4GHz Intel i7, 16GB RAM and an AMD Radeon HD 6970M (2GB).  It replaces my three year old Mac Pro which I wasn't using to its full potential - so if anyone wants a 2009 Mac Pro (2x Intel Xeon 5500, 6GB RAM) let me know! 
+OH!  I've got a new iMac!  A sexy 27" beast, equipped with a 3.4GHz Intel i7, 16GB RAM and an AMD Radeon HD 6970M (2GB).  It replaces my three year old Mac Pro which I wasn't using to its full potential - so if anyone wants a 2009 Mac Pro (2x Intel Xeon 5500, 6GB RAM) let me know! 
  
 Right, now I've got to work on something interesting for me next post!
 

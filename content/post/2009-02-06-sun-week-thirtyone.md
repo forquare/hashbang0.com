@@ -1,13 +1,13 @@
 +++
 date = "2009-02-06T20:59:34"
-title = "Sun - Week Thirtyone"
+title = "Sun - Week Thirty-one"
 tags = ["aber","beer pong","Starbucks","Wasabi"]
 categories = ["General","Sun"]
 +++
 
 Week off! Woo!!!
 
-I started my time off on Saturday 31st January, I woke up at 5am, was out the house by 6:15am and waiting to catch the 7:02 train to Reading from Blackwater. Everything was good, I'd had a duck and hoisin wrap from Tescos.
+I started my time off on Saturday 31st January, I woke up at 5am, was out the house by 6:15am and waiting to catch the 7:02 train to Reading from Blackwater. Everything was good, I'd had a duck and hoisin wrap from Tesco.
 The trip from Reading to Oxford was to be taken by bus. I sat upstairs and off we went! About halfway to Oxford, the bus broke down on the dual carriage way. Grrrr! We were there for an hour before another bus came, then we were an hour and a half late!
 I caught the next train to Wolverhampton where I had to wait an hour and a half for the train to Aberystwyth, I wandered into town and got myself a Starbucks :P
 I finally got to Aberystwyth two hours later than I wanted to be, met up with Faye and went home for some dinner!
@@ -23,7 +23,7 @@ After some cake, we all went round the pubs for drinks and got quite drunk :D
 Tuesday morning never really happened. Me and Faye woke up in the afternoon and Faye went to town to see Ceri. I came a little after and we realised we had to sign contracts for next years flat. Nothing much happened that evening...
 
 Wednesday I tried to start some revision for my exam, but this never really happened...You know how other things are far more interesting....
-Wednesday evening we went to see [Yes Man][1], which was a good film, check out the imdb link for info...We all indulged ourselves in saying yes to the pub for a few drinks :D
+Wednesday evening we went to see [Yes Man][1], which was a good film, check out the IMDB link for info...We all indulged ourselves in saying yes to the pub for a few drinks :D
 
 Thursday I went to see Phil about dissertation stuff, it looks like it should be fairly simple to do, but there is lots of planning. I'm currently thinking about ideas to do...
 

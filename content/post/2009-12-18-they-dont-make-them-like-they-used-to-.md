@@ -1,6 +1,6 @@
 +++
 date = "2009-12-18T12:59:05"
-title = "They dont make them like they used to..."
+title = "They don't make them like they used to..."
 tags = ["grrrr","mobile phones","terrible quality"]
 categories = ["Rants"]
 +++

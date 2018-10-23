@@ -5,7 +5,7 @@ tags = ["dtrace","fishworks","Oracle","sola","Solaris","Sun","sun microsystems",
 categories = ["Oracle","Sun"]
 +++
 
-Well, the news hit the two company sites at around 12:30 BST by my reckoning.  [Sun.com][1] and [Oracle.com][2] both reveled the news at around the same time ([sun clicky][3] and [oracle clicky][4] &lt;- pics of the sites on the day).
+Well, the news hit the two company sites at around 12:30 BST by my reckoning.  [Sun.com][1] and [Oracle.com][2] both revealed the news at around the same time ([sun clicky][3] and [oracle clicky][4] &lt;- pics of the sites on the day).
 
 I think this is a much better acquisition than what IBM offered, personally, I think IBM were looking to buy up competition, Oracle have a number of reasons to buy Sun as I see it:
 

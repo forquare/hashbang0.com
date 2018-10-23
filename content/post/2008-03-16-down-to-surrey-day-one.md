@@ -9,7 +9,7 @@ We left Aberystwyth today at 10:30, Tom, Steve and myself on the road to Surrey 
 
 We did, however, arrive with time to spare!  The place where I'm staying is very nice.  It's called [Tekels Park Guest House][1].  I have a double bed in my room along with TV, basin and a KETTLE!  Tea and coffee!  And some shortbread!  It's amazing!
 
-We went to somewhere which was almost like Wetherspoons, but it wasn't.   I had 'Surf &amp; Turf', a.k.a. Scampi and steak.  It was very nice and for that with pint, it cost less than a tenner :D
+We went to somewhere which was almost like Weatherspoons, but it wasn't.   I had 'Surf &amp; Turf', a.k.a. Scampi and steak.  It was very nice and for that with pint, it cost less than a tenner :D
 
 Just in the library at the moment, it's the only part of the Guest House with the internet.  So I thought: Check emails, check Facebook, look at blog!
 

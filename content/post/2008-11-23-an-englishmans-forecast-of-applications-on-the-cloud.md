@@ -10,7 +10,7 @@ Dull and drizzly.
 There have been lots of talk over the past couple of years, and now more than any time in that gap of applications on cloud.
 Netbooks have been talked of:
 > Wikipedia:
-"A netbook is a small to medium sized, light-weight, low-cost, energy-efficient laptop, generally optimized for internet based services such as web browsing and e-mailing."
+"A netbook is a small to medium sized, light-weight, low-cost, energy-efficient laptop, generally optimised for internet based services such as web browsing and e-mailing."
 Which basically says to me, run a minimal system on your side and let the cloud do the rest.
 
 This is all well and good, conceptually it's a brilliant idea.  In fact, I do this and more everyday at work (large server serves me not just apps, but also my session on the OS)

@@ -12,7 +12,7 @@ Looking at the [preview page][2], it still looks like they are plugging the beta
  
 All in all I can't see much difference to the fourth beta, though no doubt it's more stable, etc etc etc... 
  
-The fourth beta came out 18th September this year, a month and a half later and we get the RC.  Hopefully Camino 2.0 will offcially be along shortly.
+The fourth beta came out 18th September this year, a month and a half later and we get the RC.  Hopefully Camino 2.0 will officially be along shortly.
 
   [1]: http://caminobrowser.org/
   [2]: http://preview.caminobrowser.org/

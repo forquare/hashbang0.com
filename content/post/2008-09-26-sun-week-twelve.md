@@ -22,7 +22,7 @@ As promised, more [T2000][3] fun on Thursday. I ran the max verbosity, max diagn
 
 The afternoon was spent trying to troubleshoot further, to no avail :(
 
-Friday morning was spent on getting this system to work. In downgraded the firmware, upgraded the firmware and a number of other things, but nothing has happened :( It is currently mid afternoon and I have a splitting headache. I can't wait for hometime so I can see my Faye :D And Aled is coming down too!
+Friday morning was spent on getting this system to work. In downgraded the firmware, upgraded the firmware and a number of other things, but nothing has happened :( It is currently mid afternoon and I have a splitting headache. I can't wait for home time so I can see my Faye :D And Aled is coming down too!
 
   [1]: http://www.sun.com/servers/entry/280r/
   [2]: http://www.sun.com/servers/entry/280r/
