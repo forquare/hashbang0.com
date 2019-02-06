@@ -1,0 +1,47 @@
+baseURL: /
+languageCode: en-gb
+disqusShortname: hb0
+title: '#!0 - A Site of Life & Geekery'
+theme: rehyde-x
+author:
+  name: Ben Lavery-Griffiths
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
+permalinks:
+  post: /:year/:month/:day/:title/
+taxonomies:
+  category: categories
+  tag: tags
+params:
+  colorTheme: theme-base-0b
+  email: ben.lavery@hashbang0.com
+  fullWidth: true
+  github: https://github.com/forquare/
+  highlight: solarized-light
+  home: Home
+  linkedin: https://www.linkedin.com/in/benlavery/
+  rss: true
+  social:
+    iconSize: 2x
+    isSquaredIcon: true
+  stackExchange: https://stackexchange.com/users/166079/forquare
+  stackOverflow: https://stackoverflow.com/users/389975/forquare
+  truncate: false
+  twitter: https://twitter.com/forquare
+menu:
+  main:
+  - identifier: pgp
+    name: PGP Key
+    url: /pgp/
+related:
+  includeNewer: false
+  indices:
+  - name: keywords
+    weight: 150
+  - name: tags
+    weight: 100
+  threshold: 80
+  toLower: true
