@@ -1,9 +1,9 @@
-+++
-date = "2009-03-06T19:34:25"
-title = "Sun - Week Thirty-five"
-tags = ["bug","cr","IP","suse linux","ups"]
-categories = ["Sun"]
-+++
+---
+date: "2009-03-06T19:34:25"
+title: "Sun - Week Thirty-five"
+tags: ["bug","cr","IP","suse linux","ups"]
+categories: ["Sun"]
+---
 
 Well, this week really wasn't very special.
 

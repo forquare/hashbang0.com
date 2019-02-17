@@ -1,9 +1,9 @@
-+++
-date = "2010-10-21T21:03:54"
-title = "iPhone Games"
-tags = ["Angry Birds","Game Dev Story","Games","iphone","Plats Vs. Zombies","Virtual City"]
-categories = ["Games","iOS"]
-+++
+---
+date: "2010-10-21T21:03:54"
+title: "iPhone Games"
+tags: ["Angry Birds","Game Dev Story","Games","iphone","Plats Vs. Zombies","Virtual City"]
+categories: ["Games","iOS"]
+---
 
 Even back on my iPod Touch I liked playing games, and now with my faster, more responsive iPhone I love playing games.  I thought I might share a few of my favourites.  So here we go, in no particular order (other than in the rough order I last played them).
 

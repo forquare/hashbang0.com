@@ -1,10 +1,9 @@
-+++
-date = 2017-07-27T21:43:35+01:00
-title = "freebsd-upgrade In A Boot Environment"
-tags = ["FreeBSD","Upgrading","Boot Environments"]
-categories =  ["FreeBSD"]
-author = "Ben Lavery-Griffiths"
-+++
+---
+date: 2017-07-27T21:43:35+01:00
+title: "freebsd-upgrade In A Boot Environment"
+tags: ["FreeBSD","Upgrading","Boot Environments"]
+categories:  ["FreeBSD"]
+---
 
 Yesterday [FreeBSD 11.1 was released](https://lists.freebsd.org/pipermail/freebsd-announce/2017-July/001798.html).  Once I got into work I started upgrading the VM I use for day to day activities.  After creating a Boot Environment (BE) using [beadm(1)](https://www.freebsd.org/cgi/man.cgi?query=beadm), and running the upgrade and install parts of [freebsd-update(8)](https://www.freebsd.org/cgi/man.cgi?query=freebsd-update), I rebooted into a newly activated BE only to find I had an 11.1 kernel, but a 11.0 userland…
 

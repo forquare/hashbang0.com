@@ -1,9 +1,9 @@
-+++
-date = "2010-11-02T08:56:17"
-title = "VLC for the iPhone could fall thanks to the GPL"
-tags = ["Apple","GNU","GPL","Herpes","iOS","iphone","Open Source","Richard Stallman","VideoLAN","VLC"]
-categories = ["iOS","Open Source","Rants"]
-+++
+---
+date: "2010-11-02T08:56:17"
+title: "VLC for the iPhone could fall thanks to the GPL"
+tags: ["Apple","GNU","GPL","Herpes","iOS","iphone","Open Source","Richard Stallman","VideoLAN","VLC"]
+categories: ["iOS","Open Source","Rants"]
+---
 
 [VLC][1], the popular open source media player, has been ported to the iPhone by [Applidium][2].  The media player is available via the [App Store for free][3].
 

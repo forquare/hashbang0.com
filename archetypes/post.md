@@ -1,7 +1,7 @@
-+++
-date = {{ .Date }}
-title = "{{ replace .TranslationBaseName "-" " " | title }}"
-tags = ["General"]
+---
+date: {{ .Date }}
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+tags: ["General"]
 categories ["General"]
-draft = true
-+++
+draft: true
+---

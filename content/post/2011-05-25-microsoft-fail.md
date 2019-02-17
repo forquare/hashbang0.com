@@ -1,9 +1,9 @@
-+++
-date = "2011-05-25T08:00:00"
-title = "Microsoft Fail"
-tags = ["Fail","Microsoft"]
-categories = ["Microsoft","Rants","Internet"]
-+++
+---
+date: "2011-05-25T08:00:00"
+title: "Microsoft Fail"
+tags: ["Fail","Microsoft"]
+categories: ["Microsoft","Rants","Internet"]
+---
 
 The other week I was looking at how Windows generates the old 8.3 style names from a long name.  I came across [this article][1] on the Microsoft site, and noted the banner at the top:
 

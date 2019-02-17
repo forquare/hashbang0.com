@@ -1,9 +1,9 @@
-+++
-date = "2008-12-26T10:46:07"
-title = "Sun - Week Twenty-five"
-tags = ["carmarthen","Eglwyswrw","faye"]
-categories = ["Sun"]
-+++
+---
+date: "2008-12-26T10:46:07"
+title: "Sun - Week Twenty-five"
+tags: ["carmarthen","Eglwyswrw","faye"]
+categories: ["Sun"]
+---
 
 I had this week off :D
 

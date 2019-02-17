@@ -1,9 +1,9 @@
-+++
-date = "2008-07-10T21:24:07"
-title = "Sun - Week One"
-tags = ["console","jlt","js_config","rpower"]
-categories = ["Sun"]
-+++
+---
+date: "2008-07-10T21:24:07"
+title: "Sun - Week One"
+tags: ["console","jlt","js_config","rpower"]
+categories: ["Sun"]
+---
 
 After the weeks in Ireland and sitting around at home, I have finally arrived in Surrey and completed my first week at Sun Microsystems.
 It's been a busy and hectic week, with lots of TOI's (transfers of information), but I am happy with it, I have learnt a lot about the tools I'm going to use over the next year, and looked at some of the machines I'll be using too. Here's a quick summary of the week:

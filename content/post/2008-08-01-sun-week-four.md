@@ -1,9 +1,9 @@
-+++
-date = "2008-08-01T11:25:11"
-title = "Sun - Week Four"
-tags = ["jlt","moat","nigel hardy","photos","post-booking","sparc","spark","Sun","work"]
-categories = ["Sun"]
-+++
+---
+date: "2008-08-01T11:25:11"
+title: "Sun - Week Four"
+tags: ["jlt","moat","nigel hardy","photos","post-booking","sparc","spark","Sun","work"]
+categories: ["Sun"]
+---
 
 **Monday**
 When I got into the office today, James had stolen Michael's nice big monitor, and swapped it for a small 17"one. So, after claiming Michael's desk, I set about looking for two CRT monitors that worked, both are about 20", but do consume a lot of desk room. I had to set up two SunRay clients too, one to be a master and control one screen as well as the keyboard and mouse, and another to be the slave, controlling the second screen. I'll try and get a picture tomorrow.

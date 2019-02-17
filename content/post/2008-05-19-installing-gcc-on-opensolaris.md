@@ -1,9 +1,9 @@
-+++
-date = "2008-05-19T17:35:44"
-title = "Installing GCC on OpenSolaris"
-tags = ["gcc","OpenSolaris"]
-categories = ["OpenSolaris"]
-+++
+---
+date: "2008-05-19T17:35:44"
+title: "Installing GCC on OpenSolaris"
+tags: ["gcc","OpenSolaris"]
+categories: ["OpenSolaris"]
+---
 
 [\*NEW\* Click here for command line instructions, plus how to install gmake and subversion!][1]
 

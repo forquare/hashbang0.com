@@ -1,9 +1,9 @@
-+++
-date = "2011-02-02T00:47:31"
-title = "Film Sorter Script"
-tags = ["imdb","imdb::film","Internet","media","perl","server"]
-categories = ["Perl"]
-+++
+---
+date: "2011-02-02T00:47:31"
+title: "Film Sorter Script"
+tags: ["imdb","imdb::film","Internet","media","perl","server"]
+categories: ["Perl"]
+---
 
 On my server I have a store of films located at /share/media/movies.  Using NFS I share this directory to various other computers on my home network.  For a long while Faye has been asking me to categorise them into genres and cast, but with over 300 files I've been loath to do it by hand, so I thought I'd automate things using Perl.
 

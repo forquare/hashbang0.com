@@ -1,9 +1,9 @@
-+++
-date = "2010-09-13T23:28:16"
-title = "Blogging on MY iPhone!"
-tags = []
-categories = ["iPhone"]
-+++
+---
+date: "2010-09-13T23:28:16"
+title: "Blogging on MY iPhone!"
+tags: []
+categories: ["iPhone"]
+---
 
 Last Friday I received my iPhone 4. I have to say I'm impressed with the speed of the thing, much more responsive than my old first generation iPod touch.
 

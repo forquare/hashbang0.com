@@ -1,9 +1,9 @@
-+++
-date = "2008-12-19T16:46:19"
-title = "Sun - Week Twenty-four"
-tags = ["disk layout"]
-categories = ["Sun"]
-+++
+---
+date: "2008-12-19T16:46:19"
+title: "Sun - Week Twenty-four"
+tags: ["disk layout"]
+categories: ["Sun"]
+---
 
 Monday starts with Ali upgrading a Sun Ray server. This unexpectedly bring down the other Nevada servers :( We had a short outage and then we were up and running again. The morning consisted of a little more testing on my test Sun Ray server, then I contacted an engineer who might be able to help us.
 In the afternoon we had the usual staff meeting and I got down to looking at some of the things on my list.

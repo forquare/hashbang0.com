@@ -1,9 +1,9 @@
-+++
-date = "2009-04-03T16:39:48"
-title = "Sun - Week Thirty-nine"
-tags = ["april fools","console","customise boot image","devalias","Java cafe"]
-categories = ["Sun"]
-+++
+---
+date: "2009-04-03T16:39:48"
+title: "Sun - Week Thirty-nine"
+tags: ["april fools","console","customise boot image","devalias","Java cafe"]
+categories: ["Sun"]
+---
 
 Monday morning is here, we are an hour ahead of last week with the clocks going forward. It seems really sunny today, shame that my day starts off with unblocking the toilet, yuck.
 Anyhoo, I get into the office as usual, grab a coffee from the Java cafe and spend most of the morning setting up some of the French kit. I've set up console entries in JLT, and all console connections appear to work. I've just got to set up IP addresses for the kit and their SP's, configure all the SP's to work on this network and boot net the hosts. However I must configure boot net for any hosts that are booked, but not jump start them...Something which is very tempting!

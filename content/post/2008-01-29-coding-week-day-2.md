@@ -1,9 +1,9 @@
-+++
-date = "2008-01-29T08:42:21"
-title = "Coding week - Day 2"
-tags = ["coding week","perl","python","sql","tv-anytime","Uni","xml"]
-categories = ["Uni"]
-+++
+---
+date: "2008-01-29T08:42:21"
+title: "Coding week - Day 2"
+tags: ["coding week","perl","python","sql","tv-anytime","Uni","xml"]
+categories: ["Uni"]
+---
 
 Ugh, off to another late start, rolled out of bed at 8:10am again...Just about to have some breakfast...Today's blog may be more of a continually updated commentary of what's going on...But who knows, eh?
 

@@ -1,9 +1,9 @@
-+++
-date = "2008-09-05T18:27:37"
-title = "Sun - Week Nine"
-tags = []
-categories = ["Sun"]
-+++
+---
+date: "2008-09-05T18:27:37"
+title: "Sun - Week Nine"
+tags: []
+categories: ["Sun"]
+---
 
 So, two months on and we have moved from knowing nothing, to knowing a bit more about what we're doing.
 

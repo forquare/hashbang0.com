@@ -1,9 +1,9 @@
-+++
-date = "2015-01-05T18:59:24"
-title = "My frequently used bash commands histogram"
-tags = ["bash"]
-categories = ["Bash/Shell"]
-+++
+---
+date: "2015-01-05T18:59:24"
+title: "My frequently used bash commands histogram"
+tags: ["bash"]
+categories: ["Bash/Shell"]
+---
 
 Taken from [Small Labs Inc.][1], here's a histogram of my most used commands: 
 	

@@ -1,9 +1,9 @@
-+++
-date = "2012-02-08T17:45:47"
-title = "Just an update"
-tags = ["ERTMS","second life","trains","imac","lsl"]
-categories = ["General","Mac Hardware","Musings","Trains","Second Life"]
-+++
+---
+date: "2012-02-08T17:45:47"
+title: "Just an update"
+tags: ["ERTMS","second life","trains","imac","lsl"]
+categories: ["General","Mac Hardware","Musings","Trains","Second Life"]
+---
 
 Once upon a time I had the notion that I would post something vaguely interesting or helpful once a month.  While working at Sun that was easy (also making myself blog about my weekly activities for later reference helped), even my final year of uni I pretty much managed it, but I now look back over the last few months and see that I've not posted anything really since early December, and before that sometime in October.   
  

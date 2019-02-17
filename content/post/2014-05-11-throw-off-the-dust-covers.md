@@ -1,9 +1,9 @@
-+++
-date = "2014-05-11T11:30:53"
-title = "Throw off the dust covers!"
-tags = []
-categories = ["General"]
-+++
+---
+date: "2014-05-11T11:30:53"
+title: "Throw off the dust covers!"
+tags: []
+categories: ["General"]
+---
 
 Well it's been a long time since I've been here.  After a quick update it all looks very shiny again.  What happened to 2013!?  Mostly full of work, friends, and reading in the ruins of Aberystwyth castle. 
  

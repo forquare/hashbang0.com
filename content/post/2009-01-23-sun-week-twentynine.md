@@ -1,9 +1,9 @@
-+++
-date = "2009-01-23T18:27:22"
-title = "Sun - Week Twenty-nine"
-tags = ["b445","BIOS","dumb terminal","SCSI/SAS","SVM","w1100z","x2200"]
-categories = ["Sun"]
-+++
+---
+date: "2009-01-23T18:27:22"
+title: "Sun - Week Twenty-nine"
+tags: ["b445","BIOS","dumb terminal","SCSI/SAS","SVM","w1100z","x2200"]
+categories: ["Sun"]
+---
 
 This week was very VERY busy!
 

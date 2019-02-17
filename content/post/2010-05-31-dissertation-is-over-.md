@@ -1,9 +1,9 @@
-+++
-date = "2010-05-31T22:26:37"
-title = "Dissertation is over..."
-tags = ["bash","CS394","Diss","Dissertation","LaTeX","OpenSolaris","VAES","zones"]
-categories = ["Uni","Bash/Shell","OpenSolaris"]
-+++
+---
+date: "2010-05-31T22:26:37"
+title: "Dissertation is over..."
+tags: ["bash","CS394","Diss","Dissertation","LaTeX","OpenSolaris","VAES","zones"]
+categories: ["Uni","Bash/Shell","OpenSolaris"]
+---
 
 I meant to blog about this ages ago!  Better late than never I suppose...
 

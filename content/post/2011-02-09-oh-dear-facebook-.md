@@ -1,9 +1,9 @@
-+++
-date = "2011-02-09T16:31:23"
-title = "Oh Dear Facebook..."
-tags = ["facebook","Fail"]
-categories = ["Internet"]
-+++
+---
+date: "2011-02-09T16:31:23"
+title: "Oh Dear Facebook..."
+tags: ["facebook","Fail"]
+categories: ["Internet"]
+---
 
 It seems that everyone is having some problems with Facebook at the moment.  They are getting notifications saying someone has written on their wall, but find that their wall hasn't been updated for a week or two.
 

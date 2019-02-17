@@ -1,9 +1,9 @@
-+++
-date = "2009-04-09T18:38:12"
-title = "Sun - Week Forty"
-tags = ["connect","database","Java","perl","sybase"]
-categories = ["Sun","Java"]
-+++
+---
+date: "2009-04-09T18:38:12"
+title: "Sun - Week Forty"
+tags: ["connect","database","Java","perl","sybase"]
+categories: ["Sun","Java"]
+---
 
 This week I'm going to try and finish that email script...A while ago I was assigned the task of writing a module for our booking system.
 

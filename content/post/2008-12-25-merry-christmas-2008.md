@@ -1,9 +1,9 @@
-+++
-date = "2008-12-25T09:39:21"
-title = "Merry Christmas 2008"
-tags = ["Merry Christmas!"]
-categories = ["General"]
-+++
+---
+date: "2008-12-25T09:39:21"
+title: "Merry Christmas 2008"
+tags: ["Merry Christmas!"]
+categories: ["General"]
+---
 
 Merry Christmas to all!
 

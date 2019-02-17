@@ -1,9 +1,9 @@
-+++
-date = "2010-02-07T15:27:11"
-title = "Goodbye George Ward Event – 3/7/10"
-tags = ["George Ward","George Ward School","Home","melksham","Secondary School"]
-categories = ["General"]
-+++
+---
+date: "2010-02-07T15:27:11"
+title: "Goodbye George Ward Event – 3/7/10"
+tags: ["George Ward","George Ward School","Home","melksham","Secondary School"]
+categories: ["General"]
+---
 
 The George Ward School Association are attempting to organise a 'Goodbye George Ward' Event
 The date has been set for Saturday 3rd July, from 10am – 5pm with a Celebration Ball in the evening from 7.30-11.30pm. (Tickets to be sold to public nearer the event)

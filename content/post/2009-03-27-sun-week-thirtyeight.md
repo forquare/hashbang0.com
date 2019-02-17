@@ -1,9 +1,9 @@
-+++
-date = "2009-03-27T16:10:15"
-title = "Sun - Week Thirty-eight"
-tags = ["15k","25k","5100","firmware","js_config","nevada","OpenSolaris","sparc","starcat","T1000","tftp","x4100"]
-categories = ["Sun"]
-+++
+---
+date: "2009-03-27T16:10:15"
+title: "Sun - Week Thirty-eight"
+tags: ["15k","25k","5100","firmware","js_config","nevada","OpenSolaris","sparc","starcat","T1000","tftp","x4100"]
+categories: ["Sun"]
+---
 
 Monday I was back in the office, Steve was out coming home from a weekend in Aber and James had started a week of touring the UK.
 I picked up a few tickets and knuckled down to get them done. I had one which was to simply check if some connections between a storage array and a host was OK and to provide feedback on how they were configured.

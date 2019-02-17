@@ -1,9 +1,9 @@
-+++
-date = "2015-04-21T17:41:57"
-title = "3rd Party iCloud Apps?"
-tags = []
-categories = ["Apple","Musings","Internet"]
-+++
+---
+date: "2015-04-21T17:41:57"
+title: "3rd Party iCloud Apps?"
+tags: []
+categories: ["Apple","Musings","Internet"]
+---
 
 At home I use an iMac.  When I'm away from my desk I use an iPhone 6.  At work, I'm forced to deal with Windows (though use Linux/BSD VMs where possible). 
  

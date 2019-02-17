@@ -1,9 +1,9 @@
-+++
-date = "2009-04-20T20:40:29"
-title = "Oracle buys Sun Microsystems"
-tags = ["dtrace","fishworks","Oracle","sola","Solaris","Sun","sun microsystems","zfs"]
-categories = ["Oracle","Sun"]
-+++
+---
+date: "2009-04-20T20:40:29"
+title: "Oracle buys Sun Microsystems"
+tags: ["dtrace","fishworks","Oracle","sola","Solaris","Sun","sun microsystems","zfs"]
+categories: ["Oracle","Sun"]
+---
 
 Well, the news hit the two company sites at around 12:30 BST by my reckoning.  [Sun.com][1] and [Oracle.com][2] both revealed the news at around the same time ([sun clicky][3] and [oracle clicky][4] &lt;- pics of the sites on the day).
 

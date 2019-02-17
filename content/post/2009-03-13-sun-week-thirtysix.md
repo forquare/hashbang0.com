@@ -1,9 +1,9 @@
-+++
-date = "2009-03-13T19:41:50"
-title = "Sun - Week Thirty-six"
-tags = ["J4200","ldom","SunBlade 2000","virtual lab","virtualbox"]
-categories = ["Sun"]
-+++
+---
+date: "2009-03-13T19:41:50"
+title: "Sun - Week Thirty-six"
+tags: ["J4200","ldom","SunBlade 2000","virtual lab","virtualbox"]
+categories: ["Sun"]
+---
 
 Monday started rather differently to usual. we had our lab staff meeting at 10am so we could include the APAC lab manager on the call, he had some interesting things to tell us about collecting statistics about how the lab was used, and how we are going to implant some more measures in to get more accurate results.
 We still had the meeting in the afternoon to talk about our own lab, after this meeting we went down and did a lab tidy in preparation for the AMER lab managers visit on Wednesday. I also helped Paul rack some new machines which will be used for bookable [LDOM's][1], as well as a virtual lab host. The virtual lab host has a combination of zones and [VirtualBox][2] I think, these can be provisioned as and when needed.

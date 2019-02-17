@@ -1,9 +1,9 @@
-+++
-date = "2008-11-20T17:22:30"
-title = "Nifty keyboard shortcuts on SunRay's"
-tags = ["srss","SunRay"]
-categories = ["Sun"]
-+++
+---
+date: "2008-11-20T17:22:30"
+title: "Nifty keyboard shortcuts on SunRay's"
+tags: ["srss","SunRay"]
+categories: ["Sun"]
+---
 
 At work, our department has it's own SunRay servers. I am currently running on a [V890][1] server running build [101a of Nevada][2] and running the [SRSS 4.1 (SunRay Server Software (I think))][3].
 

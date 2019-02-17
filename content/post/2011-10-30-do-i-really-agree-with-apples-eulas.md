@@ -1,9 +1,9 @@
-+++
-date = "2011-10-30T15:38:27"
-title = "Do I really agree with Apple's EULAs?"
-tags = []
-categories = ["Apple","Musings"]
-+++
+---
+date: "2011-10-30T15:38:27"
+title: "Do I really agree with Apple's EULAs?"
+tags: []
+categories: ["Apple","Musings"]
+---
 
 After the death of [Steve Jobs][1] Richard Stallman has [said some somewhat callous things about Jobs and Apple][2] and how they have us in "digital handcuffs". 
  

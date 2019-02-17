@@ -1,9 +1,9 @@
-+++
-date = "2009-05-15T18:37:54"
-title = "Sun – Week Forty-five"
-tags = []
-categories = ["Sun"]
-+++
+---
+date: "2009-05-15T18:37:54"
+title: "Sun – Week Forty-five"
+tags: []
+categories: ["Sun"]
+---
 
 Monday starts at 5:30 for me, and after getting in from Aber at 12:30, I wasn't feeling too sharp...
 I'm in early all this week so we can support early workers and people in Europe who are an hour ahead of us.

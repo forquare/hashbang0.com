@@ -1,9 +1,9 @@
-+++
-date = "2007-11-12T10:34:36"
-title = "2D Dock in Leopard"
-tags = ["2d","3d","aberystwyth","ben","dock","lavery","leopard","os x"]
-categories = ["Mac OS"]
-+++
+---
+date: "2007-11-12T10:34:36"
+title: "2D Dock in Leopard"
+tags: ["2d","3d","aberystwyth","ben","dock","lavery","leopard","os x"]
+categories: ["Mac OS"]
+---
 
 Have you upgraded to Leopard and decided you really don't like the new 3D 'shelf'?
 Never fear! Apple have given us two options...

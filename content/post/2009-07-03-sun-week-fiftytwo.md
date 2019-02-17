@@ -1,9 +1,9 @@
-+++
-date = "2009-07-03T10:26:30"
-title = "Sun – Week Fifty-two"
-tags = []
-categories = ["Sun"]
-+++
+---
+date: "2009-07-03T10:26:30"
+title: "Sun – Week Fifty-two"
+tags: []
+categories: ["Sun"]
+---
 
 After a long and hectic weekend, Monday arrived.  This Monday is special, because it is my last day working at Sun Microsystems :(
 

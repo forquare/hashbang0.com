@@ -1,9 +1,9 @@
-+++
-date = "2010-05-19T10:28:00"
-title = "Robust Bash Scripts - Part Three"
-tags = ["bash script","defensive scripting","making directories","spaces in input"]
-categories = ["Bash/Shell"]
-+++
+---
+date: "2010-05-19T10:28:00"
+title: "Robust Bash Scripts - Part Three"
+tags: ["bash script","defensive scripting","making directories","spaces in input"]
+categories: ["Bash/Shell"]
+---
 
 This is part of a series of posts which should aid anyone writing Bash scripts to make them more robust. 
  

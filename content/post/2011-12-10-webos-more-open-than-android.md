@@ -1,9 +1,9 @@
-+++
-date = "2011-12-10T23:52:18"
-title = "WebOS 'more open' than Android?"
-tags = ["Android","WebOS","RMS","freedom","open"]
-categories = ["Musings","Android","Mobile"]
-+++
+---
+date: "2011-12-10T23:52:18"
+title: "WebOS 'more open' than Android?"
+tags: ["Android","WebOS","RMS","freedom","open"]
+categories: ["Musings","Android","Mobile"]
+---
 
 Ars Technica recently published [HP's decision means webOS could end up more open than Android][1]. 
  

@@ -1,9 +1,9 @@
-+++
-date = "2009-05-29T21:45:11"
-title = "Sun – Week Forty-seven"
-tags = []
-categories = ["Sun"]
-+++
+---
+date: "2009-05-29T21:45:11"
+title: "Sun – Week Forty-seven"
+tags: []
+categories: ["Sun"]
+---
 
 This week felt really long...And I don't really recall everything which happened, so like last week, I'll summarise.
 

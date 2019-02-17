@@ -1,9 +1,9 @@
-+++
-date = "2008-03-16T21:57:35"
-title = "Down to Surrey - Day One"
-tags = ["Sun","Surrey","tekels"]
-categories = ["Sun"]
-+++
+---
+date: "2008-03-16T21:57:35"
+title: "Down to Surrey - Day One"
+tags: ["Sun","Surrey","tekels"]
+categories: ["Sun"]
+---
 
 We left Aberystwyth today at 10:30, Tom, Steve and myself on the road to Surrey to work for Sun for a week.  We stopped in Gloucester to drop off one of Tom's mates, who's parents had kindly made up soup for lunch, then we were off again!  We had to be at our accommodation by 4:30, and we were told it could take three hours to get to Surrey from Gloucester, leaving at 2pm, we didn't feel too confident.
 

@@ -1,9 +1,9 @@
-+++
-date = "2009-04-24T19:45:16"
-title = "Sun - Week Forty-two"
-tags = ["G3","Oracle","Sun","SunBlade 2000","x404","x404.co.uk"]
-categories = ["Sun"]
-+++
+---
+date: "2009-04-24T19:45:16"
+title: "Sun - Week Forty-two"
+tags: ["G3","Oracle","Sun","SunBlade 2000","x404","x404.co.uk"]
+categories: ["Sun"]
+---
 
 Monday morning starts with us meeting a newtern for next year. Alex is down for a weeks experience to get used to working at sun. As a result, I've not actually done that much this week.
 

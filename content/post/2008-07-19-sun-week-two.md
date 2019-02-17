@@ -1,9 +1,9 @@
-+++
-date = "2008-07-19T21:27:02"
-title = "Sun - Week Two"
-tags = ["partition","slice","Solaris","ufs"]
-categories = ["Sun"]
-+++
+---
+date: "2008-07-19T21:27:02"
+title: "Sun - Week Two"
+tags: ["partition","slice","Solaris","ufs"]
+categories: ["Sun"]
+---
 
 This last week I have been learning about Solaris administration (at an intermediate level ;) ).
 We first learnt about the directory structure, including things like /usr doesn't stand for 'user' it's 'UNIX System Resources' and how different root level folders were usually mounted via other partitions.

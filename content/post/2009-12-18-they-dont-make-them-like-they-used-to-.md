@@ -1,9 +1,9 @@
-+++
-date = "2009-12-18T12:59:05"
-title = "They don't make them like they used to..."
-tags = ["grrrr","mobile phones","terrible quality"]
-categories = ["Rants"]
-+++
+---
+date: "2009-12-18T12:59:05"
+title: "They don't make them like they used to..."
+tags: ["grrrr","mobile phones","terrible quality"]
+categories: ["Rants"]
+---
 
 Faye has got a new phone, some up-to-date Nokia to replace her old 6200.  Her 6230 still works apart, just the battery doesn't hold a charge very well.
 This new phone cost about the same price as the six year old phone, has less useful features, doesn't keep the same charge as the 6200 did when new and broke after six months of use...After getting it back from the O2 shop, they are telling us that it broke because of rust...

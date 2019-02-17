@@ -1,9 +1,9 @@
-+++
-date = "2008-02-04T21:08:59"
-title = "MacBook Air Vs. Eee PC Vs. OQO"
-tags = ["Apple","asus","asustek","eee pc","mackbook air","Microsoft","ms","oqo","os x","vista","windows","xp"]
-categories = ["Apple","Hardware","Microsoft"]
-+++
+---
+date: "2008-02-04T21:08:59"
+title: "MacBook Air Vs. Eee PC Vs. OQO"
+tags: ["Apple","asus","asustek","eee pc","mackbook air","Microsoft","ms","oqo","os x","vista","windows","xp"]
+categories: ["Apple","Hardware","Microsoft"]
+---
 
 The MacBook Air has had much said about it. Jobs claimed it was the thinnest notebook ever, the most portable Mac ever, the Apple site declares that it is 'thinovation'. But is it really so great? I heard about [OQO][1] computers today in a lecture, and there has been talk about the [ASUS Eee PC][2], so I went to look at these computers and compare them.
 

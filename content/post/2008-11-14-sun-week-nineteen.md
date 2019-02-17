@@ -1,9 +1,9 @@
-+++
-date = "2008-11-14T22:30:01"
-title = "Sun - Week Nineteen"
-tags = ["6000 chassis","6048 chassis","back to back","blade chassis","gDoc","navada","storage","T1","v20z"]
-categories = ["Sun"]
-+++
+---
+date: "2008-11-14T22:30:01"
+title: "Sun - Week Nineteen"
+tags: ["6000 chassis","6048 chassis","back to back","blade chassis","gDoc","navada","storage","T1","v20z"]
+categories: ["Sun"]
+---
 
 After spending most of Sunday cooking meals for the following two weeks, I came in to find that it was fairly quiet. I spent Monday looking at some disk drives, in meetings and looking at gDoc. I also looked at the ticket with the Neptune card. I now needed to put two systems back to back, I corresponded with the engineer to book another system.
 

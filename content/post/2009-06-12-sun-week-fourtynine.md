@@ -1,9 +1,9 @@
-+++
-date = "2009-06-12T12:31:59"
-title = "Sun – Week Forty-nine"
-tags = []
-categories = ["Sun"]
-+++
+---
+date: "2009-06-12T12:31:59"
+title: "Sun – Week Forty-nine"
+tags: []
+categories: ["Sun"]
+---
 
 Well, the weekend didn't go well...The console server didn't get upgraded as a package caused errors in the new BE...That was most of Saturday wasted...
 

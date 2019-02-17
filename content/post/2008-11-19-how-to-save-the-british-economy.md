@@ -1,9 +1,9 @@
-+++
-date = "2008-11-19T23:07:04"
-title = "How to save the British economy"
-tags = ["english","france","tax","tongue in cheek","us"]
-categories = ["General"]
-+++
+---
+date: "2008-11-19T23:07:04"
+title: "How to save the British economy"
+tags: ["english","france","tax","tongue in cheek","us"]
+categories: ["General"]
+---
 
 How do we save our falling economy? Well, it would appear the answer has arisen in the popular BBC quiz show QI. On Friday 14th November 2008, QI did a Children in Need special.
 The topic was on the EuroVision song contest, and how countries such as France complain about us, yet use our language to sing their songs.

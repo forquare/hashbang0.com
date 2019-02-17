@@ -1,9 +1,9 @@
-+++
-date = "2011-07-13T08:55:19"
-title = "Exciting times for social networking"
-tags = ["facebook","Google","Google Plus","Diaspora*"]
-categories = ["Google","Internet","Social Networking"]
-+++
+---
+date: "2011-07-13T08:55:19"
+title: "Exciting times for social networking"
+tags: ["facebook","Google","Google Plus","Diaspora*"]
+categories: ["Google","Internet","Social Networking"]
+---
 
 The social networking world is rather turbulent at the moment, with Google barging in to rival Facebook. 
  

@@ -1,9 +1,9 @@
-+++
-date = "2012-03-12T04:30:50"
-title = "Sandboxing"
-tags = ["iOS","iphone","Mac","OpenSolaris","os x","windows","virtualisation","sandboxing"]
-categories = ["Musings"]
-+++
+---
+date: "2012-03-12T04:30:50"
+title: "Sandboxing"
+tags: ["iOS","iphone","Mac","OpenSolaris","os x","windows","virtualisation","sandboxing"]
+categories: ["Musings"]
+---
 
 Back in 2010 I complete my [dissertation][1].  The idea for my diss came to me while sitting in Starbucks in Camberley sometime during my time at Sun Microsystems, probably early 2009.  The idea was quickly jotted on the back of a Starbucks serviette. 
  

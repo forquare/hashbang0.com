@@ -1,9 +1,9 @@
-+++
-date = "2011-05-20T12:07:09"
-title = "Mac App Store"
-tags = ["Apple","Mac","app store"]
-categories = ["Apple","Mac OS"]
-+++
+---
+date: "2011-05-20T12:07:09"
+title: "Mac App Store"
+tags: ["Apple","Mac","app store"]
+categories: ["Apple","Mac OS"]
+---
 
 I love the Mac App Store.  Opening back in January, all Mac users running OS X 10.6.6 or higher have had the chance to play with the store.
 

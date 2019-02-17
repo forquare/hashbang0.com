@@ -1,9 +1,9 @@
-+++
-date = "2011-01-31T10:28:35"
-title = "iOS VLC fails after all :("
-tags = ["Apple","GNU","GPL","Herpes","iOS","iphone","Open Source","Richard Stallman","VideoLAN","VLC"]
-categories = ["iOS","Open Source","Rants"]
-+++
+---
+date: "2011-01-31T10:28:35"
+title: "iOS VLC fails after all :("
+tags: ["Apple","GNU","GPL","Herpes","iOS","iphone","Open Source","Richard Stallman","VideoLAN","VLC"]
+categories: ["iOS","Open Source","Rants"]
+---
 
 Back in November a mobile version of VLC was released for the iPhone/iPad/iPod Touch.  Many people cheered as the open source media player graced their iOS device.  Though some people didn't...
 

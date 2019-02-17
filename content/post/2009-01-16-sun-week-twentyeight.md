@@ -1,9 +1,9 @@
-+++
-date = "2009-01-16T16:45:52"
-title = "Sun - Week Twenty-eight"
-tags = ["IPv6","KVM","SAS","t5120","v210","v240","windows"]
-categories = ["Sun"]
-+++
+---
+date: "2009-01-16T16:45:52"
+title: "Sun - Week Twenty-eight"
+tags: ["IPv6","KVM","SAS","t5120","v210","v240","windows"]
+categories: ["Sun"]
+---
 
 This week took forever to finish!
 

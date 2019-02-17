@@ -1,9 +1,9 @@
-+++
-date = "2012-05-23T16:52:51"
-title = "Adding Emoji (smilies) to the iPhone"
-tags = ["iOS","ipad","iphone","Emojo","emoticons","emojicons","ipod touch","keyboard"]
-categories = ["iOS"]
-+++
+---
+date: "2012-05-23T16:52:51"
+title: "Adding Emoji (smilies) to the iPhone"
+tags: ["iOS","ipad","iphone","Emojo","emoticons","emojicons","ipod touch","keyboard"]
+categories: ["iOS"]
+---
 
 Adding colourful emoticons (or smilies) to texts, emails, and messages can help to liven things up a bit.  Unfortunately the Emoji keyboard isn't accessible by default, but this post will show you how to enable it! 
 

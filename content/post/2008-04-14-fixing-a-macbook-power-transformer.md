@@ -1,9 +1,9 @@
-+++
-date = "2008-04-14T08:47:16"
-title = "Fixing a Macbook power transformer"
-tags = ["Apple","cable","charger","how-to","transformer","wire"]
-categories = ["Mac Hardware"]
-+++
+---
+date: "2008-04-14T08:47:16"
+title: "Fixing a Macbook power transformer"
+tags: ["Apple","cable","charger","how-to","transformer","wire"]
+categories: ["Mac Hardware"]
+---
 
 [<img src="http://i9.photobucket.com/albums/a55/forquare/Macbook/n309601224_925588_4200.jpg" width="182" height="137" class="alignright" style="border: 0; float: right" />][1]
 

@@ -1,9 +1,9 @@
-+++
-date = "2008-01-15T23:34:13"
-title = "MacWorld Expo"
-tags = ["air","Apple","iphone","ipod","macbook","macworld","time capsule","time machine","touch"]
-categories = ["Apple"]
-+++
+---
+date: "2008-01-15T23:34:13"
+title: "MacWorld Expo"
+tags: ["air","Apple","iphone","ipod","macbook","macworld","time capsule","time machine","touch"]
+categories: ["Apple"]
+---
 
 Held between the 14th and the 18th of January, Apple today released two new exciting products and two enhancements to two of their already awesome product range.
 

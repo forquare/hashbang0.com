@@ -1,9 +1,9 @@
-+++
-date = "2011-07-10T22:08:29"
-title = "Download your Facebook profile"
-tags = ["facebook","Google"]
-categories = ["Google","Internet"]
-+++
+---
+date: "2011-07-10T22:08:29"
+title: "Download your Facebook profile"
+tags: ["facebook","Google"]
+categories: ["Google","Internet"]
+---
 
 Now I have a Google+ account (more on that later) I want to start moving my life from Facebook to the new shiny thing.  Thankfully, Facebook make it somewhat easier than one would expect. 
  

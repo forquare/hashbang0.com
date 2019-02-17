@@ -1,9 +1,9 @@
-+++
-date = "2009-06-01T14:04:39"
-title = "OpenSolaris 2009.06 Released"
-tags = ["2009.06","OpenSolaris"]
-categories = ["Sun"]
-+++
+---
+date: "2009-06-01T14:04:39"
+title: "OpenSolaris 2009.06 Released"
+tags: ["2009.06","OpenSolaris"]
+categories: ["Sun"]
+---
 
 It's finally here! OpenSolaris 2009.06 has been released!
 

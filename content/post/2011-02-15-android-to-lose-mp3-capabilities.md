@@ -1,9 +1,9 @@
-+++
-date = "2011-02-15T13:51:05"
-title = "Android to lose MP3 capabilities?"
-tags = ["Chrome","Flash","Google","H.264","MP3","WebM"]
-categories = ["Google","Musings","Open Source"]
-+++
+---
+date: "2011-02-15T13:51:05"
+title: "Android to lose MP3 capabilities?"
+tags: ["Chrome","Flash","Google","H.264","MP3","WebM"]
+categories: ["Google","Musings","Open Source"]
+---
 
 Google has [chopped the H.264 codec out of it's Chrome browser][1] and replaced it with it's own, open source, WebM codec - All in the name of openness...
 

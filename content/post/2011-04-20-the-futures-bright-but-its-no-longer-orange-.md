@@ -1,9 +1,9 @@
-+++
-date = "2011-04-20T19:47:05"
-title = "The Future's Bright...But it's no longer orange..."
-tags = ["Linux","macbook","ThinkPad","ubuntu","X32"]
-categories = ["Linux","Mac Hardware"]
-+++
+---
+date: "2011-04-20T19:47:05"
+title: "The Future's Bright...But it's no longer orange..."
+tags: ["Linux","macbook","ThinkPad","ubuntu","X32"]
+categories: ["Linux","Mac Hardware"]
+---
 
 Ubuntu isn't as orangey-brown as it used to be.  I don't recall exactly when I last tried to use it, but I didn't like it much.  Yesterday, however, I got it playing ball with my ThinkPad X32.
 

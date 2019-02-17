@@ -1,10 +1,9 @@
-+++
-date = 2018-03-21T19:16:27
-title = "VNC over SSH via a Raspberry Pi"
-tags = ["vnc", "raspberry pi", "ssh", "tunnel"]
-categories =  ["computing", "web"]
-author = "Ben Lavery-Griffiths"
-+++
+---
+date: 2018-03-21T19:16:27
+title: "VNC over SSH via a Raspberry Pi"
+tags: ["vnc", "raspberry pi", "ssh", "tunnel"]
+categories:  ["computing", "web"]
+---
 
 Often when I'm away from home I leave my iMac on in case I need to grab anything from it remotely, plus it's ready to go when I get home.  Usually I access it using SSH, via a Raspberry Pi:
 

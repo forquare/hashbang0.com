@@ -1,9 +1,9 @@
-+++
-date = "2008-08-15T18:13:12"
-title = "Sun - Week six"
-tags = []
-categories = ["Sun"]
-+++
+---
+date: "2008-08-15T18:13:12"
+title: "Sun - Week six"
+tags: []
+categories: ["Sun"]
+---
 
 So, as you know from my other posts, I have been off to London and Aberystwyth this past week, so was only in work for Friday.
 

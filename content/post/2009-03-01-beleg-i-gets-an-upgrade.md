@@ -1,9 +1,9 @@
-+++
-date = "2009-03-01T20:36:28"
-title = "Beleg-Iâ gets an upgrade"
-tags = ["beleg-iâ","mirror","raidz","zfs","Zpool"]
-categories = ["beleg-iâ","OpenSolaris"]
-+++
+---
+date: "2009-03-01T20:36:28"
+title: "Beleg-Iâ gets an upgrade"
+tags: ["beleg-iâ","mirror","raidz","zfs","Zpool"]
+categories: ["beleg-iâ","OpenSolaris"]
+---
 
 It happened a couple of weeks ago now, I've upgraded the storage in beleg-iâ.  It now has 4x 500GB disks!
 I have them in two mirrors, one for the boot disk and one for data.

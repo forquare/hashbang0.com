@@ -1,9 +1,9 @@
-+++
-date = "2009-06-26T22:52:42"
-title = "Sun – Week Fifty-one"
-tags = []
-categories = ["Sun"]
-+++
+---
+date: "2009-06-26T22:52:42"
+title: "Sun – Week Fifty-one"
+tags: []
+categories: ["Sun"]
+---
 
 I'm on earlies this week!
 

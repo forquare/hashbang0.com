@@ -1,9 +1,9 @@
-+++
-date = "2009-10-29T12:25:46"
-title = "Camino 2.0 is on the way"
-tags = []
-categories = ["General"]
-+++
+---
+date: "2009-10-29T12:25:46"
+title: "Camino 2.0 is on the way"
+tags: []
+categories: ["General"]
+---
 
 Yesterday while surfing the web, a pop-up notified me that the Camino 2.0 RC was available to download and install!
 Heading over to [Camino's web site][1], I found the team thanking all the beta testers. 

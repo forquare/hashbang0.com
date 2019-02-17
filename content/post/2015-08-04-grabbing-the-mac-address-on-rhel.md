@@ -1,9 +1,9 @@
-+++
-date = "2015-08-04T11:07:03"
-title = "Grabbing the MAC address on RHEL"
-tags = ["ifconfig","RHEL","network","code snippet"]
-categories = ["Linux","Bash/Shell"]
-+++
+---
+date: "2015-08-04T11:07:03"
+title: "Grabbing the MAC address on RHEL"
+tags: ["ifconfig","RHEL","network","code snippet"]
+categories: ["Linux","Bash/Shell"]
+---
 
 At work I deploy Red Hat Enterprise Linux VMs, for a variety of reasons, mostly by hand. 
  

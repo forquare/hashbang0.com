@@ -1,9 +1,9 @@
-+++
-date = "2009-01-04T15:15:42"
-title = "Static IP on OpenSolaris"
-tags = ["/etc/defaultrouter","/etc/nsswitch.conf","/etc/nsswitch.dns","hostname","IP","nwam","svcadm"]
-categories = ["OpenSolaris"]
-+++
+---
+date: "2009-01-04T15:15:42"
+title: "Static IP on OpenSolaris"
+tags: ["/etc/defaultrouter","/etc/nsswitch.conf","/etc/nsswitch.dns","hostname","IP","nwam","svcadm"]
+categories: ["OpenSolaris"]
+---
 
 From here: [Clicky][1]
 

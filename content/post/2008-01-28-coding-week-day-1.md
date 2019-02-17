@@ -1,9 +1,9 @@
-+++
-date = "2008-01-28T21:47:57"
-title = "Coding week - Day 1"
-tags = ["coding week","encoding","iso-8859-1","tv-anytime","Uni","xml","xpath"]
-categories = ["Uni"]
-+++
+---
+date: "2008-01-28T21:47:57"
+title: "Coding week - Day 1"
+tags: ["coding week","encoding","iso-8859-1","tv-anytime","Uni","xml","xpath"]
+categories: ["Uni"]
+---
 
 Today started off with rolling out of bed at 8:10am, out the house for 8:50, I had left it a tad late to make it up the hill in time, though my phone helped, playing a crap, compressed version of [99 Luftballons][1].
 

@@ -1,9 +1,9 @@
-+++
-date = "2010-11-01T06:17:57"
-title = "Alarm Clock Bug in iOS 4.1"
-tags = []
-categories = ["iOS"]
-+++
+---
+date: "2010-11-01T06:17:57"
+title: "Alarm Clock Bug in iOS 4.1"
+tags: []
+categories: ["iOS"]
+---
 
 This week I am working the early shift at work.  I must be in [Machynlleth][1] by 5am meaning that I've got to get up at 3:30am and leave by 4:30am.  However, today when my 3:30 alarm went off, it was actually 4:30...
 

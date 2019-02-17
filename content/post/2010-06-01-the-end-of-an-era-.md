@@ -1,9 +1,9 @@
-+++
-date = "2010-06-01T01:20:19"
-title = "The End of an Era..."
-tags = ["aber","aberystwyth","Aberystwyth University","faye","Graduation","PJM","Sun","University of Wales"]
-categories = ["General","Musings","Sun","Uni"]
-+++
+---
+date: "2010-06-01T01:20:19"
+title: "The End of an Era..."
+tags: ["aber","aberystwyth","Aberystwyth University","faye","Graduation","PJM","Sun","University of Wales"]
+categories: ["General","Musings","Sun","Uni"]
+---
 
 Graduating on the 15th of July means that I am no longer tied to the [Aberystwyth University][1], legally no longer a student, and at the end of my 18 year 'career' in education...
 

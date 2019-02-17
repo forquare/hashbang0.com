@@ -1,9 +1,9 @@
-+++
-date = "2008-08-08T18:08:01"
-title = "Sun - Week Five"
-tags = []
-categories = ["Sun"]
-+++
+---
+date: "2008-08-08T18:08:01"
+title: "Sun - Week Five"
+tags: []
+categories: ["Sun"]
+---
 
 So I have been working at sun for over a month now, and I'm still having a great time. I've decided I need to get "Networking for Dummies" to learn more about networking.
 

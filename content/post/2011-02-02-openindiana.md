@@ -1,9 +1,9 @@
-+++
-date = "2011-02-02T15:21:49"
-title = "OpenIndiana"
-tags = []
-categories = ["OpenSolaris"]
-+++
+---
+date: "2011-02-02T15:21:49"
+title: "OpenIndiana"
+tags: []
+categories: ["OpenSolaris"]
+---
 
 Back last year [Oracle canned the OpenSolaris project][1].  A group of developers forked the source and created the [Illumos project][2] which aimed to maintain the base of OpenSolaris as well as develop open code to replace the closed binaries that OpenSolaris included.
 

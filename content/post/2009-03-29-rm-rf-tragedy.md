@@ -1,9 +1,9 @@
-+++
-date = "2009-03-29T15:57:53"
-title = "rm -rf tragedy"
-tags = ["OpenSolaris","rm -rf","snapshot","time slider","zfs"]
-categories = ["beleg-iâ","OpenSolaris"]
-+++
+---
+date: "2009-03-29T15:57:53"
+title: "rm -rf tragedy"
+tags: ["OpenSolaris","rm -rf","snapshot","time slider","zfs"]
+categories: ["beleg-iâ","OpenSolaris"]
+---
 
 It happened a couple of weeks ago now.  I plugged in my external hard drive "POCKET" and OpenSolaris mounted it under /media/POCKET.  I was going to copy my films and TV series over to POCKET as I was travelling up to see Faye in Aber.  
 

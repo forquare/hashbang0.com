@@ -1,9 +1,9 @@
-+++
-date = "2008-07-30T22:32:31"
-title = "etc -> private/etc"
-tags = ["filesystem","fstab","os x"]
-categories = ["Mac OS"]
-+++
+---
+date: "2008-07-30T22:32:31"
+title: "etc -> private/etc"
+tags: ["filesystem","fstab","os x"]
+categories: ["Mac OS"]
+---
 
 After delving into Solaris10 a couple of weeks ago, I thought I would explore the hidden regions of my Mac...It turns out that it has many of the same things as a typical UNIX/Linux system, but doesn't seem to use them :?
 

@@ -1,9 +1,9 @@
-+++
-date = "2008-12-31T23:01:54"
-title = "Happy New Year!"
-tags = ["Happy New Year"]
-categories = ["General"]
-+++
+---
+date: "2008-12-31T23:01:54"
+title: "Happy New Year!"
+tags: ["Happy New Year"]
+categories: ["General"]
+---
 
 Happy New Year all!
 

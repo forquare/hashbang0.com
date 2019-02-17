@@ -1,9 +1,9 @@
-+++
-date = "2010-03-26T19:21:37"
-title = "Making a script run on startup on OpenSolaris"
-tags = ["OpenSolaris","script","SMF","startup"]
-categories = ["General"]
-+++
+---
+date: "2010-03-26T19:21:37"
+title: "Making a script run on startup on OpenSolaris"
+tags: ["OpenSolaris","script","SMF","startup"]
+categories: ["General"]
+---
 
 While working on my dissertation, I found that virtual NICs and etherstubs don't automatically reappear on a restart.  So, I have a nice little script to make them come back: 
 	#!/bin/bash

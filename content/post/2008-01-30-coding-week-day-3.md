@@ -1,9 +1,9 @@
-+++
-date = "2008-01-30T17:32:26"
-title = "Coding week - Day 3"
-tags = ["fedora","postgres","postgresql","sql"]
-categories = ["Uni"]
-+++
+---
+date: "2008-01-30T17:32:26"
+title: "Coding week - Day 3"
+tags: ["fedora","postgres","postgresql","sql"]
+categories: ["Uni"]
+---
 
 The day started by running around the Old College looking for the workstation room, after finally finding it, I settled down to work on looking around for Java with Postgres, as this was the database we are working with...Looking around the web wasn't much help,nothing was going to be easy, especially as I'm not great with SQL.
 

@@ -1,9 +1,9 @@
-+++
-date = "2012-07-13T19:26:02"
-title = "Has the transition to Intel gone \"seamlessly\"?"
-tags = []
-categories = ["Apple","Mac OS","Musings"]
-+++
+---
+date: "2012-07-13T19:26:02"
+title: "Has the transition to Intel gone \"seamlessly\"?"
+tags: []
+categories: ["Apple","Mac OS","Musings"]
+---
 
 At WWDC 2006, Steve Jobs said the following about porting OS X to the Intel architecture 
 > "Porting an operating system to an entirely different processor architecture is no easy task and our software team did a magnificent job of taking this on the PowerPC and turning it into this on Intel architecture.  So they made it look really easy and it's gone seamlessly which has enabled this amazing transition to occur in 210 days, but under the hood and you all know, this was 86,000,000 lines of source code that was ported to run on an entirely different  architecture with zero hiccups." 

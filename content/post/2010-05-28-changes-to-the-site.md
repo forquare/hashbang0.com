@@ -1,9 +1,9 @@
-+++
-date = "2010-05-28T11:49:44"
-title = "Changes to the site"
-tags = ["hashbang0","new site"]
-categories = ["General"]
-+++
+---
+date: "2010-05-28T11:49:44"
+title: "Changes to the site"
+tags: ["hashbang0","new site"]
+categories: ["General"]
+---
 
 So, over the last week and last night I have been working on a script to automagically generate galleries, not that that is finished I have a brand new gallery up and running.
 

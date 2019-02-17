@@ -1,9 +1,9 @@
-+++
-date = "2009-07-23T12:36:30"
-title = "RSS & Google Reader"
-tags = ["google reader"]
-categories = ["Internet"]
-+++
+---
+date: "2009-07-23T12:36:30"
+title: "RSS & Google Reader"
+tags: ["google reader"]
+categories: ["Internet"]
+---
 
 Yes, it would appear I'm becoming a little more Web 2.0 compliant...I now use RSS and Google Reader.  For years I couldn't understand why you would want RSS, I had bookmarks and could click on them and look at the site myself, but there's something about having everything in one place which is very nice.
 

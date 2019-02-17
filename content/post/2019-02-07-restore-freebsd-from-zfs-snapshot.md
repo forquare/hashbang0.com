@@ -1,10 +1,9 @@
-+++
-date = 2019-02-07T10:21:31
-title = "Restore FreeBSD from a ZFS Snapshot"
-tags = ["FreeBSD","ZFS","Backup and Restore"]
-categories =  ["FreeBSD"]
-author = "Ben Lavery-Griffiths"
-+++
+---
+date: 2019-02-07T10:21:31
+title: "Restore FreeBSD from a ZFS Snapshot"
+tags: ["FreeBSD","ZFS","Backup and Restore"]
+categories:  ["FreeBSD"]
+---
 
 ![alt text](/post_images/2019-02-07-restore-freebsd-from-zfs-snapshot/success.png "VirtualBox console with VPS booting inside")
 

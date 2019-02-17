@@ -1,9 +1,9 @@
-+++
-date = "2009-01-03T18:41:42"
-title = "Installing GCC on OpenSolaris"
-tags = ["gcc","gmake","SUNWgcc","svn"]
-categories = ["beleg-iâ","OpenSolaris"]
-+++
+---
+date: "2009-01-03T18:41:42"
+title: "Installing GCC on OpenSolaris"
+tags: ["gcc","gmake","SUNWgcc","svn"]
+categories: ["beleg-iâ","OpenSolaris"]
+---
 
 OK, I know I've blogged this before, but this is about doing it via the command line:
 

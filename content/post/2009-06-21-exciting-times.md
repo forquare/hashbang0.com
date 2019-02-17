@@ -1,9 +1,9 @@
-+++
-date = "2009-06-21T12:12:20"
-title = "Exciting times"
-tags = []
-categories = ["General"]
-+++
+---
+date: "2009-06-21T12:12:20"
+title: "Exciting times"
+tags: []
+categories: ["General"]
+---
 
 Well, I'm setting into my new hosting well, I've been playing with the Wordpress plugins over the last few days and I'm pretty happy with the results.
 

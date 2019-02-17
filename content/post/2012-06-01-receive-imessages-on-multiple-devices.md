@@ -1,9 +1,9 @@
-+++
-date = "2012-06-01T07:25:35"
-title = "Receive iMessages on multiple devices"
-tags = ["ipad","iphone","ipod touch","iMessage","email","phone number"]
-categories = ["iOS","Apps"]
-+++
+---
+date: "2012-06-01T07:25:35"
+title: "Receive iMessages on multiple devices"
+tags: ["ipad","iphone","ipod touch","iMessage","email","phone number"]
+categories: ["iOS","Apps"]
+---
 
 If you have an iPhone and an iPad or a Mac running Messages.app you may have noticed that messages don't seem to appear across devices, or that you have multiple conversations for someone. 
  

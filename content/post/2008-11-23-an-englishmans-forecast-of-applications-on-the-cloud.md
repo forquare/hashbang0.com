@@ -1,9 +1,9 @@
-+++
-date = "2008-11-23T16:57:13"
-title = "An Englishman's forecast of applications on the cloud:"
-tags = ["Bill Gates","BT","cloud computing","Internet","netbooks","Wales"]
-categories = ["General"]
-+++
+---
+date: "2008-11-23T16:57:13"
+title: "An Englishman's forecast of applications on the cloud:"
+tags: ["Bill Gates","BT","cloud computing","Internet","netbooks","Wales"]
+categories: ["General"]
+---
 
 Dull and drizzly.
 

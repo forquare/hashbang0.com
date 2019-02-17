@@ -1,9 +1,9 @@
-+++
-date = "2008-08-29T18:41:16"
-title = "Sun - Week Eight"
-tags = ["NIS+","v240","x2200"]
-categories = ["Sun"]
-+++
+---
+date: "2008-08-29T18:41:16"
+title: "Sun - Week Eight"
+tags: ["NIS+","v240","x2200"]
+categories: ["Sun"]
+---
 
 Now this week started off brilliantly, I mean who can argue with your boss telling you 'it's OK, take Monday off, and we'll pay you!' Of course, it was bank holiday Monday :wink:
 

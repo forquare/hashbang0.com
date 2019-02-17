@@ -1,9 +1,9 @@
-+++
-date = "2008-10-31T18:19:03"
-title = "Sun - Week Seventeen & week with Faye"
-tags = []
-categories = ["General","Sun","OpenSolaris"]
-+++
+---
+date: "2008-10-31T18:19:03"
+title: "Sun - Week Seventeen & week with Faye"
+tags: []
+categories: ["General","Sun","OpenSolaris"]
+---
 
 I only spent one and a half days in work this week!  Monday was spent doing some work, while Tuesday morning was spent tying up loose ends and passing other people ongoing work.
 

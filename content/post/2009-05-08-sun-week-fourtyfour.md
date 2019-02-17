@@ -1,9 +1,9 @@
-+++
-date = "2009-05-08T16:30:22"
-title = "Sun - Week Forty-four"
-tags = ["LVM","SVM","virtualbox","vmware","zfs"]
-categories = ["Sun"]
-+++
+---
+date: "2009-05-08T16:30:22"
+title: "Sun - Week Forty-four"
+tags: ["LVM","SVM","virtualbox","vmware","zfs"]
+categories: ["Sun"]
+---
 
 This week is excellent! Monday starts off as a bank holiday, and I have Thursday and Friday off!
 

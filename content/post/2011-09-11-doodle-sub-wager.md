@@ -1,9 +1,9 @@
-+++
-date = "2011-09-11T18:46:00"
-title = "Doodle Sub & Wager"
-tags = []
-categories = ["Apps"]
-+++
+---
+date: "2011-09-11T18:46:00"
+title: "Doodle Sub & Wager"
+tags: []
+categories: ["Apps"]
+---
 
 A couple of friends have made some apps for the iPhone/iPod Touch, so I thought I'd quickly plug them :P 
  
