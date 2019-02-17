@@ -1,9 +1,9 @@
-+++
-date = "2009-06-15T20:44:52"
-title = "Apple updates Java!"
-tags = []
-categories = ["Mac OS","Java"]
-+++
+---
+date: "2009-06-15T20:44:52"
+title: "Apple updates Java!"
+tags: []
+categories: ["Mac OS","Java"]
+---
 
 Well, we've been waiting, what, about two years for this now.  Today, Apple released Java 6 as part of it's Java for Mac OS X 10.5 Update 4.
 

@@ -1,9 +1,9 @@
-+++
-date = "2010-08-14T10:00:43"
-title = "Goodbye OpenSolaris"
-tags = ["freebsd","OpenSolaris","Oracle","Sun"]
-categories = ["OpenSolaris"]
-+++
+---
+date: "2010-08-14T10:00:43"
+title: "Goodbye OpenSolaris"
+tags: ["freebsd","OpenSolaris","Oracle","Sun"]
+categories: ["OpenSolaris"]
+---
 
 Well, it looks like [Oracle has pulled OpenSolaris][1].  Hopefully the [Illumos project][2] will continue and make some sort of replacement for the loss.
 

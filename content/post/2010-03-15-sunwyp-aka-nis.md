@@ -1,9 +1,9 @@
-+++
-date = "2010-03-15T19:20:31"
-title = "SUNWyp - A.K.A. NIS"
-tags = ["2009.06","NIS+","OpenSolaris","SUNWyp"]
-categories = ["General"]
-+++
+---
+date: "2010-03-15T19:20:31"
+title: "SUNWyp - A.K.A. NIS"
+tags: ["2009.06","NIS+","OpenSolaris","SUNWyp"]
+categories: ["General"]
+---
 
 So, over the last week I have been trying to get NIS to work with OpenSolaris in VirtualBox machines.
 

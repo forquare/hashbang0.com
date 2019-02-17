@@ -1,9 +1,9 @@
-+++
-date = "2010-05-18T15:22:26"
-title = "Robust Bash Scripts - Part Two"
-tags = ["bash script","errexit","set -e"]
-categories = ["Bash/Shell"]
-+++
+---
+date: "2010-05-18T15:22:26"
+title: "Robust Bash Scripts - Part Two"
+tags: ["bash script","errexit","set -e"]
+categories: ["Bash/Shell"]
+---
 
 This is part of a series of posts which should aid anyone writing Bash scripts to make them more robust. 
  

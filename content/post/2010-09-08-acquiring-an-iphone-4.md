@@ -1,9 +1,9 @@
-+++
-date = "2010-09-08T07:12:01"
-title = "Acquiring an iPhone 4"
-tags = ["iPhone 4"]
-categories = ["iPhone"]
-+++
+---
+date: "2010-09-08T07:12:01"
+title: "Acquiring an iPhone 4"
+tags: ["iPhone 4"]
+categories: ["iPhone"]
+---
 
 Last Saturday I called Tesco to try and order a 16GB iPhone 4 but they were out of stock :(
 

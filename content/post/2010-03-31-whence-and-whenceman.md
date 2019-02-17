@@ -1,9 +1,9 @@
-+++
-date = "2010-03-31T11:17:52"
-title = "Whence and Whenceman"
-tags = ["bash","unix","whence","whenceman","which"]
-categories = ["Linux","Mac OS","Bash/Shell","OpenSolaris"]
-+++
+---
+date: "2010-03-31T11:17:52"
+title: "Whence and Whenceman"
+tags: ["bash","unix","whence","whenceman","which"]
+categories: ["Linux","Mac OS","Bash/Shell","OpenSolaris"]
+---
 
 On the UNIX command line, the \`which\` command is great, it tells you where a command is in the system.  However, if your system has two versions of the \`ls\` command, it will only tell you which \`ls\` command you are going to use when tap it in and press enter.  To find all copies of any command, we need something [Liam][1] called \`whence\` (I inherited Liam's bashrc file when working at Sun, and this little gem was right inside it).  The .bashrc function for \`whence\` looks something like this: 
  

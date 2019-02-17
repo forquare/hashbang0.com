@@ -1,9 +1,9 @@
-+++
-date = "2009-02-06T20:59:34"
-title = "Sun - Week Thirty-one"
-tags = ["aber","beer pong","Starbucks","Wasabi"]
-categories = ["General","Sun"]
-+++
+---
+date: "2009-02-06T20:59:34"
+title: "Sun - Week Thirty-one"
+tags: ["aber","beer pong","Starbucks","Wasabi"]
+categories: ["General","Sun"]
+---
 
 Week off! Woo!!!
 

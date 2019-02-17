@@ -1,9 +1,9 @@
-+++
-date = "2008-01-15T08:38:34"
-title = "That January feeling"
-tags = ["68hc11","aberystwyth","exams","Uni"]
-categories = ["Uni"]
-+++
+---
+date: "2008-01-15T08:38:34"
+title: "That January feeling"
+tags: ["68hc11","aberystwyth","exams","Uni"]
+categories: ["Uni"]
+---
 
 It's a new year and time to get up and go after the Christmas break, however, for us students at Aber uni (as well as other students I'm sure), we look forward to a bunch of exams in stuff we can't quite remember (perhaps we drank too much or ate too much turkey or something).
 

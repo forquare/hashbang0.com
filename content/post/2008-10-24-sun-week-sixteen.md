@@ -1,9 +1,9 @@
-+++
-date = "2008-10-24T16:50:46"
-title = "Sun - Week Sixteen"
-tags = ["blades","sparc","x64"]
-categories = ["Sun"]
-+++
+---
+date: "2008-10-24T16:50:46"
+title: "Sun - Week Sixteen"
+tags: ["blades","sparc","x64"]
+categories: ["Sun"]
+---
 
 OK, writing this from the future, I can't remember the details of this week...
 

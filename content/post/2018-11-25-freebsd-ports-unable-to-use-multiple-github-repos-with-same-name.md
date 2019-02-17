@@ -1,10 +1,9 @@
-+++
-date = 2018-12-28T16:07:29
-title = "FreeBSD Ports unable to use multiple Github repos with the same name"
-tags = ["FreeBSD", "Ports"]
-categories =  ["computing", "build"]
-author = "Ben Lavery-Griffiths"
-+++
+---
+date: 2018-12-28T16:07:29
+title: "FreeBSD Ports unable to use multiple Github repos with the same name"
+tags: ["FreeBSD", "Ports"]
+categories:  ["computing", "build"]
+---
 
 I maintain the [hugo](https://gohugo.io) ([www/gohugo](https://www.freshports.org/www/gohugo)) FreeBSD Port.  In a recent release ([0.51](https://github.com/gohugoio/hugo/releases/tag/v0.51)) a situation arose where the dependency “mitchellh/mapstructure” required a fix.  The Github repository for the dependency was forked to “bep/mapstructure” and a [Pull Request to the original repository made](https://github.com/mitchellh/mapstructure/pull/123).  The Pull Request wasn’t pulled into the original repo in time for the 0.51 release (and still haven’t at time of writing), so the developers have instead specified both the original and forked repos as dependencies.
 

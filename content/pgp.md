@@ -1,8 +1,8 @@
-+++
-date = "2016-09-06T20:58:16+01:00"
-title = "My PGP Key"
-rss = false
-+++
+---
+date: "2016-09-06T20:58:16+01:00"
+title: "My PGP Key"
+rss: false
+---
 
 Although I don't always use it, below if my public PGP key which you can use when corresponding with me.
 

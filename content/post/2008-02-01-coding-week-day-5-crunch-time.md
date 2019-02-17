@@ -1,9 +1,9 @@
-+++
-date = "2008-02-01T20:51:39"
-title = "Coding week - Day 5: Crunch Time"
-tags = ["applet","application","coding week","GUI","hand in","Java","sun lounge"]
-categories = ["Uni"]
-+++
+---
+date: "2008-02-01T20:51:39"
+title: "Coding week - Day 5: Crunch Time"
+tags: ["applet","application","coding week","GUI","hand in","Java","sun lounge"]
+categories: ["Uni"]
+---
 
 Up at 8 am this morning and on the bus by 8:50. Got to an empty computer room to find only one of my team members there. I sat in wait until about 9:30, waiting for team members to appear, or even just other groups...
 

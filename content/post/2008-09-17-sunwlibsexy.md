@@ -1,9 +1,9 @@
-+++
-date = "2008-09-17T20:09:44"
-title = "SUNWlibsexy"
-tags = ["OpenSolaris","Solaris"]
-categories = ["Sun","OpenSolaris"]
-+++
+---
+date: "2008-09-17T20:09:44"
+title: "SUNWlibsexy"
+tags: ["OpenSolaris","Solaris"]
+categories: ["Sun","OpenSolaris"]
+---
 
 I'm just updating packages on my OpenSolaris installation, and I glanced at the screen only to find a package called "SUNWlibsexy" sitting bang in the middle of the update screen. After a quick Google, I found this:
 > Name: SUNWlibsexy

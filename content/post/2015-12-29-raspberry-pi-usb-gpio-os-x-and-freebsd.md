@@ -1,9 +1,9 @@
-+++
-date = "2015-12-29T15:12:17"
-title = "Raspberry Pi USB-GPIO OS X and FreeBSD"
-tags = ["console","freebsd","os x","Raspberry Pi","Serial","GPIO","UART","USB"]
-categories = ["Hardware","Mac OS","FreeBSD","Raspberry Pi"]
-+++
+---
+date: "2015-12-29T15:12:17"
+title: "Raspberry Pi USB-GPIO OS X and FreeBSD"
+tags: ["console","freebsd","os x","Raspberry Pi","Serial","GPIO","UART","USB"]
+categories: ["Hardware","Mac OS","FreeBSD","Raspberry Pi"]
+---
 
 I play with my Raspberry Pi so rarely that I forget how to use my [CP2102 serial converter][1] to connect from my iMac or FreeBSD laptop to the Raspberry Pi, so I thought I'd write a blog post and then I'd have an easy place to go back to remember how... 
 

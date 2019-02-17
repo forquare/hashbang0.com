@@ -1,9 +1,9 @@
-+++
-date = "2008-10-31T14:21:25"
-title = "OpenSolaris & CS101"
-tags = []
-categories = ["Uni","OpenSolaris"]
-+++
+---
+date: "2008-10-31T14:21:25"
+title: "OpenSolaris & CS101"
+tags: []
+categories: ["Uni","OpenSolaris"]
+---
 
 On Thursday 30th October, I attended the CS101 lecture in Aber uni.  I was there to give a brief talk about OpenSolaris, focusing on aspects like Zones, DTrace and ZFS.  I think it went OK, possibly pitched it a tad too high, and I missed out tonnes of stuff I wanted to put in, like the copy on write feature of ZFS...
 

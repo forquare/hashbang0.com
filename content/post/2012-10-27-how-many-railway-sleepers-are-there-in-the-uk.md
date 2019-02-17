@@ -1,9 +1,9 @@
-+++
-date = "2012-10-27T19:23:15"
-title = "How many railway sleepers are there in the UK?"
-tags = ["Railway","sleepers","impossible questions"]
-categories = ["Trains"]
-+++
+---
+date: "2012-10-27T19:23:15"
+title: "How many railway sleepers are there in the UK?"
+tags: ["Railway","sleepers","impossible questions"]
+categories: ["Trains"]
+---
 
 A few of weeks ago, I was sitting in a local café with my good friend [Adam Blackburn][1].  I can't quite recall how we got onto the topic, but Adam turned to me and asked "How many sleepers are there in the UK?", not being able to tell him, he decided it would be my 'homework'.  We laughed about it a bit, and somewhat forgot about it, but I was left pondering.  A couple of weeks later, questioning a couple of people at work, and using my [Google-fu][2] I was able to give Adam an answer. 
  

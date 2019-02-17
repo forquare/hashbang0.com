@@ -1,9 +1,9 @@
-+++
-date = "2008-12-12T16:40:31"
-title = "Sun - Week Twenty-three"
-tags = ["etherlite","LX50","Solaris 9","Sun Ray","v20z"]
-categories = ["Sun"]
-+++
+---
+date: "2008-12-12T16:40:31"
+title: "Sun - Week Twenty-three"
+tags: ["etherlite","LX50","Solaris 9","Sun Ray","v20z"]
+categories: ["Sun"]
+---
 
 Monday starts considerably well seeing as Paul is out this week. Tom is also on a course so we are two people down.
 I spent a large part of the morning over in GMP02 looking at some machines which were overheating. The A/C seems to have gone wrong over there and the machines are suffering. After I fixed some machines temporally I came back over to the office and it was almost lunch time.

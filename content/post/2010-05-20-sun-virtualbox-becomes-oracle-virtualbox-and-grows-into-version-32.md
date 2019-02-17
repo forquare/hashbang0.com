@@ -1,9 +1,9 @@
-+++
-date = "2010-05-20T21:21:04"
-title = "Sun VirtualBox becomes Oracle VirtualBox and grows into version 3.2"
-tags = ["Oracle","Sun","virtualbox"]
-categories = ["Oracle","Sun"]
-+++
+---
+date: "2010-05-20T21:21:04"
+title: "Sun VirtualBox becomes Oracle VirtualBox and grows into version 3.2"
+tags: ["Oracle","Sun","virtualbox"]
+categories: ["Oracle","Sun"]
+---
 
 So Oracle had Sun for a fair while now, all of the sites have been re-branded, and finally, as of Tuesday, the stable release of VirtualBox was also re-branded.
 

@@ -1,9 +1,9 @@
-+++
-date = "2009-02-20T18:07:17"
-title = "Sun - Week Thirty-three"
-tags = ["208r","2510","3310","minnow","SAS","SATA","t2000","v215","x2200","x4100","x4140","x4540","x4600"]
-categories = ["General","Sun"]
-+++
+---
+date: "2009-02-20T18:07:17"
+title: "Sun - Week Thirty-three"
+tags: ["208r","2510","3310","minnow","SAS","SATA","t2000","v215","x2200","x4100","x4140","x4540","x4600"]
+categories: ["General","Sun"]
+---
 
 The weekend was great. Faye came down on Friday and went home on Sunday, we had a really nice, weekend doing not much. Parents came round on Saturday too to show Faye the photo scrapbook Mum had made me for my birthday.
 

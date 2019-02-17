@@ -1,9 +1,9 @@
-+++
-date = "2009-01-19T00:48:11"
-title = "Create an OpenSolaris 2008.11 LiveUSB"
-tags = ["IBM","livecd","liveusb","OpenSolaris","ThinkPad","X32"]
-categories = ["OpenSolaris"]
-+++
+---
+date: "2009-01-19T00:48:11"
+title: "Create an OpenSolaris 2008.11 LiveUSB"
+tags: ["IBM","livecd","liveusb","OpenSolaris","ThinkPad","X32"]
+categories: ["OpenSolaris"]
+---
 
 T'other day I won an IBM X32 on eBay (more on that tomorrow).  I want to install OpenSolaris on the laptop, but it doesn't have an optical drive...
 

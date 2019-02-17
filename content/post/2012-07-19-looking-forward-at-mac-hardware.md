@@ -1,9 +1,9 @@
-+++
-date = "2012-07-19T18:19:47"
-title = "Looking forward at Mac hardware"
-tags = ["Apple","Mac","macbook","imac","Retina","Mac Mini","MacBook Air","MacBook Pro","Hardware"]
-categories = ["Mac Hardware"]
-+++
+---
+date: "2012-07-19T18:19:47"
+title: "Looking forward at Mac hardware"
+tags: ["Apple","Mac","macbook","imac","Retina","Mac Mini","MacBook Air","MacBook Pro","Hardware"]
+categories: ["Mac Hardware"]
+---
 
 Last month at WWDC, Apple announced a new MacBook: The MacBook Pro with Retina display.  Specs can be found in my [WWDC 2012 post][1] or on the [Apple Specs][2] page.  But what could we broadly expect Apple's behaviour on future Mac hardware design to be? 
  

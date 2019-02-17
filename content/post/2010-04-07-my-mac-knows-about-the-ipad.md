@@ -1,9 +1,9 @@
-+++
-date = "2010-04-07T12:30:33"
-title = "My Mac knows about the iPad"
-tags = ["ipad","itunes"]
-categories = ["iPad"]
-+++
+---
+date: "2010-04-07T12:30:33"
+title: "My Mac knows about the iPad"
+tags: ["ipad","itunes"]
+categories: ["iPad"]
+---
 
 I was just browsing through the /System/Library/CoreServices/CoreTypes.bundle/Contents/Resources folder on my MacBook, just to see what was there, and I suddenly spied the iPad icon:
 

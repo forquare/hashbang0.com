@@ -1,9 +1,9 @@
-+++
-date = "2009-11-13T19:02:48"
-title = "My new work area"
-tags = []
-categories = ["General","Mac Hardware"]
-+++
+---
+date: "2009-11-13T19:02:48"
+title: "My new work area"
+tags: []
+categories: ["General","Mac Hardware"]
+---
 
 Well it's been a while since I last posted here.  Though it'd be right that I come back with tales of new desks, screens and computers!
 

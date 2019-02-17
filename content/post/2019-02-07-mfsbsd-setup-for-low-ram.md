@@ -1,10 +1,9 @@
-+++
-date = 2019-02-07T10:31:00
-title = "Setting up mfsBSD for receiving ZFS snapshots on systems with low memory"
-tags = ["FreeBSD","ZFS","mfsBSD"]
-categories =  ["FreeBSD"]
-author = "Ben Lavery-Griffiths"
-+++
+---
+date: 2019-02-07T10:31:00
+title: "Setting up mfsBSD for receiving ZFS snapshots on systems with low memory"
+tags: ["FreeBSD","ZFS","mfsBSD"]
+categories:  ["FreeBSD"]
+---
 
 I recently had a need to boot into a fresh server (a VirtualBox VM, actually) with FreeBSD in order to partition the disk and [make it ready to restore another machine onto it](/2019/02/07/restore-freebsd-from-a-zfs-snapshot/).
 

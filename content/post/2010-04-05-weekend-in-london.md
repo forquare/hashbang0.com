@@ -1,9 +1,9 @@
-+++
-date = "2010-04-05T10:48:31"
-title = "Weekend in London"
-tags = ["Aberration","faye","London","mobile internet","paddington","proud central gallery"]
-categories = ["General","Musings","Internet"]
-+++
+---
+date: "2010-04-05T10:48:31"
+title: "Weekend in London"
+tags: ["Aberration","faye","London","mobile internet","paddington","proud central gallery"]
+categories: ["General","Musings","Internet"]
+---
 
 I've spent my Easter weekend in London with [Faye][1]. She has a exhibition at the [Proud Central Gallery][2] (Open for the next two weeks!). I travelled from Aberystwyth to Faye's home in Carmarthen on Friday, then from Carmarthen to Cardiff by car on Saturday, then Cardiff to London on the MegaBus. Saturday was the opening, and it went very well indeed!
 

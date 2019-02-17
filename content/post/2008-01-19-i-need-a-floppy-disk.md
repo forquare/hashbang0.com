@@ -1,9 +1,9 @@
-+++
-date = "2008-01-19T19:54:28"
-title = "I need a floppy disk!?"
-tags = ["debian","fedora","Linux","opensuse","server","suse","ubuntu"]
-categories = ["Linux"]
-+++
+---
+date: "2008-01-19T19:54:28"
+title: "I need a floppy disk!?"
+tags: ["debian","fedora","Linux","opensuse","server","suse","ubuntu"]
+categories: ["Linux"]
+---
 
 OK, exams finished on Thursday...I let myself recoup on Friday and today I decided have a play with my spare tower...Up until recently I have had [OpenSuse][1] 10.2 on there running GNOME (the CPU is an old AMD Athlon and it has an ancient GPU and goodness knows how much RAM).
 

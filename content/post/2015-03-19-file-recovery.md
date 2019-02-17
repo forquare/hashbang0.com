@@ -1,9 +1,9 @@
-+++
-date = "2015-03-19T15:16:00"
-title = "File Recovery"
-tags = ["TestDisk","File Recovery","File System","recover"]
-categories = ["Mac OS","Tech Support"]
-+++
+---
+date: "2015-03-19T15:16:00"
+title: "File Recovery"
+tags: ["TestDisk","File Recovery","File System","recover"]
+categories: ["Mac OS","Tech Support"]
+---
 
 Over the past few years I've needed to recover files from various USB sticks and SD cards using my Mac.  I've recently needed to do this again, and every time I'm asked I always forget the application I use!  So I'm created a blog post so it's easy to search for! 
  

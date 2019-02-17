@@ -1,9 +1,9 @@
-+++
-date = "2010-01-31T19:57:08"
-title = "Apple iPad"
-tags = ["A4","Apple","ipad","PARC","Xerox"]
-categories = ["iPad","Musings"]
-+++
+---
+date: "2010-01-31T19:57:08"
+title: "Apple iPad"
+tags: ["A4","Apple","ipad","PARC","Xerox"]
+categories: ["iPad","Musings"]
+---
 
 So, I'm a little late to the blogsphere on this one, but then when am I not? I've read some pretty damning things about the [iPad][1], it doesn't have a SD card reader, it doesn't have a camera, it has files and no file system, it doesn't do Flash, and that the name suggests a type of adult nappy...
 I thought that I'd look at these comments and generally give my views on the iPad and it's hardware.

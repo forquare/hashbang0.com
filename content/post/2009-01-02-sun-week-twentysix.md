@@ -1,9 +1,9 @@
-+++
-date = "2009-01-02T16:13:41"
-title = "Sun - Week Twenty-six"
-tags = ["New Years"]
-categories = ["Sun"]
-+++
+---
+date: "2009-01-02T16:13:41"
+title: "Sun - Week Twenty-six"
+tags: ["New Years"]
+categories: ["Sun"]
+---
 
 Monday starts with me coming back to work after a weeks leave. I spent much of the day picking up what I had dropped when I left, there wasn't much, but some bits needed to be done.
 I potched around in the lab doing some tidying and looked at my booked machines and tidied them out too.

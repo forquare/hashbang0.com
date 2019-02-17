@@ -1,9 +1,9 @@
-+++
-date = "2009-01-04T03:52:34"
-title = "File system frenzy"
-tags = ["nfs","sharenfs","zfs","Zpool"]
-categories = ["beleg-iâ","OpenSolaris"]
-+++
+---
+date: "2009-01-04T03:52:34"
+title: "File system frenzy"
+tags: ["nfs","sharenfs","zfs","Zpool"]
+categories: ["beleg-iâ","OpenSolaris"]
+---
 
 On my server, I've been looking into having various ZFS file systems, this would allow me to better manage parts of the system later on.
 

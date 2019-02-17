@@ -1,9 +1,9 @@
-+++
-date = "2009-01-03T02:41:27"
-title = "Beleg Iâ - Hardware"
-tags = ["Antec","Crucial","E7400","Gigabyte","Intel","Maxtor"]
-categories = ["beleg-iâ","Hardware"]
-+++
+---
+date: "2009-01-03T02:41:27"
+title: "Beleg Iâ - Hardware"
+tags: ["Antec","Crucial","E7400","Gigabyte","Intel","Maxtor"]
+categories: ["beleg-iâ","Hardware"]
+---
 
 I decided I really wanted to build a server running OpenSolaris with ZFS.  My main idea is to use it as a file server.
 

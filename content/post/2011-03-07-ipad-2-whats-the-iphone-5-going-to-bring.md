@@ -1,9 +1,9 @@
-+++
-date = "2011-03-07T05:01:23"
-title = "iPad 2 - What's the iPhone 5 going to bring?"
-tags = ["Apple","iOS","ipad","iPad 2","iPhone 4","iPhone 5"]
-categories = ["iPad","iPhone"]
-+++
+---
+date: "2011-03-07T05:01:23"
+title: "iPad 2 - What's the iPhone 5 going to bring?"
+tags: ["Apple","iOS","ipad","iPad 2","iPhone 4","iPhone 5"]
+categories: ["iPad","iPhone"]
+---
 
 The iPad 2 has been announced, set to ship to UK customers on the 25th March.  It boasts a number of improvements over the first iPad, faster, slimmer, same great battery life, but can we use this new offering to guess what might be inside the next iPhone?
 

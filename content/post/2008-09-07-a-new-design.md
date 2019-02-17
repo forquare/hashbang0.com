@@ -1,9 +1,9 @@
-+++
-date = "2008-09-07T23:06:35"
-title = "A new design"
-tags = ["#!","aber","hash bang","site","web","webshite","website"]
-categories = ["General","Uni"]
-+++
+---
+date: "2008-09-07T23:06:35"
+title: "A new design"
+tags: ["#!","aber","hash bang","site","web","webshite","website"]
+categories: ["General","Uni"]
+---
 
 I have redesigned my webshite, mostly because I got bored and didn't like the old design...
 

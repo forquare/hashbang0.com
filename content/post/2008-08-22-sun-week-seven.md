@@ -1,9 +1,9 @@
-+++
-date = "2008-08-22T14:43:33"
-title = "Sun - Week Seven"
-tags = ["autofs","nfs","profiles","raid","roles","Solaris","training","zfs","zones"]
-categories = ["Sun"]
-+++
+---
+date: "2008-08-22T14:43:33"
+title: "Sun - Week Seven"
+tags: ["autofs","nfs","profiles","raid","roles","Solaris","training","zfs","zones"]
+categories: ["Sun"]
+---
 
 More training this week.
 

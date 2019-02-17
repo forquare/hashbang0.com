@@ -1,9 +1,9 @@
-+++
-date = "2008-06-01T14:30:13"
-title = "Application icons..."
-tags = ["application","icons"]
-categories = ["Mac OS"]
-+++
+---
+date: "2008-06-01T14:30:13"
+title: "Application icons..."
+tags: ["application","icons"]
+categories: ["Mac OS"]
+---
 
 [<img src="http://i9.photobucket.com/albums/a55/forquare/blog/aplpications.png" width="268" height="162" class="alignleft" style="border: 0 none; float: left" />][1]Did you know that you can grab the icons for applications, and then save them as a GIF, a JPEG, PNG or even a PDF?
 

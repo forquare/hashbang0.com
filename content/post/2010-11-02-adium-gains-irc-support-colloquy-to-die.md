@@ -1,9 +1,9 @@
-+++
-date = "2010-11-02T09:22:14"
-title = "Adium Gains IRC Support - Colloquy to die?"
-tags = ["Adium","Colloquy","IRC","Pidgin"]
-categories = ["Mac OS","Internet"]
-+++
+---
+date: "2010-11-02T09:22:14"
+title: "Adium Gains IRC Support - Colloquy to die?"
+tags: ["Adium","Colloquy","IRC","Pidgin"]
+categories: ["Mac OS","Internet"]
+---
 
 [Adiam][1] is an awesome app for OS X which is based on the same code as [Pidgin][2].  Adium has the advantage of being the same as many other open source instant messenger clients out there as well as being coded specifically for OS X and all the Aqua goodness one could ask for.
 

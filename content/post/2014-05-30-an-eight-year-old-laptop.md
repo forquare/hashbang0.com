@@ -1,9 +1,9 @@
-+++
-date = "2014-05-30T19:00:18"
-title = "An eight year old laptop"
-tags = []
-categories = ["Mac","Musings","Uni"]
-+++
+---
+date: "2014-05-30T19:00:18"
+title: "An eight year old laptop"
+tags: []
+categories: ["Mac","Musings","Uni"]
+---
 
 Technology moves so fast, doesn't it?  I mean who would want such a battered looking laptop? 
 [<img src="/wp-content/uploads/2014/05/2014-05-27-14.20.43-1024x593.jpg" width="700" height="405" class="aligncenter wp-image-1443 size-large" />][1] 

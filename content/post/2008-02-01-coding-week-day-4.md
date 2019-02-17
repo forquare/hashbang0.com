@@ -1,9 +1,9 @@
-+++
-date = "2008-02-01T01:21:45"
-title = "Coding week - Day 4"
-tags = ["aber","ANT","coding week","eclipse","Java","javadoc","Uni","unix","xml"]
-categories = ["Uni"]
-+++
+---
+date: "2008-02-01T01:21:45"
+title: "Coding week - Day 4"
+tags: ["aber","ANT","coding week","eclipse","Java","javadoc","Uni","unix","xml"]
+categories: ["Uni"]
+---
 
 The morning started late with hardly anyone turning up on time. I spent the morning looking once again at some Postgres stuff, but gave up a little before noon.
 

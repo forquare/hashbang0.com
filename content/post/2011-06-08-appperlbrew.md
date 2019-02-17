@@ -1,9 +1,9 @@
-+++
-date = "2011-06-08T08:00:00"
-title = "App::perlbrew"
-tags = ["perl"]
-categories = ["Perl"]
-+++
+---
+date: "2011-06-08T08:00:00"
+title: "App::perlbrew"
+tags: ["perl"]
+categories: ["Perl"]
+---
 
 Last summer I decided I would learn Perl.  I had put it off for a long time, but after trying and failing at learning Python, I decided to give Perl a go. 
  

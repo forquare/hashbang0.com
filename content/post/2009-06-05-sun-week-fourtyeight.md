@@ -1,9 +1,9 @@
-+++
-date = "2009-06-05T21:50:58"
-title = "Sun – Week Forty-eight"
-tags = []
-categories = ["Sun"]
-+++
+---
+date: "2009-06-05T21:50:58"
+title: "Sun – Week Forty-eight"
+tags: []
+categories: ["Sun"]
+---
 
 Monday begins after a sleepless night, it's so bloody warm here...I spent the morning looking at our console server, remember I was going to upgrade it? After all the preliminary work I was really afraid to touch the real thing for fear of breaking it...Well I fixed a couple of problems with it and went ahead, re-labelling disks and creating volumes and mirrors using SVM. In the afternoon I looked at it a bit more and kicked off the copying of the boot environment (BE).
 

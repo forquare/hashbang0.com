@@ -1,9 +1,9 @@
-+++
-date = "2009-08-27T05:43:25"
-title = "Snow Leopard ships!"
-tags = ["os x","Snow Leopard"]
-categories = ["Mac OS"]
-+++
+---
+date: "2009-08-27T05:43:25"
+title: "Snow Leopard ships!"
+tags: ["os x","Snow Leopard"]
+categories: ["Mac OS"]
+---
 
 I pre-ordered my copy on Monday at work, and this morning was greeted by this:
 

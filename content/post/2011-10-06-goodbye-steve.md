@@ -1,9 +1,9 @@
-+++
-date = "2011-10-06T06:04:13"
-title = "Goodbye, Steve"
-tags = ["Apple","Steve Jobs","passed away","sad"]
-categories = ["Apple"]
-+++
+---
+date: "2011-10-06T06:04:13"
+title: "Goodbye, Steve"
+tags: ["Apple","Steve Jobs","passed away","sad"]
+categories: ["Apple"]
+---
 
 I sat down at my computer this morning before work, I glanced at my tweets, then at my RSS, I realised what had happened. 
  

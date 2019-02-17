@@ -1,9 +1,9 @@
-+++
-date = "2009-01-03T18:18:29"
-title = "Beleg Iâ - Building"
-tags = []
-categories = ["beleg-iâ","Hardware","OpenSolaris"]
-+++
+---
+date: "2009-01-03T18:18:29"
+title: "Beleg Iâ - Building"
+tags: []
+categories: ["beleg-iâ","Hardware","OpenSolaris"]
+---
 
 So, I had ordered the parts and the parts had arrived.  I was very good, although everything was with me by last Tuesday, I refrained from building them up until Friday.
 

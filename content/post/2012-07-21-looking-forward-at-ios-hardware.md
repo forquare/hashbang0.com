@@ -1,9 +1,9 @@
-+++
-date = "2012-07-21T15:47:14"
-title = "Looking forward at iOS hardware"
-tags = []
-categories = ["iPad","iPhone","iOS"]
-+++
+---
+date: "2012-07-21T15:47:14"
+title: "Looking forward at iOS hardware"
+tags: []
+categories: ["iPad","iPhone","iOS"]
+---
 
 Over the last five years the iPhone has gone through numerous designs, both physical design and hardware design.  Here is a quick look at the specs of each iDevice (Note that the iPhone CPUs are underclocked): 
  

@@ -1,9 +1,9 @@
-+++
-date = "2008-10-03T17:15:05"
-title = "Sun - Week Thirteen"
-tags = ["Bill Bailey","clive king","console server","enotty","LiveUpgrade","multihead","Royal Albert Hall","Solaris 10","SunRay","Ultra 80"]
-categories = ["Sun"]
-+++
+---
+date: "2008-10-03T17:15:05"
+title: "Sun - Week Thirteen"
+tags: ["Bill Bailey","clive king","console server","enotty","LiveUpgrade","multihead","Royal Albert Hall","Solaris 10","SunRay","Ultra 80"]
+categories: ["Sun"]
+---
 
 Unlucky for some, will it be for me? As you possibly guess, I write parts of entries throughout the week and publish on Fridays, so at the time of writing, I have no idea if it's going to be a good or bad week, it's 11:50, Monday morning :P
 

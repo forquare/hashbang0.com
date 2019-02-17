@@ -1,9 +1,9 @@
-+++
-date = "2009-01-09T14:47:43"
-title = "Sun - Week Twenty-seven"
-tags = ["15k","25k"]
-categories = ["Sun"]
-+++
+---
+date: "2009-01-09T14:47:43"
+title: "Sun - Week Twenty-seven"
+tags: ["15k","25k"]
+categories: ["Sun"]
+---
 
 This week started with snow!
 

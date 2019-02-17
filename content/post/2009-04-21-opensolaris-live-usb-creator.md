@@ -1,9 +1,9 @@
-+++
-date = "2009-04-21T14:07:36"
-title = "OpenSolaris Live USB Creator"
-tags = []
-categories = ["OpenSolaris"]
-+++
+---
+date: "2009-04-21T14:07:36"
+title: "OpenSolaris Live USB Creator"
+tags: []
+categories: ["OpenSolaris"]
+---
 
 Just been alerted to this: [clicky][1]
 

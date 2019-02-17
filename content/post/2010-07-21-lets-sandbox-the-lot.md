@@ -1,9 +1,9 @@
-+++
-date = "2010-07-21T10:59:23"
-title = "Let's sandbox the lot!"
-tags = ["adobe","dell","firefox","reader","sandbox"]
-categories = ["Programming"]
-+++
+---
+date: "2010-07-21T10:59:23"
+title: "Let's sandbox the lot!"
+tags: ["adobe","dell","firefox","reader","sandbox"]
+categories: ["Programming"]
+---
 
 Yesterday, two stories emerged which caught my attention, the first was saying how [Dell has created a version of Firefox that runs in a sandbox][1], the second said how [Adobe are going to sandbox Reader][2].
 

@@ -1,9 +1,9 @@
-+++
-date = "2009-04-27T01:01:18"
-title = "Are blogs a fad?"
-tags = ["blog","blogger","wordpress"]
-categories = ["Internet"]
-+++
+---
+date: "2009-04-27T01:01:18"
+title: "Are blogs a fad?"
+tags: ["blog","blogger","wordpress"]
+categories: ["Internet"]
+---
 
 Why does one start to write a blog? I know why I started mine, I wanted some representation on the web which was a bit more organised than the sites I tend to cobble together...Did I share much with you all?  [Looking back][1], no.  OK, so I've blogged about at least one thing every month...But that's just it, some months I've completely neglected this site...
 

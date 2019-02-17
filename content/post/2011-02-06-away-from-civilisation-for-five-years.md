@@ -1,9 +1,9 @@
-+++
-date = "2011-02-06T15:49:28"
-title = "Away from civilisation for five years"
-tags = ["Apple","Microsoft","mobile phones"]
-categories = ["Musings"]
-+++
+---
+date: "2011-02-06T15:49:28"
+title: "Away from civilisation for five years"
+tags: ["Apple","Microsoft","mobile phones"]
+categories: ["Musings"]
+---
 
 The other evening Faye and I watched the film, [Cast Away][1].  I didn't watch the whole film, but the overall plot was man gets stuck on island, everyone thinks he's dead, he comes back after five years.
 

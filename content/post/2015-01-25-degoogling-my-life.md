@@ -1,9 +1,9 @@
-+++
-date = "2015-01-25T22:38:06"
-title = "DeGoogling my life"
-tags = ["Apple","firefox","Google","google reader","Internet","Safari","Google Plus","degoogling","Apple Maps","DuckDuckGo","Zoho"]
-categories = ["Google"]
-+++
+---
+date: "2015-01-25T22:38:06"
+title: "DeGoogling my life"
+tags: ["Apple","firefox","Google","google reader","Internet","Safari","Google Plus","degoogling","Apple Maps","DuckDuckGo","Zoho"]
+categories: ["Google"]
+---
 
 I have mixed feelings about Google.  On the one hand their search engine is next to ubiquitous, most browsers come with it as the default, and they also have some pretty excellent services.  On the other hand, and perhaps this is my Apple synapse firing, I see them as a new enemy, and one that isn't doing much to try and win me over. 
  

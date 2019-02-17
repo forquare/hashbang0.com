@@ -1,9 +1,9 @@
-+++
-date = "2009-01-20T00:49:07"
-title = "My new IBM Thinkpad X32 and wireless"
-tags = ["2008.11","IBM","OpenSolaris","ThinkPad","Wireless","X32"]
-categories = ["OpenSolaris"]
-+++
+---
+date: "2009-01-20T00:49:07"
+title: "My new IBM Thinkpad X32 and wireless"
+tags: ["2008.11","IBM","OpenSolaris","ThinkPad","Wireless","X32"]
+categories: ["OpenSolaris"]
+---
 
 Today I took delivery of the four year old IBM Thinkpad X32.  With it's 1.8GHz Pentium M, 1GB of RAM and it's "massive" 40GB HDD ;) I thought it was an excellent machine to use as a portable OpenSolaris machine.I used the USB stick I had prepared last night to boot the live image and do the install, within the first hour James had messed with the driver file and stopped the machine from booting \*sigh\*.
 A reinstall later and I was up and running OpenSolaris 2008.11!

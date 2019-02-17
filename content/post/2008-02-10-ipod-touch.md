@@ -1,9 +1,9 @@
-+++
-date = "2008-02-10T04:03:15"
-title = "iPod Touch"
-tags = ["ical","iphone","iphoto","ipod","itunes","sync","touch"]
-categories = ["Apple"]
-+++
+---
+date: "2008-02-10T04:03:15"
+title: "iPod Touch"
+tags: ["ical","iphone","iphoto","ipod","itunes","sync","touch"]
+categories: ["Apple"]
+---
 
 Last Saturday (2nd February) I placed a bid on an iPod Touch on eBay, £199 plus £5 for p&amp;p, bring the total to £204. This was a two month old Touch, 16GB capacity, along with charger (£20), protective film (£15) and four socks (~£20). The 16GB iPod Touch is £270 alone on the Apple Store (at time of buying).
 

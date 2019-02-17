@@ -1,9 +1,9 @@
-+++
-date = "2011-10-13T10:01:24"
-title = "RIP Dennis Ritchie"
-tags = ["unix","passed away","Dennis Ritchie","C Language"]
-categories = ["General"]
-+++
+---
+date: "2011-10-13T10:01:24"
+title: "RIP Dennis Ritchie"
+tags: ["unix","passed away","Dennis Ritchie","C Language"]
+categories: ["General"]
+---
 
 Co-writer of the [C language][1] and co-creator of the [UNIX operating system][2] [Dennis Ritchie][3] sadly passed away last Saturday.  It seems his death was somewhat overlooked due to the [passing of Steve Jobs][4]. 
  

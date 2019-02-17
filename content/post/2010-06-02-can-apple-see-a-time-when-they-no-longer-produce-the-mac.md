@@ -1,9 +1,9 @@
-+++
-date = "2010-06-02T14:28:47"
-title = "Can Apple see a time when they no longer produce the Mac?"
-tags = ["ipad","iphone","mobile"]
-categories = ["iPad","iPhone","Mac Hardware"]
-+++
+---
+date: "2010-06-02T14:28:47"
+title: "Can Apple see a time when they no longer produce the Mac?"
+tags: ["ipad","iphone","mobile"]
+categories: ["iPad","iPhone","Mac Hardware"]
+---
 
 Ars Technica published [this article][1] the other day which says how Apple are not awarding Mac applications the Apple Design Award this year and are instead focusing on the iPhone and the iPad.
 

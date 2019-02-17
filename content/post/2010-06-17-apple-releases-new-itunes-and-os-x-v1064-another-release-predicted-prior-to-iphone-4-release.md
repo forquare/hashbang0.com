@@ -1,9 +1,9 @@
-+++
-date = "2010-06-17T10:18:12"
-title = "Apple releases new iTunes and OS X v10.6.4, another release predicted prior to iPhone 4 release?"
-tags = ["iPhone 4","itunes"]
-categories = ["iPhone","Mac OS"]
-+++
+---
+date: "2010-06-17T10:18:12"
+title: "Apple releases new iTunes and OS X v10.6.4, another release predicted prior to iPhone 4 release?"
+tags: ["iPhone 4","itunes"]
+categories: ["iPhone","Mac OS"]
+---
 
 Yesterday Apple released [iTunes 9.2][1] touting the following enhancements:
 

@@ -1,9 +1,9 @@
-+++
-date = "2010-01-07T23:30:28"
-title = "Homemade Hot Chocolate"
-tags = ["cooking","drinks","hot chocolate"]
-categories = ["Home Made Food &amp; Drink"]
-+++
+---
+date: "2010-01-07T23:30:28"
+title: "Homemade Hot Chocolate"
+tags: ["cooking","drinks","hot chocolate"]
+categories: ["Home Made Food &amp; Drink"]
+---
 
 I know, I know, making hot chocolate isn't geeky, but I've been wanting to try it for ages.  I bought some 200g [Bournville ][1]bars to try out a recipe.  I basically made the recipe up, though looking at the internet now, it seems that it's similar to others.
 

@@ -1,9 +1,9 @@
-+++
-date = "2008-09-26T15:05:07"
-title = "Sun - Week Twelve"
-tags = []
-categories = ["Sun"]
-+++
+---
+date: "2008-09-26T15:05:07"
+title: "Sun - Week Twelve"
+tags: []
+categories: ["Sun"]
+---
 
 Monday started slowly. I cycled in and not much happened in the morning. By the afternoon I had inherited a couple of tickets which I started work on after lunch.
 Immediately after lunch we had the weekly staff meeting, then I got cracking on some tickets...One system wasn't turned on, so I turned it on (very taxing) and I started to look at Liam's ticket about remaining SAN switched.

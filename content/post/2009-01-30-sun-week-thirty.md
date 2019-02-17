@@ -1,9 +1,9 @@
-+++
-date = "2009-01-30T18:56:31"
-title = "Sun - Week Thirty"
-tags = ["tape library","v240","x2100"]
-categories = ["Sun"]
-+++
+---
+date: "2009-01-30T18:56:31"
+title: "Sun - Week Thirty"
+tags: ["tape library","v240","x2100"]
+categories: ["Sun"]
+---
 
 Week thirty! Wow, doesn't seem so long when you say it like that...It's been seven months!
 

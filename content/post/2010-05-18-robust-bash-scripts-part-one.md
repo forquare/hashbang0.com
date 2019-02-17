@@ -1,9 +1,9 @@
-+++
-date = "2010-05-18T15:10:19"
-title = "Robust Bash Scripts - Part One"
-tags = ["bash script","nounset","set -u"]
-categories = ["Bash/Shell"]
-+++
+---
+date: "2010-05-18T15:10:19"
+title: "Robust Bash Scripts - Part One"
+tags: ["bash script","nounset","set -u"]
+categories: ["Bash/Shell"]
+---
 
 This is part of a series of posts which should aid anyone writing Bash scripts to make them more robust. 
  

@@ -1,9 +1,9 @@
-+++
-date = "2008-09-12T17:45:16"
-title = "Sun - Week Ten"
-tags = ["15k","25k","serengeti"]
-categories = ["Sun"]
-+++
+---
+date: "2008-09-12T17:45:16"
+title: "Sun - Week Ten"
+tags: ["15k","25k","serengeti"]
+categories: ["Sun"]
+---
 
 So this week I've been on my [15k][1]/[25k][2] maintenance course. It's was very boring. It was basically the serengeti training all over again.
 

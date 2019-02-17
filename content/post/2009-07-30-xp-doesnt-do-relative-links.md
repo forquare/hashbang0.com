@@ -1,9 +1,9 @@
-+++
-date = "2009-07-30T11:08:01"
-title = "XP doesn't do relative links"
-tags = ["relative links","unix","UNIX is easy","windows","xp"]
-categories = ["Rants"]
-+++
+---
+date: "2009-07-30T11:08:01"
+title: "XP doesn't do relative links"
+tags: ["relative links","unix","UNIX is easy","windows","xp"]
+categories: ["Rants"]
+---
 
 At work I've got a situation where I want to store a load of files in a central location, and then scatter links across the rest of the file system (for reasons best not explained here).  The file system will be picked up and moved at some point, and indeed everybody accesses this file system through different addresses, so a relative link is exactly what I wanted. 
 Under UNIX, I'd do something like this: 

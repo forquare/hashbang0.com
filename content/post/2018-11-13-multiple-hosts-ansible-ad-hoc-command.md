@@ -1,10 +1,9 @@
-+++
-date = 2018-11-13T14:33:20
-title = "Ansible ad-hoc command on multiple hosts"
-tags = ["ansible", "ad-hoc", "automation"]
-categories =  ["computing", "automation"]
-author = "Ben Lavery-Griffiths"
-+++
+---
+date: 2018-11-13T14:33:20
+title: "Ansible ad-hoc command on multiple hosts"
+tags: ["ansible", "ad-hoc", "automation"]
+categories:  ["computing", "automation"]
+---
 
 Quite often I want to run an ad-hoc command against a number of hosts, usually this is a subset of an existing group (and often new nodes added to a group).  
 

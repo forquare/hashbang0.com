@@ -1,9 +1,9 @@
-+++
-date = "2016-02-08T18:49:32"
-title = "BSD Desktop Week"
-tags = ["os x","virtualbox","BSDdesktopWeek","tweetbot","reeder"]
-categories = ["Open Source","BSD"]
-+++
+---
+date: "2016-02-08T18:49:32"
+title: "BSD Desktop Week"
+tags: ["os x","virtualbox","BSDdesktopWeek","tweetbot","reeder"]
+categories: ["Open Source","BSD"]
+---
 
 Last week on Twitter I was promoting BSD on the desktop. 
  

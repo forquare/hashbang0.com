@@ -1,9 +1,9 @@
-+++
-date = "2011-06-15T08:00:00"
-title = "iPhone Safari - Search for text on page"
-tags = ["iphone","Safari"]
-categories = ["iOS"]
-+++
+---
+date: "2011-06-15T08:00:00"
+title: "iPhone Safari - Search for text on page"
+tags: ["iphone","Safari"]
+categories: ["iOS"]
+---
 
 Have you ever used your iPhone to search Google for something, then find that the best link is a huge page?  On the desktop you'd hit cmd+f to search on the page, but in the iPhone this luxury isn't immediately obvious. 
  

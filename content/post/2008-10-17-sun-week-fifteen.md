@@ -1,9 +1,9 @@
-+++
-date = "2008-10-17T22:59:41"
-title = "Sun - Week Fifteen"
-tags = []
-categories = ["Sun"]
-+++
+---
+date: "2008-10-17T22:59:41"
+title: "Sun - Week Fifteen"
+tags: []
+categories: ["Sun"]
+---
 
 ## Week Fifteen, subtitled:
 The small things

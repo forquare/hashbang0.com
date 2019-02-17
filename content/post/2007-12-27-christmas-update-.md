@@ -1,9 +1,9 @@
-+++
-date = "2007-12-27T10:35:01"
-title = "Christmas update..."
-tags = ["hash bang","Java","python","unix"]
-categories = ["General"]
-+++
+---
+date: "2007-12-27T10:35:01"
+title: "Christmas update..."
+tags: ["hash bang","Java","python","unix"]
+categories: ["General"]
+---
 
 Merry Christmas to you all!
 

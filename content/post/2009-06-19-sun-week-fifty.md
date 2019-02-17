@@ -1,9 +1,9 @@
-+++
-date = "2009-06-19T21:54:26"
-title = "Sun – Week Fifty"
-tags = []
-categories = ["Sun"]
-+++
+---
+date: "2009-06-19T21:54:26"
+title: "Sun – Week Fifty"
+tags: []
+categories: ["Sun"]
+---
 
 Summarising events this week:
 

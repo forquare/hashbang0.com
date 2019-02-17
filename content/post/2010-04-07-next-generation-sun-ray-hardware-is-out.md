@@ -1,9 +1,9 @@
-+++
-date = "2010-04-07T12:47:35"
-title = "Next generation Sun Ray hardware is out!"
-tags = ["Oracle","Sun","Sun Ray","sun ray 3 plus"]
-categories = ["Hardware","Oracle","Sun"]
-+++
+---
+date: "2010-04-07T12:47:35"
+title: "Next generation Sun Ray hardware is out!"
+tags: ["Oracle","Sun","Sun Ray","sun ray 3 plus"]
+categories: ["Hardware","Oracle","Sun"]
+---
 
 Oracle have uncovered a new Sun Ray (ultra) thin client recently.  They seem to have been quite quiet as I haven't heard any news about it.
 

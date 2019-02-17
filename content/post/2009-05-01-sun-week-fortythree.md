@@ -1,9 +1,9 @@
-+++
-date = "2009-05-01T17:14:40"
-title = "Sun - Week Forty-three"
-tags = ["10 gigabit","10GB","64-bit","BIOS","Java","PCI option ROM","POST","raid","t2000","windows","x4100","x4150","x4250"]
-categories = ["Sun"]
-+++
+---
+date: "2009-05-01T17:14:40"
+title: "Sun - Week Forty-three"
+tags: ["10 gigabit","10GB","64-bit","BIOS","Java","PCI option ROM","POST","raid","t2000","windows","x4100","x4150","x4250"]
+categories: ["Sun"]
+---
 
 Monday starts off OK. Coming into work to find some tickets on the queue and some work to be done from last week.
 My main ticket is setting up an [x4100][1] over in the 02 lab for an engineer who wants to install VM's. There is a problem with this, he wants to use [Windows][2] and whenever someone says that, there are always groans, why? Because Windows == licensing. He wants to use MSDN licenses, however, he isn't the only user of the systems-to-be, so he needs to use volume licenses. We have an old VM machine which has valid volume licenses on, but I can't access the VM files so I can't transfer them...

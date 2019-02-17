@@ -1,9 +1,9 @@
-+++
-date = "2009-04-17T12:50:11"
-title = "Sun Week Forty-one"
-tags = ["15k","Java email","NIS+","Solaris zones","SunBlade 2000","Ultra 80","vi"]
-categories = ["Sun","Java"]
-+++
+---
+date: "2009-04-17T12:50:11"
+title: "Sun Week Forty-one"
+tags: ["15k","Java email","NIS+","Solaris zones","SunBlade 2000","Ultra 80","vi"]
+categories: ["Sun","Java"]
+---
 
 This week starts on Tuesday, Monday being Easter Monday and a day dedicated to getting over a "chocolate hangover", whatever one of those is...
 

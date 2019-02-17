@@ -1,9 +1,9 @@
-+++
-date = "2008-07-28T23:05:01"
-title = "Silly old bear"
-tags = ["christopher robin","rain","winnie the pooh"]
-categories = ["General"]
-+++
+---
+date: "2008-07-28T23:05:01"
+title: "Silly old bear"
+tags: ["christopher robin","rain","winnie the pooh"]
+categories: ["General"]
+---
 
 It's been really hot here the last couple of days, and it has finally decided to rain! Hopefully we'll see a slight drop in the humidity...
 

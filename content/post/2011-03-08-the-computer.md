@@ -1,9 +1,9 @@
-+++
-date = "2011-03-08T06:00:00"
-title = "The Computer"
-tags = ["Computing","Linux","os x","unix","windows"]
-categories = ["Musings","Rants"]
-+++
+---
+date: "2011-03-08T06:00:00"
+title: "The Computer"
+tags: ["Computing","Linux","os x","unix","windows"]
+categories: ["Musings","Rants"]
+---
 
 We live in an age where computers are all around us.  While they may not yet be embedded into every object we come in contact with, they are on our desks at home or in the office, and in our pockets and bags when we're out and about.  But one thing worries me, few of these people understand how to use these powerful machines, or leverage them to even half their potential.
 

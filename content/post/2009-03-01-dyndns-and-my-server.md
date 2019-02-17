@@ -1,9 +1,9 @@
-+++
-date = "2009-03-01T18:27:36"
-title = "DynDNS and my server"
-tags = ["DynDNS","inadyn","IP","manifest","SMF","svcadm","svccfg","xml","xmllint"]
-categories = ["beleg-iâ","OpenSolaris"]
-+++
+---
+date: "2009-03-01T18:27:36"
+title: "DynDNS and my server"
+tags: ["DynDNS","inadyn","IP","manifest","SMF","svcadm","svccfg","xml","xmllint"]
+categories: ["beleg-iâ","OpenSolaris"]
+---
 
 I meant to blog this ages ago, and have only just remembered about it!
 

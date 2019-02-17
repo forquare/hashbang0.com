@@ -1,9 +1,9 @@
-+++
-date = "2011-06-01T08:00:00"
-title = "Record Shops"
-tags = ["music","shopping"]
-categories = ["Musings"]
-+++
+---
+date: "2011-06-01T08:00:00"
+title: "Record Shops"
+tags: ["music","shopping"]
+categories: ["Musings"]
+---
 
 I found myself in the local record shop recently, Faye's brother wanted to browse.  I was loitering around, glancing at the shelves and having a flick here and there.  And I just thought to myself, I don't enjoy being here at all.
 

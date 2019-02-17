@@ -1,9 +1,9 @@
-+++
-date = "2008-09-19T19:35:34"
-title = "Sun - Week Eleven"
-tags = []
-categories = ["Sun"]
-+++
+---
+date: "2008-09-19T19:35:34"
+title: "Sun - Week Eleven"
+tags: []
+categories: ["Sun"]
+---
 
 After a wonderful weekend with Faye, Monday started off with getting up early for a call with the APAC guys (Singapore and Australia), we were talking about new development life cycles - something that bores me at the best of times, and today was no exception. We do need to re-evaluate the way we fix bugs and release new versions of our lab tools though.
 The rest of Monday was fairly quiet, with a second meeting in the afternoon.

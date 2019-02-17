@@ -1,9 +1,9 @@
-+++
-date = "2011-02-09T20:18:24"
-title = "Partial Facebook Fix"
-tags = []
-categories = ["Internet"]
-+++
+---
+date: "2011-02-09T20:18:24"
+title: "Partial Facebook Fix"
+tags: []
+categories: ["Internet"]
+---
 
 A while ago I blogged about [Facebook having some problems][1].  Well it appears they may have done something rather odd.
 
