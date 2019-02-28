@@ -1,6 +1,6 @@
 ---
 date: "2016-09-06T20:58:16+01:00"
-title: "My PGP Key"
+title: "PGP Key"
 rss: false
 ---
 
@@ -36,3 +36,4 @@ Although I don't always use it, below if my public PGP key which you can use whe
 	P7fjB2+Sc3PGXEA8f8EJdp2f
 	=yZey
 	-----END PGP PUBLIC KEY BLOCK-----
+
