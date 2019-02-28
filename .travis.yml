@@ -1,3 +1,5 @@
+git:
+  quiet: true
 language: go
 go:
 - master
