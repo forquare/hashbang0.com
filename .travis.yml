@@ -10,3 +10,29 @@ install:
 - mkdir -p $GOPATH/bin
 - cp hugo $GOPATH/bin/hugo
 script: hugo --cleanDestinationDir --enableGitInfo
+
+addons:
+  ssh_known_hosts: hashbang0.com:22222
+
+before_deploy:
+- openssl aes-256-cbc -K $encrypted_7fe7a589c892_key -iv $encrypted_7fe7a589c892_iv -in deploy_ed25519.enc -out /tmp/deploy_ed25519 -d
+- eval "$(ssh-agent -s)"
+- chmod 600 /tmp/deploy_ed25519
+- ssh-add /tmp/deploy_ed25519
+
+deploy:
+- provider: script
+  skip_cleanup: true
+  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/public hashbang_deploy@hashbang0.com:/usr/local/www/hashbang0
+  on:
+    branch: master
+- provider: script
+  skip_cleanup: true
+  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/public hashbang_deploy@hashbang0.com:/usr/local/www/test_hashbang0
+  on:
+    branch: test
+- provider: script
+  skip_cleanup: true
+  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/public hashbang_deploy@hashbang0.com:/usr/local/www/dev_hashbang0
+  on:
+    branch: dev
