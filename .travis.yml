@@ -22,16 +22,16 @@ script: hugo --cleanDestinationDir --enableGitInfo
 deploy:
 - provider: script
   skip_cleanup: true
-  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/public hashbang_deploy@hashbang0.com:/usr/local/www/hashbang0
+  script: rsync -r -e 'ssh -p 22222' --delete-after --quiet $TRAVIS_BUILD_DIR/public hashbang_deploy@hashbang0.com:/usr/local/www/hashbang0
   on:
     branch: master
 - provider: script
   skip_cleanup: true
-  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/public hashbang_deploy@hashbang0.com:/usr/local/www/test_hashbang0
+  script: rsync -r -e 'ssh -p 22222' --delete-after --quiet $TRAVIS_BUILD_DIR/public hashbang_deploy@hashbang0.com:/usr/local/www/test_hashbang0
   on:
     branch: test
 - provider: script
   skip_cleanup: true
-  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/public hashbang_deploy@hashbang0.com:/usr/local/www/dev_hashbang0
+  script: rsync -r -e 'ssh -p 22222' --delete-after --quiet $TRAVIS_BUILD_DIR/public hashbang_deploy@hashbang0.com:/usr/local/www/dev_hashbang0
   on:
     branch: dev
