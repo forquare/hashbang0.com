@@ -4,13 +4,6 @@ language: go
 go:
 - master
 
-before_install:
-- echo 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILzIO/XsguO5iE17DehEjuhRXHSFcdm78eH0viTbF0kH root@web' >> $HOME/.ssh/known_hosts
-- openssl aes-256-cbc -K $encrypted_7fe7a589c892_key -iv $encrypted_7fe7a589c892_iv -in .deploy/deploy_ed25519.enc -out /tmp/deploy_ed25519 -d
-- eval "$(ssh-agent -s)"
-- chmod 600 /tmp/deploy_ed25519
-- ssh-add /tmp/deploy_ed25519
-
 install:
 - export HUGO_DOWNLOAD=0.54.0
 - wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_DOWNLOAD}/hugo_${HUGO_DOWNLOAD}_Linux-64bit.tar.gz
@@ -18,6 +11,13 @@ install:
 - mkdir -p $GOPATH/bin
 - cp hugo $GOPATH/bin/hugo
 script: hugo --cleanDestinationDir --enableGitInfo
+
+before_deploy:
+- echo 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILzIO/XsguO5iE17DehEjuhRXHSFcdm78eH0viTbF0kH root@web' >> $HOME/.ssh/known_hosts
+- openssl aes-256-cbc -K $encrypted_7fe7a589c892_key -iv $encrypted_7fe7a589c892_iv -in .deploy/deploy_ed25519.enc -out /tmp/deploy_ed25519 -d
+- eval "$(ssh-agent -s)"
+- chmod 600 /tmp/deploy_ed25519
+- ssh-add /tmp/deploy_ed25519
 
 deploy:
 - provider: script
