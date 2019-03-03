@@ -2,11 +2,11 @@ git:
   quiet: true
 language: go
 go:
-- master
+  - master
 install:
-- export HUGO_DOWNLOAD=0.54.0
-- wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_DOWNLOAD}/hugo_${HUGO_DOWNLOAD}_Linux-64bit.tar.gz
-- tar xvzf hugo_${HUGO_DOWNLOAD}_Linux-64bit.tar.gz
-- mkdir -p $GOPATH/bin
-- cp hugo $GOPATH/bin/hugo
-script: hugo --cleanDestinationDir --enableGitInfo
+  - export HUGO_DOWNLOAD=0.54.0
+  - wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_DOWNLOAD}/hugo_${HUGO_DOWNLOAD}_Linux-64bit.tar.gz
+  - tar xvzf hugo_${HUGO_DOWNLOAD}_Linux-64bit.tar.gz
+  - mkdir -p $GOPATH/bin
+  - cp hugo $GOPATH/bin/hugo
+  script: hugo --cleanDestinationDir --enableGitInfo
