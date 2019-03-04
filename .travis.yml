@@ -3,6 +3,7 @@ git:
 language: go
 go:
 - master
+
 install:
 - export HUGO_DOWNLOAD=0.54.0
 - wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_DOWNLOAD}/hugo_${HUGO_DOWNLOAD}_Linux-64bit.tar.gz
@@ -15,7 +16,8 @@ addons:
   ssh_known_hosts: hashbang0.com:22222
 
 before_deploy:
-- openssl aes-256-cbc -K $encrypted_7fe7a589c892_key -iv $encrypted_7fe7a589c892_iv -in deploy_ed25519.enc -out /tmp/deploy_ed25519 -d
+  #- echo 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILzIO/XsguO5iE17DehEjuhRXHSFcdm78eH0viTbF0kH root@web' >> $HOME/.ssh/known_hosts
+- openssl aes-256-cbc -K $encrypted_7fe7a589c892_key -iv $encrypted_7fe7a589c892_iv -in .deploy/deploy_ed25519.enc -out /tmp/deploy_ed25519 -d
 - eval "$(ssh-agent -s)"
 - chmod 600 /tmp/deploy_ed25519
 - ssh-add /tmp/deploy_ed25519
@@ -23,16 +25,16 @@ before_deploy:
 deploy:
 - provider: script
   skip_cleanup: true
-  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/public hashbang_deploy@hashbang0.com:/usr/local/www/hashbang0
+  script: rsync -r -e 'ssh -p 22222' --delete-after --quiet $TRAVIS_BUILD_DIR/public/ hashbang_deploy@hashbang0.com:/usr/local/www/hashbang0
   on:
     branch: master
 - provider: script
   skip_cleanup: true
-  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/public hashbang_deploy@hashbang0.com:/usr/local/www/test_hashbang0
+  script: rsync -r -e 'ssh -p 22222' --delete-after --quiet $TRAVIS_BUILD_DIR/public/ hashbang_deploy@hashbang0.com:/usr/local/www/test_hashbang0
   on:
     branch: test
 - provider: script
   skip_cleanup: true
-  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/public hashbang_deploy@hashbang0.com:/usr/local/www/dev_hashbang0
+  script: rsync -r -e 'ssh -p 22222' --delete-after --quiet $TRAVIS_BUILD_DIR/public/ hashbang_deploy@hashbang0.com:/usr/local/www/dev_hashbang0
   on:
     branch: dev
