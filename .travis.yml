@@ -21,6 +21,7 @@ before_deploy:
 - eval "$(ssh-agent -s)"
 - chmod 600 /tmp/deploy_ed25519
 - ssh-add /tmp/deploy_ed25519
+- date >> $TRAVIS_BUILD_DIR/public/build_date.txt
 
 deploy:
 - provider: script
