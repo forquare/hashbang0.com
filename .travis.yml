@@ -37,4 +37,5 @@ deploy:
   skip_cleanup: true
   script: rsync -r -e 'ssh -p 22222' --delete-after --quiet $TRAVIS_BUILD_DIR/public/ hashbang_deploy@hashbang0.com:/usr/local/www/dev_hashbang0
   on:
-    branch: dev
+    all_branches: true
+    condition: $TRAVIS_BRANCH =~ ^dev_.*$
