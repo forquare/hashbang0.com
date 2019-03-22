@@ -29,7 +29,7 @@ params:
     isSquaredIcon: true
   stackExchange: https://stackexchange.com/users/166079/forquare
   stackOverflow: https://stackoverflow.com/users/389975/forquare
-  truncate: false
+  truncate: true
   twitter: https://twitter.com/forquare
 menu:
   main:
