@@ -36,6 +36,12 @@ menu:
   - identifier: pgp
     name: PGP Key
     url: /pgp/
+  - identifier: categories
+    name: Categories
+    url: /categories/
+  - identifier: tags
+    name: Tags
+    url: /tags/
 related:
   includeNewer: false
   indices:
