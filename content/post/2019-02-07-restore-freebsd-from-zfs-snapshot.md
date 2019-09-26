@@ -20,7 +20,7 @@ root@manaha:~ # zfs send -Rv zroot@2018-11-06 | gzip | ssh backup@home "cat > /d
 
 This does a few things:
 
-1. Snapshot my root dataset recursivly
+1. Snapshot my root dataset recursively
 2. Use `zfs send` to create a stream of the zoot dataset and everything below it
 3. Pipe to gzip which compresses the stream
 4. SSH to a Raspberry Pi at home and cat the compressed stream into a file
