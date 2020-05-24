@@ -93,7 +93,7 @@ cat /data/backup/manaha/2018-11-06.zfs.gz | gunzip | ssh root@172.16.0.224 zfs r
 Sit and wait.  Once it's completed you need to get log back into the server and set the `bootfs` property, for me it was like this:
 
 ```
-zpool set bootfs=/zroot/ROOT/default zroot
+zpool set bootfs=zroot/ROOT/default zroot
 ```
 
 Then eject the mfsBSD ISO and reboot into your restored system.
