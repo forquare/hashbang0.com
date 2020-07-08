@@ -5,7 +5,7 @@ tags: ["Linux","desktop"]
 categories: ["computing"]
 ---
 
-_Note: This post contains partially formed opinions and may sound like it's being overly negative.  This is a first impressions post by someone who rarely writes, let along about first impressions.  I like what I've done, I'm happy with Linux and will stick with it._
+_Note: This post contains partially formed opinions and may sound like it's being overly negative.  This is a first impressions post by someone who rarely writes, let alone about first impressions.  I like what I've done, I'm happy with Linux and will stick with it._
 
 Back in [2011 I bought a 27" iMac](/2012/02/08/just-an-update/) and it has long served me well.  I bought the best that I could afford at the time which I think is one of the reasons it has lasted me so long.
 
