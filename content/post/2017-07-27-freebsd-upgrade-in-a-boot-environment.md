@@ -31,7 +31,7 @@ So, what's the correct procedure?  Hunting across the Internet, I found many exa
 9. Run install again for cleanup
 10. Reboot
 
-Now, that seems like an awful lot of downtime.  Back at Sun, BEs were introduced to me as a convenient roll-back method if things go wrong, and also to reduce downtime caused by upgrade (this was called [Live Upgrade](/2008/11/21/sun---week-twenty/)).  Having all of this downtime did not appeal to me one bit.
+Now, that seems like an awful lot of downtime.  Back at Sun, BEs were introduced to me as a convenient roll-back method if things go wrong, and also to reduce downtime caused by upgrade (this was called [Live Upgrade](/2008/11/21/sun-week-twenty/)).  Having all of this downtime did not appeal to me one bit.
 
 So, how can we reduce downtime while using FreeBSD Boot Environments?  Run all three installation tasks one after each other.  Since we are upgrading an essentially dormant system (the BE hasn't been activated and rebooted into yet) we don't need to do the in-between reboots.  Here's my process:
 
