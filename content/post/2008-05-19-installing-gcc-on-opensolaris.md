@@ -19,4 +19,4 @@ To get gcc on your PATH, do the following:
 * Use: export PATH=$PATH:/usr/sfw/bin
 * Now everything should be fine!
 
-  [1]: /2009/01/03/installing-gcc-on-opensolaris-2/
+  [1]: /2009/01/03/installing-gcc-on-opensolaris/
