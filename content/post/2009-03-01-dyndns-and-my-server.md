@@ -83,4 +83,4 @@ NB: You may need to set up SSH forwarding from your home router.
   [1]: http://dyndns.com/
   [2]: https://www.dyndns.com/support/clients/
   [3]: https://www.dyndns.com/support/clients/unix.html
-  [4]: en.wikipedia.org/wiki/Service_Management_Facility
+  [4]: https://en.wikipedia.org/wiki/Service_Management_Facility

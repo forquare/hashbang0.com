@@ -26,6 +26,6 @@ Let's have a think about that.  A thin client connects to a main server, this s
  
 Now I'm very excited!  OnLive have released a product called [OnLive Desktop][3].  It allows you to access a MS Windows 7 instance from a tablet, right over the web.  So we begin to see this thin client (iPad) access a remote system (Win 7) to run apps.  All we need now is for the Win 7 instance to be able to run a multitude of Linux and OS X apps (by somehow forwarding the app from the Linux/Mac system to the Windows system (something like X11 forwarding)) and my idea would have become a reality!
 
-  [1]: /2010/05/31/dissertation-is-over/ "Dissertation is over…"
+  [1]: /2010/05/31/dissertation-is-over.../
   [2]: /wp-content/uploads/2012/03/sandboxing.png
   [3]: http://desktop.onlive.com/
