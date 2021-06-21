@@ -7,7 +7,7 @@ categories: ["Sun"]
 
 Monday starts off with me looking into this jumpstart image. It turns out to be really easy! All I needed to do was to find the Solaris 10 Update 4 image, this had a file called setup\_install\_server (or similar), I just used this executable file to install the image to another directory. After this it was a case of using the patchadd command:
 
-`patchadd -C  `
+```patchadd -C```
 
 And this installed that patch onto the image for installation at install time! A bit clever or what!?
 The afternoon was spent looking at mirroring a machine at install over jumpstart...I didn't get it to work :( But I shall keep trying!
@@ -28,7 +28,8 @@ I then went over to GMP02 to receive a package, this contained some fan trays fo
 After a slightly elongated lunch I received another email from the engineer who was very good about the situation :)
 I then spent the afternoon playing with custom Jumpstarts with my [880\.][7] At the moment it's complaining about unexpected allocated inodes....Here is my profile, it's most probably wrong:
 
-`install_type initial_install
+```
+install_type initial_install
 system_type standalone
 partitioning explicit
 metadb c1t0d0s7 size 8192 count 3
@@ -41,12 +42,14 @@ filesys mirror:d0 c1t0d0s6 c1t1d0s6 10240 /tmp
 filesys c1t0d0s1 free swap
 isa_bits 64
 boot_device any update
-cluster SUNWCall`
+cluster SUNWCall
+```
 
 Hopefully I can get something out of it :)
 
 Looking at [this][8] doc, it seems this should work:
-`install_type initial_install
+```
+install_type initial_install
 system_type standalone
 partitioning explicit
 metadb c1t0d0s7 size 8192 count 3
@@ -59,10 +62,12 @@ filesys mirror c1t0d0s6 c1t1d0s6 10240 /tmp
 filesys c1t0d0s1 free swap
 isa_bits 64
 boot_device any update
-cluster SUNWCall`
+cluster SUNWCall
+```
 
 Seems to work!
 
+```
 **Processing profile
 - Selecting cluster (SUNWCall)
 - Selecting all disks
@@ -117,6 +122,7 @@ Seems to work!
 - Creating SVM Mirror Volume d20 (/opt)
 - Creating SVM Mirror Volume d30 (/mnt)
 - Creating SVM Mirror Volume d40 (/tmp)**
+```
 
 After this it seems to go into the installation.
 

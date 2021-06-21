@@ -15,7 +15,7 @@ Yesterday Apple released [iTunes 9.2][1] touting the following enhancements:
 * Album artwork improvements make artwork appear more quickly when exploring your library
 I got excited about the first point there, not because I've ordered an iPhone, but because if my Mac can sync with one, I should have the iPhone 4 icon.  However, I don't...
 
-Looking in _/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources_ reveals the old iPhone icons and plenty of Mac and iPod Touch/iPad icons, but no iPhone 4 icon.
+Looking in `/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources` reveals the old iPhone icons and plenty of Mac and iPod Touch/iPad icons, but no iPhone 4 icon.
 
 I think this means Apple will be releasing either a 'point' update for iTunes (perhaps 9.2.1) or another small update somewhere else along the way.
 

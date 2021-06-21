@@ -20,6 +20,7 @@ At WWDC 2014, Apple announced CloudKit.  CloudKit gives developers some server 
 * Database Storage (both general/public, and per user/private)
 * Search
 * Notifications 
+
 So, Apple already has apps (albeit in beta) on [iCloud.com][6] which make some of their core apps cross-platform.  So too have they started developers thinking about the cloud. 
 Apple could provide a means that Interface Builder compiles to JavaScript and CSS.  Could Swift compile into JavaScript, or be used as-is for limited “heavy lifting”?  With CloudKit, CoreData-type and other facilities are already there, waiting to go. 
 Could this give developers a means to deploy their apps onto [iCloud.com][7] and get them out to users on platforms other than OS X and iOS?  Users, by the way, that likely already have an Apple ID and given up their payment methods thanks to over a decade of iDevices and iTunes.

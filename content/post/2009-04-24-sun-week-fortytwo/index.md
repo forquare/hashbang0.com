@@ -19,7 +19,13 @@ I spent the afternoon with Alex looking at JLT and jump starting machines.
 Thursday is here! It's felt like a long week, although nothing official has been mentioned about the takeover, it's still looming. I've spent most of the morning with Alex looking more at jumpstart and other UNIX bit and bobs, it's currently lunch time, and I need to get some coding done before the end of Friday...
 
 Friday came and went frankly...I spent the day doing some coding and surfing of the web, the Dennis forums went down last night :( We've set ourselves back up over on [x404.co.uk][6]! Also, Aled went to pick up my "new" iMac...
-I say new, it's a CRT G3 iMac, 350MHz, 256MB RAM and a whopping 20GB hard drive, all for £15! Pictures of it [here][7] courtesy of Aled!
+I say new, it's a CRT G3 iMac, 350MHz, 256MB RAM and a whopping 20GB hard drive, all for £15! Pictures of it courtesy of Aled!
+
+![alt text](SDC10064.jpg "")
+![alt text](SDC10065.jpg "")
+![alt text](SDC10066.jpg "")
+![alt text](SDC10068.jpg "")
+![alt text](SDC10069.jpg "")
 
   [1]: http://sunsolve.sun.com/handbook_pub/validateUser.do?target=Systems/SunBlade2000/SunBlade2000
   [2]: http://www.sun.com
@@ -27,4 +33,3 @@ I say new, it's a CRT G3 iMac, 350MHz, 256MB RAM and a whopping 20GB hard drive,
   [4]: /2009/04/20/oracle-buys-sun-microsystems/
   [5]: http://www.sun.com/aboutsun/executives/ryan/bio.jsp
   [6]: http://www.x404.co.uk/forum
-  [7]: http://s9.photobucket.com/albums/a55/forquare/blog/iMac/

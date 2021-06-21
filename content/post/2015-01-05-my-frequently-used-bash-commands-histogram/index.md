@@ -7,6 +7,7 @@ categories: ["Bash/Shell"]
 
 Taken from [Small Labs Inc.][1], here's a histogram of my most used commands: 
 	
+```
    cd   289 ############################################################ 
    ls   282 ########################################################### 
   git   158 ################################# 
@@ -27,6 +28,8 @@ Taken from [Small Labs Inc.][1], here's a histogram of my most used commands:
   "hi    17 #### 
 lorem    16 #### 
   top    13 ### 
+```
+
 Have a try at making your own with the code from the Small Labs Inc. website!
 
   [1]: http://www.smallmeans.com/notes/shell-history/

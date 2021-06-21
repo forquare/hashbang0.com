@@ -5,7 +5,7 @@ tags: ["art","guinness","ireland","jamesons"]
 categories: ["General"]
 ---
 
-**Day One**
+## Day One
 
 We got up early and did last minute things then left at about 11:15. We travelled up to Holyhead. We found that the online booking form had got out times wrong! We were booked to leave from Dublin, and get to Holyhead...Not what we wanted. The ferry place switched the times for today and Friday for us and we had a three hour wait. Things weren't going to plan, but this just spelled out: Adventure!
 
@@ -19,7 +19,7 @@ While walking around I took great pleasure in taking lots of pictures...We went 
 
 We found dinner in Burger King, then headed for home. Once we got back to the hostel, we got ready for bed and laid our heads on pillows at about 23:30.
 
-**Day Two**
+## Day Two
 
 An early start with breakfast at 9:30, we were out and on the bus for around 10:30, touring the sites of Dublin. I took lots of photos of bits and bobs.
 Then we arrived at the Guinness storehouse.
@@ -34,13 +34,13 @@ After this we went to the Jameson distillery. We had a guided tour with a free s
 
 After this, we headed home for films and food.
 
-**Day Three**
+## Day Three
 
 Today was culture day! We woke up early and walked around town finding cultural places that were free. We were disheartened that we had to pay for all the churches, but we found lots of other things to do.
 
 We got home early with some chips and watched Die Hard I &amp; II, after that we went out to the pub across the road from us, which was nice and had live music, but one of the barmen didn't seem to like us. A trip back home and a couple of episodes of Black Books and we were all asleep.
 
-**Day Four**
+## Day Four
 
 After a late start we went to meet Faye at St Steven's Green, she had been to an art gallery. We wandered around the shops for a bit, where I found a lovely green, leather coat; I was very tempted, but at €30, I thought I might come back later...
 We carried on shopping, finding some gift shops where I bought a Guinness Toucan figure and some other stuff, then we made our way back to the hostel.
@@ -52,6 +52,6 @@ We went to the first pub which looked like it was hosting OAPs night, it was goo
 
 We got home and enjoyed a couple of episodes of Black Books before falling asleep...
 
-**Day Five**
+## Day Five
 
 On the fifth day, we got up and cleaned up the room, had some breakfast and went to wait for the bus. An hour or so later, we were on the bus to the ferry port. At the ferry port we waited to check in then waited to board the ferry. A couple of hours on the ferry and we were back off to Aberystwyth. The adventure had ended!

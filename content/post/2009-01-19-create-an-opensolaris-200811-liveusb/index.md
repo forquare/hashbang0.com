@@ -11,15 +11,20 @@ I set about looking for a solution.  Unfortunately, Googling around didn't thro
 
 First of all, I installed the distribution constructor:
 
-`# pkg install SUNWdistro-const`
+```
+# pkg install SUNWdistro-const
+```
 
 Next I cd'd to the directory they had been installed to:
 
-`# cd /usr/bin`
+```
+# cd /usr/bin
+````
 
 And ran the following command:
 
-`./usbgen /var/tmp/osol-0811.iso /var/tmp/os0811.usb /var/tmp
+```
+./usbgen /var/tmp/osol-0811.iso /var/tmp/os0811.usb /var/tmp
 /dev/rlofi/3:   1689000 sectors in 2815 cylinders of 1 tracks, 600 sectors
 824.7MB in 176 cyl groups (16 c/g, 4.69MB/g, 2240 i/g)
 super-block backups (for fsck -F ufs -o b=#) at:
@@ -32,11 +37,13 @@ Copying ISO contents to USB image...
 ..................................................
 .............................
 1407024 blocks
-=== ./usbgen completed at Mon Jan 19 00:25:49 GMT 2009`
+=== ./usbgen completed at Mon Jan 19 00:25:49 GMT 2009
+```
 
 Lastly:
 
-`# ./usbcopy /var/tmp/os0811.usb
+```
+# ./usbcopy /var/tmp/os0811.usb
 Found the following USB devices:
 0:      /dev/rdsk/c9t0d0p0      15.5 GB USB DISK 2.0     PMAP
 Enter the number of your choice: 
@@ -47,6 +54,7 @@ Copying and verifying image to USB device
 Finished 824 MB in 316 seconds (2.6MB/s)
 0 block(s) re-written due to verification failure
 Installing grub to USB device /dev/rdsk/c9t0d0s0
-Completed copy to USB`
+Completed copy to USB
+````
 
 And that's it!  Should be done.  Will report back tomorrow with how the install went.
