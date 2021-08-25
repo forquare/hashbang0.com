@@ -16,13 +16,13 @@ I bought the MacBook for two main reasons
 
 1. I wanted a laptop
 2. I wanted a Mac 
-The third point - which is what made me justify it at the time - was that I would be taking it to University with me.  My only real requirement at the time was that it last, and it has - mostly. 
+3. The third point - which is what made me justify it at the time - was that I would be taking it to University with me.  My only real requirement at the time was that it last, and it has - mostly. 
 
 
 ## The problems I've had
 
 
-Overheating (~6 months in) - a fault with the original design (or so I was told) was that one of the heat sensor wires based too close to the CPU.  When the CPU warmed up enough, it could melt the wire, this could trigger the logic board to think it was overheating and just shut everything down.  With advice from an Apple Retailer and certified engineer, I was able to get a little fix done for free under warranty, which was good as the logic boards weren't available in the UK yet. 
+Overheating (~6 months in) - a fault with the original design (or so I was told) was that one of the heat sensor wires was installed too close to the CPU.  When the CPU warmed up enough, it could melt the wire, this could trigger the logic board to think it was overheating and just shut everything down.  With advice from an Apple Retailer and certified engineer, I was able to get a little fix done for free under warranty, which was good as the logic boards weren't available in the UK yet. 
  
 Dead hard drive (~18months in) - a horribly inevitable situation, though I didn't think it would strike this soon.  Apple eventually [noted that there was a problem][2], but it was after I had fixed it myself, at a cost of £80. 
  
