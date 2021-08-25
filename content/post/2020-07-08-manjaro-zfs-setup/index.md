@@ -26,9 +26,9 @@ In this post I'm documenting how the disks are configured.
 
 ```
 Number  Start   End     Size    File system     Name                         Flags
- 1      1049kB  1075MB  1074MB  fat32           ssd-top-S1CUNYAFC10187-boot  boot, esp
- 2      1075MB  3222MB  2147MB  linux-swap(v1)  ssd-top-S1CUNYAFC10187-swap  swap
- 3      3222MB  218GB   215GB                   ssd-top-S1CUNYAFC10187-zfs
+ 1      1049kB  1075MB  1074MB  fat32           ssd-top-S1CUNYADC10187-boot  boot, esp
+ 2      1075MB  3222MB  2147MB  linux-swap(v1)  ssd-top-S1CUNYADC10187-swap  swap
+ 3      3222MB  218GB   215GB                   ssd-top-S1CUNYADC10187-zfs
 ```
 
 You can see each partition gets a label stating that it's an SSD, where it is in the case, the serial number, and what the partition is for.
@@ -42,7 +42,7 @@ Currently the boot partition is a vfat file system containing the required bits 
 I created a mirror of the two SSDs second partitions using `mdadm`, issued `mkswap` and told the system to start using it.
 
 ```
-[adref ~]# mdadm --create swap --level=1 --raid-devices=2 --metadata=0.90 /dev/disk/by-partlabel/ssd-top-S1CUNYAFC10187-swap /dev/disk/by-partlabel/ssd-bottom-SA400S37-swap
+[adref ~]# mdadm --create swap --level=1 --raid-devices=2 --metadata=0.90 /dev/disk/by-partlabel/ssd-top-S1CUNYADC10187-swap /dev/disk/by-partlabel/ssd-bottom-SA400S37-swap
 [adref ~]# mkswap /dev/md/swap
 mkswap: /dev/md/swap: warning: wiping old swap signature.
 Setting up swapspace version 1, size = 2 GiB (2147414016 bytes)
@@ -58,7 +58,7 @@ I also copied it to `/etc/fstab` - see end.
 I really like the ZFS layout that FreeBSD uses.  It was a while ago and I can't recall how Manjaro sets ZFS datasets up, but I didn't like it, so I used the following create my OS disk:
 
 ```
-zpool create -o ashift=12 -m none zroot mirror /dev/disk/by-partlabel/bottom-Z4Z68HRV-zfs /dev/disk/by-partlabel/top-Z4Z47V4C-zfs
+zpool create -o ashift=12 -m none zroot mirror /dev/disk/by-partlabel/bottom-Z4S68HRV-zfs /dev/disk/by-partlabel/top-Z4S47V4C-zfs
 zpool export zroot
 zpool import -R /mnt zroot
 zfs create -o mountpoint=none zroot/ROOT
@@ -91,7 +91,7 @@ _Note:_ The above uses the two home directory drives, I've since copied these to
 
 ```
 Number  Start   End     Size    File system  Name              Flags
- 3      3222MB  2000GB  1997GB               top-Z4Z47V4C-zfs
+ 3      3222MB  2000GB  1997GB               top-Z4S47V4C-zfs
 ```
 
 Spot the oddity?  This drive starts around 3GB in because I used to have `/boot` and SWAP partitions on here before they migrated to the SSDs.
@@ -101,8 +101,8 @@ Spot the oddity?  This drive starts around 3GB in because I used to have `/boot`
 ZFS is a little complicated because I've removed the OS datasets from this pool and kept my home directory, but itI've done something like this:
 
 ```
-zpool create -o ashift=12 -m none pwll mirror /dev/disk/by-partlabel/bottom-Z4Z68HRV-zfs /dev/disk
-/by-partlabel/top-Z4Z47V4C-zfs
+zpool create -o ashift=12 -m none pwll mirror /dev/disk/by-partlabel/bottom-Z4S68HRV-zfs /dev/disk
+/by-partlabel/top-Z4S47V4C-zfs
 zfs create pwll/home
 zfs set mountpoint=/home pwll/home
 zfs create pwll/home/bil
@@ -124,7 +124,7 @@ Number  Start   End     Size    File system  Name  Flags
 It's got a single dataset:
 
 ```
-zpool create tad /dev/disk/by-id/ata-MB2000GCWLT_P6J71PUX-part1
+zpool create tad /dev/disk/by-id/ata-MB2000GCWLT_PDJ71PUX-part1
 ```
 
 And I just `zfs send` snapshot to it periodically.  
@@ -149,9 +149,9 @@ The operation has completed successfully.
 GNU Parted 3.3
 Using /dev/sdc
 Welcome to GNU Parted! Type 'help' to view a list of commands.
-(parted) name 1 ssd-bottom-SA400S37-boot                                  
-(parted) name 2 ssd-bottom-SA400S37-swap
-(parted) name 3 ssd-bottom-SA400S37-zfs
+(parted) name 1 ssd-bottom-SB400S37-boot                                  
+(parted) name 2 ssd-bottom-SB400S37-swap
+(parted) name 3 ssd-bottom-SB400S37-zfs
 (parted) print                                                            
 Model: ATA KINGSTON SA400S3 (scsi)
 Disk /dev/sdc: 240GB
@@ -160,9 +160,9 @@ Partition Table: gpt
 Disk Flags: 
 
 Number  Start   End     Size    File system  Name                      Flags
- 1      1049kB  1075MB  1074MB               ssd-bottom-SA400S37-boot  boot, esp
- 2      1075MB  3222MB  2147MB               ssd-bottom-SA400S37-swap  swap
- 3      3222MB  218GB   215GB                ssd-bottom-SA400S37-zfs
+ 1      1049kB  1075MB  1074MB               ssd-bottom-SB400S37-boot  boot, esp
+ 2      1075MB  3222MB  2147MB               ssd-bottom-SB400S37-swap  swap
+ 3      3222MB  218GB   215GB                ssd-bottom-SB400S37-zfs
 
 (parted) quit                                                             
 [adref ~]#
@@ -172,7 +172,7 @@ Number  Start   End     Size    File system  Name                      Flags
 
 ```
 # /dev/sda1 UUID=B38A-1CFD
-/dev/disk/by-partlabel/ssd-top-S1CUNYAFC10187-boot	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,utf8,errors=remount-ro	0 0
+/dev/disk/by-partlabel/ssd-top-S1CUNYADC10187-boot	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,utf8,errors=remount-ro	0 0
 
 # /dev/md/swap 97e5dbc0-3d26-4ae3-8bac-95561feee566
 UUID=97e5dbc0-3d26-4ae3-8bac-95561feee566	none      	swap      	defaults,pri=-2	0 0
