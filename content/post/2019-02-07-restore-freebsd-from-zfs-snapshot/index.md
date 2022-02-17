@@ -73,8 +73,10 @@ gpart show
 Now we need to create a zpool for us to receive that compressed send stream:
 
 ```
-zpool create -o altroot=/mnt zroot
+zpool create -d -o altroot=/mnt zroot da0p3
 ```
+
+**Edit 2022-02-17: Thanks to ianjs for pointing out the lack of device in the command above, and for suggesting the use of `-d`.**
 
 The `-o altroot=/mnt` allows us to mount the zpool and receive the send stream without mucking around with our current environments root file system!  By default it would want to mount on `/`
 
