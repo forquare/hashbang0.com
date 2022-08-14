@@ -33,9 +33,6 @@ params:
   twitter: https://twitter.com/forquare
 menu:
   main:
-  - identifier: pgp
-    name: PGP Key
-    url: /pgp/
   - identifier: categories
     name: Categories
     url: /categories/
