@@ -7,11 +7,11 @@ categories: ["Open Source","BSD"]
 
 Last week on Twitter I was promoting BSD on the desktop. 
  
-{{< tweet 694207654714015745 >}}
+{{< tweet user="forquare" id="694207654714015745" >}}
  
 I got a small flurry of “likes” and “retweets” regarding a number of posts, and one (I think) real person even posted to [\#BSDdesktopWeek][1]! 
  
-{{< tweet 694315072886149120 >}}
+{{< tweet user="nomadlogicLA" id="694315072886149120" >}}
  
 Nobody that I know of took my up on the offer of switching their everyday desktop to BSD for the week, but then I did only start promoting it the Friday before it started... 
  
