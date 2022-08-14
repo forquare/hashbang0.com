@@ -31,7 +31,7 @@ Until today, I thought I had two choices:
     
 I would usually do the first when I had many hosts, amd the second if I had two or three.  
 
-Today I discovered a third choice (certainly works in anisble 2.7, may work in earlier versions):
+Today I discovered a third choice (certainly works in ansible 2.7, may work in earlier versions):
 
 * Using spaces, list machines within quotation marks.
 

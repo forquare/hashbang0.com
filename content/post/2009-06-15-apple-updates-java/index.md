@@ -13,6 +13,7 @@ The support docs (found[ here][1]) say that in this 158MB update we get:
 * J2SE 5.0 (PPC &amp; x64)
 * J2SE 1.4.2(PPC &amp; x64)
 * 64-bit Java for Intel Macs only
+
 Upgrade today as I'm sure many developers will be wanting to update their code as part of a long awaited refactoring!
 
   [1]: http://support.apple.com/kb/HT3581

@@ -13,7 +13,9 @@ Using this data I then create new folders based on the genre name or individual 
 It does have it's flaws, a couple of films have come back and been the wrong one as IMDB confused the title, but overall it does the job.
 
 If you know a bit of Perl, here is the script for you to modify for your own needs:
-	#!/usr/bin/perl
+
+```
+#!/usr/bin/perl
 
 =head1 License
 Copyright 2011 Ben Lavery. All rights reserved.
@@ -161,5 +163,6 @@ close(LOGFILE);
 
 chdir $cwd;
 print "a";
+```
 
   [1]: http://www.imdb.com/

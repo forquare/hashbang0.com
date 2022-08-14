@@ -35,7 +35,60 @@ Now, that seems like an awful lot of downtime.  Back at Sun, BEs were introduced
 
 So, how can we reduce downtime while using FreeBSD Boot Environments?  Run all three installation tasks one after each other.  Since we are upgrading an essentially dormant system (the BE hasn't been activated and rebooted into yet) we don't need to do the in-between reboots.  Here's my process:
 
-{{% gist forquare 6eab4c53420f4add7f13262e67254e89 %}}
+```
+bil@fbsd-bil:~ %>su -
+Password:
+
+root@fbsd-bil:~ # beadm create 11.1-RELEASE
+Created successfully
+
+root@fbsd-bil:~ # beadm mount 11.1-RELEASE /mnt
+Mounted successfully on '/mnt'
+
+root@fbsd-bil:~ # freebsd-update upgrade -b /mnt -r 11.1-RELEASE
+src component not installed, skipped
+Looking up update.FreeBSD.org mirrors... 4 mirrors found.
+Fetching metadata signature for 11.0-RELEASE from update6.freebsd.org... done.
+Fetching metadata index... done.
+Fetching 1 metadata patches. done.
+Applying metadata patches... done.
+Fetching 1 metadata files... done.
+Inspecting system... done.
+[-- SNIP! Lots of stuff here we don't care about seeing--]
+/boot/kernel/acl_posix1e.ko
+/boot/kernel/acpi_asus.ko
+To install the downloaded upgrades, run "/usr/sbin/freebsd-update install".
+
+root@fbsd-bil:~ # freebsd-update install -b /mnt
+src component not installed, skipped
+Installing updates...
+Kernel updates have been installed.  Please reboot and run
+"/usr/sbin/freebsd-update install" again to finish installing updates.
+
+root@fbsd-bil:~ # freebsd-update install -b /mnt
+src component not installed, skipped
+Installing updates...
+Completing this upgrade requires removing old shared object files.
+Please rebuild all installed 3rd party software (e.g., programs
+installed from the ports tree) and then run "/usr/sbin/freebsd-update install"
+again to finish installing updates.
+
+root@fbsd-bil:~ # freebsd-update install -b /mnt
+src component not installed, skipped
+Installing updates... done.
+
+root@fbsd-bil:~ # beadm umount 11.1-RELEASE
+Unmounted successfully
+
+root@fbsd-bil:~ # beadm activate 11.1-RELEASE
+Activated successfully
+
+root@fbsd-bil:~ # reboot
+
+bil@fbsd-bil:~ %>freebsd-version -ku
+11.1-RELEASE
+11.1-RELEASE
+```
 
 Now you can keep the previous BE around until you're happy everything is working and then destroy it.
 

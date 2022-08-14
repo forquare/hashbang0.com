@@ -10,6 +10,11 @@ I had my MacBook sitting on my lap, and was sure I could change the volume from 
  
 After some searching, I found some magic AppleScript to do the job for me!  After some remembering, I managed to execute that AppleScript on the command line.  Here's what I did: 
  
-{{% gist forquare 4d8d17d0eac34c6d5e41 %}}
+```
+osascript -e "get volume settings"
+output volume:0, input volume:50, alert volume:100, output muted:true
+
+osascript -e "set volume output volume 50"
+```
  
 The first command showed me what the current settings were, and the second command allowed me to change the volume to 50%.

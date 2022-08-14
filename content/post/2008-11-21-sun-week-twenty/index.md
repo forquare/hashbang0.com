@@ -8,7 +8,8 @@ categories: ["Sun"]
 Monday starts off quietly, with fewer tickets than I expected...I progressed a little with some gDoc code, you can now call up the GUI form the command line with some arguments and the app with automagically search for those words.
 I have also been looking into live upgrading from Solaris 10 to Solaris 10 update 6. I think that I have finally understood how to create a new Boot Environment (BE). I am just waiting for the machine (an [880][1]) to copy the current BE into a new one. I will upgrade the new BE while the system is still running. Then when I know that it is OK, I will simply restart the machine and it will boot into the upgraded environment...
 
-`bash-3.00# df
+```
+bash-3.00# df
 / (/dev/md/dsk/d0 ):14587530 blocks 1118064 files
 /devices (/devices ): 0 blocks 0 files
 /system/contract (ctfs ): 0 blocks 2147483611 files
@@ -33,7 +34,8 @@ bash-3.00# metainit d121 1 1 /dev/rdsk/c1t5d0s3
 d121: Concat/Stripe is setup
 bash-3.00# metainit d120 -m d121
 d120: Mirror is setup
-bash-3.00# lucreate -c s10 -m /:/dev/md/dsk/d110:ufs -m /var:/dev/md/dsk/d120:ufs -n s10u6`
+bash-3.00# lucreate -c s10 -m /:/dev/md/dsk/d110:ufs -m /var:/dev/md/dsk/d120:ufs -n s10u6
+```
 
 Just some goop for you all...
 

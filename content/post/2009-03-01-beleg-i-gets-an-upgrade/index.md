@@ -9,51 +9,39 @@ It happened a couple of weeks ago now, I've upgraded the storage in beleg-iâ. 
 I have them in two mirrors, one for the boot disk and one for data.
 
 
-**root@beleg-ia:/share/media# zpool status
+```
+root@beleg-ia:/share/media# zpool status
 pool: rpool
 state: ONLINE
 scrub: none requested
-config:**
-
-
-
-**NAME        STATE     READ WRITE CKSUM
+config:
+NAME        STATE     READ WRITE CKSUM
 rpool       ONLINE       0     0     0
 mirror    ONLINE       0     0     0
 c4d0s0  ONLINE       0     0     0
-c4d1s0  ONLINE       0     0     0**
+c4d1s0  ONLINE       0     0     0
+errors: No known data errors
 
-
-**errors: No known data errors**
-
-
-
-
-
-**pool: share
+pool: share
 state: ONLINE
 scrub: none requested
-config:**
-
-
-
-**NAME        STATE     READ WRITE CKSUM
+config:
+NAME        STATE     READ WRITE CKSUM
 share       ONLINE       0     0     0
 mirror    ONLINE       0     0     0
 c5d0s0  ONLINE       0     0     0
-c5d1s0  ONLINE       0     0     0**
+c5d1s0  ONLINE       0     0     0
+errors: No known data errors
 
-
-**errors: No known data errors**
-
-
-
+```
 The above was achieved by doing something similar to this:
+```
 # prtvtoc /dev/rdsk/c4d0s0 | fmthard -s - /dev/rdsk/c4d1s0
 # prtvtoc /dev/rdsk/c4d0s0 | fmthard -s - /dev/rdsk/c5d0s0
 # prtvtoc /dev/rdsk/c4d0s0 | fmthard -s - /dev/rdsk/c5d1s0
 # zpool attach -f rpool c4d0s0 c4d1s0
 # zpool attach -f share c5d0s0 c5d1s0
+```
 
 First we print the vtoc (volume table of contents) and pipe that to a format command.
 The -f was used to force the attachment, I followed instructions from several other sources and all has worked for me.
@@ -62,7 +50,8 @@ The 'share' pool is auto-mounted to /share which is cool.  Now with file system
 
 
 root@beleg-ia:/share/media# zfs list
-**NAME                            USED  AVAIL  REFER  MOUNTPOINT
+```
+NAME                            USED  AVAIL  REFER  MOUNTPOINT
 rpool                          33.1G   424G    75K  /rpool
 rpool/ROOT                     4.79G   424G    18K  legacy
 rpool/ROOT/opensolaris         5.42M   424G  2.27G  /
@@ -83,5 +72,6 @@ share/media/pictures            425M   331G   425M  /share/media
 share/media/standup            5.32G   331G  5.32G  /share/media/standup
 share/media/torip              4.50G   331G  4.50G  /share/media/torip
 share/media/tv                 47.7G   331G  47.7G  /share/media/tv**
+```
 
 So I'm pretty happy with it at the moment.  I'll be looking at upgrading the motherboard next.  Something with 8 SATA channels so I can increase my HDD's and potentially create a RAIDz for 4x 1TB drives...But we'll have to see how funds go...

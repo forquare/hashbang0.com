@@ -19,4 +19,5 @@ Setting this up is really easy:
 5. Type new email address
 6. Verify the email address
 7. Off you go! 
+
 Once you have verified the address you can send and receive iMessages form and to the email address and the phone number!

@@ -11,10 +11,11 @@ Head over to [opensolaris.org][1] to download the new iso, or run \`pfexec pkg i
 
 Exciting new features include:
 
-* [Project Crossbo][2]w - Virtualise your network
+* [Project Crossbow][2] - Virtualise your network
 * Firefox 3.1 (Beta 3)
 * [Elisa][3] - Free media centre
 * Plus better hardware support and more!
+
 If you are using the development repositories, start reaping the benefits of 2010.02 in the next few weeks!
 
   [1]: http://opensolaris.org/os/downloads/

@@ -17,4 +17,5 @@ Adding colourful emoticons (or smilies) to texts, emails, and messages can help 
 8. Create a new note
 9. Tap the 'world' key, between the 123 key and the space bar
 10. Enjoy the plethora of emoticons! 
+
 There are five categories of emoticons, each having three to seven pages of emoji goodness!
