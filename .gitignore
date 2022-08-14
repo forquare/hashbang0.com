@@ -3,3 +3,4 @@ public.txz
 .DS_Store
 *.bak
 resources
+.hugo_build.lock
