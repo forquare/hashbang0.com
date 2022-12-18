@@ -1,0 +1,34 @@
+name: 'Publish Main to Manaha'
+on:
+  push:
+    paths-ignore:
+      - 'README.md'
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@755da8c3cf115ac066823e79a1e1788f8940201b  #v3.2.0
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@86a65fd09bfc8d0acae693cc4d8192a030f08e84  #v2.4.0
+        with:
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          known_hosts: unnecessary
+      - name: Adding Known Hosts
+        run: ssh-keyscan -p ${{ secrets.SSH_PORT}} -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@16361eb4acea8698b220b76c0d4e84e1fd22c61d  #v2.6.0
+        with:
+          hugo-version: 'latest'
+          extended: true
+      - name: Build Site
+        run: |
+          hugo --cleanDestinationDir --enableGitInfo --minify
+          date >> ./public/build_date.txt
+      - name: Deploy with rsync
+        run: rsync -avz --omit-dir-times -e "ssh -p ${{ secrets.SSH_PORT }}" ./public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.DEPLOY_BASE_PATH }}/hashbang0/
