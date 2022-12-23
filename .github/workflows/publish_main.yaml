@@ -5,6 +5,8 @@ on:
       - 'README.md'
     branches:
       - main
+  schedule:
+    - cron:  '0 12 * * *'
 
 jobs:
   publish:
