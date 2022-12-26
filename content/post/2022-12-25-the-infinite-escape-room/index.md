@@ -7,7 +7,7 @@ categories: ["Podcasts"]
 
 Back in 2018 I was at the [Frocester Beer Festival](https://www.frocesterfestival.com/) with some friends, it had become an annual tradition to go to this festival for a weekend of sampling beers, and catching up - sometimes for the first time since the last beer festival.  
 It was in 2018 that I sat down with my friend Mike Collins talked about podcasts and podcasting. We both wanted to get into it, I was thinking a tech news/help related podcasts but Mike had some other ideas.
-
+<!--more-->
 After a few weeks Mike messaged me and pitched the idea of [The Infinite Escape Room](https://www.theinfiniteescaperoom.com/), a podcast where three people would each devise a puzzle around a common theme and present it to the other two, who had to solve it.  
 Having never done an escape room, I was pretty clueless as to what he was on about...
 
