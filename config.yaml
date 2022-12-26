@@ -16,21 +16,36 @@ taxonomies:
   category: categories
   tag: tags
 params:
-  colorTheme: theme-base-0b
   email: ben@lavery-griffiths.com
+  colorTheme: theme-base-0b
   fullWidth: true
-  github: https://github.com/forquare/
   highlight: solarized-light
   home: Home
-  linkedin: https://www.linkedin.com/in/benlavery/
-  rss: true
-  social:
-    iconSize: 2x
-    isSquaredIcon: true
-  stackExchange: https://stackexchange.com/users/166079/forquare
-  stackOverflow: https://stackoverflow.com/users/389975/forquare
   truncate: true
-  twitter: https://twitter.com/forquare
+  rss: true
+  icons:
+    iconSize: 2x
+    iconList:
+      - name: github
+        link: https://github.com/forquare/
+        isSquaredIcon: true
+      - name: stack-overflow
+        link: https://stackoverflow.com/users/389975/forquare
+        isSquaredIcon: false
+      - name: stack-exchange
+        link: https://stackexchange.com/users/166079/forquare
+        isSquaredIcon: false
+      - name: mastodon
+        link: https://hachyderm.io/@forquare
+        isSquaredIcon: false
+      - name: linkedin
+        link: https://www.linkedin.com/in/benlavery/
+        isSquaredIcon: false
+      - name: email
+        mailLink: ben@lavery-griffiths.com
+        isSquaredIcon: true
+      - name: rss
+        isSquaredIcon: true
 menu:
   main:
   - identifier: categories
