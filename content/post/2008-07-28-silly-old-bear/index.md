@@ -2,13 +2,13 @@
 date: "2008-07-28T23:05:01"
 title: "Silly old bear"
 tags: ["christopher robin","rain","winnie the pooh"]
-categories: ["General"]
+categories: ["general"]
 ---
 
 It's been really hot here the last couple of days, and it has finally decided to rain! Hopefully we'll see a slight drop in the humidity...
 
 Anyhoo, it's not pouring, per say, but I was reminded of our dear old friends Winnie the Pooh and Christopher Robin from the Hundred Acres Wood...."_Tut tut, it looks like rain_"
-
+<!--more-->
 > The rain, rain, rain came down, down, down
 > In rushing, rising riv'lets,
 > 'til the river crept out of it's bed

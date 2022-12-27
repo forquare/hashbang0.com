@@ -1,12 +1,12 @@
 ---
 date: "2008-01-19T19:54:28"
 title: "I need a floppy disk!?"
-tags: ["debian","fedora","Linux","opensuse","server","suse","ubuntu"]
-categories: ["Linux"]
+tags: ["debian","fedora","linux","opensuse","server","suse","ubuntu"]
+categories: ["computing"]
 ---
 
 OK, exams finished on Thursday...I let myself recoup on Friday and today I decided have a play with my spare tower...Up until recently I have had [OpenSuse][1] 10.2 on there running GNOME (the CPU is an old AMD Athlon and it has an ancient GPU and goodness knows how much RAM).
-
+<!--more-->
 Anyway, I decided to look around and decided on reinstalling the tower with [Fedora][2] 8 and [Debian][3] 4. [Fedora][4] asked for a single DVD to install the OS, which was great, I've got two DVDs left in my supply and about five CD's. [Fedora][5] is downloading now though uTorrent on Windows (slowly through my internet connection :-( ).
 
 I went to the [Debian][6] site and looked at downloaded the DVD, surely it's only a DVD? Fedora was, [Suse][7] was, I'm sure [Ubuntu][8] is too...But nope, [Debian][9] is three DVDs big! So I looked around the site and found just what I wanted: a network install. All I needed was 1.44MB worth of files that would go and connect to the [Debian][10] servers and install the OS for me. I hunted high and low in my room and found that I have no floppy disks...Then, looking in the tower, I realised that I had taken out my floppy drive from the tower...Brilliant stuff eh!?

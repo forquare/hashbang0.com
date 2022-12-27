@@ -1,13 +1,13 @@
 ---
 date: "2008-04-14T08:47:16"
 title: "Fixing a Macbook power transformer"
-tags: ["Apple","cable","charger","how-to","transformer","wire"]
-categories: ["Mac Hardware"]
+tags: ["charger","how-to","transformer","wire","hardware"]
+categories: ["computing"]
 ---
 
-![alt text](n309601224_925588_4200.jpg "Freying cable")
-
 Just over a week ago I found that my MacBook wasn't charging, but the charger was plugged in and on. I inspected the cable and found that it had melted just outside of the transformer!
+<!--more-->
+![alt text](n309601224_925588_4200.jpg "Freying cable")
 
 I temporarily fixed it with some blue insulation tape, but today, it failed all together :(
 

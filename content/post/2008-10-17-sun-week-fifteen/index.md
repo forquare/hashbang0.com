@@ -2,14 +2,12 @@
 date: "2008-10-17T22:59:41"
 title: "Sun - Week Fifteen"
 tags: []
-categories: ["Sun"]
+categories: ["industrial year"]
 ---
 
-## Week Fifteen, subtitled:
 The small things
 
-
-Monday morning started with the subtitle. I saw a pigeon fall from the sky, frantically flapping it's wings causing some leaves to scatter, it made me smile. This week I shall try to look for the small things that make me smile, and report them here with the rest of my news.
+Monday morning started with the subtitle. I saw a pigeon fall from the sky, frantically flapping it's wings causing some leaves to scatter, it made me smile. This week I shall try to look for the small things that make me smile, and report them here with the rest of my news.<!--more-->
 The morning brought a job which I have already had too much experience with, unpacking boxes which hold products...Leekes brought me much experience in how to open a card board box, and take out products, it's a boring task, but this morning the mundanity was lifted with the fact these were new products, and there I have to stop and tell you no more :P
 My lunch break ended with me setting up another monitor....A flat screen for extra windows and the like, however, I have retained my ten workspaces for various things...8 of which are still as full as ever...
 The afternoon was spent working on some console problems with a machine in France, hunting around GMP02 for a T3 storage array and a couple of other little tasks, as well as the weekly meeting about what happened what is happening and what is going to happen...

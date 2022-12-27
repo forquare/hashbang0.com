@@ -1,14 +1,14 @@
 ---
 date: "2011-02-02T00:47:31"
 title: "Film Sorter Script"
-tags: ["imdb","imdb::film","Internet","media","perl","server"]
-categories: ["Perl"]
+tags: ["imdb","imdb::film","internet","media","perl","server"]
+categories: ["computing"]
 ---
 
-On my server I have a store of films located at /share/media/movies.  Using NFS I share this directory to various other computers on my home network.  For a long while Faye has been asking me to categorise them into genres and cast, but with over 300 files I've been loath to do it by hand, so I thought I'd automate things using Perl.
-
-Using the IMDB::Film module I have been able to automate all of the data gathering.  The module goes off and searches [IMDB][1] for a matching title (in this case I try searching for the file name sans the extension.  Once found you can query the returned object about data such as cast member, genre, director, etc.
-Using this data I then create new folders based on the genre name or individual cast names, then symlink the original file to the new folder.  When I mount the general movie folder and the sorted movie folder, everything ties in well and works pretty nicely!
+On my server I have a store of films located at /share/media/movies.  Using NFS I share this directory to various other computers on my home network.  For a long while Faye has been asking me to categorise them into genres and cast, but with over 300 files I've been loath to do it by hand, so I thought I'd automate things using Perl.
+<!--more-->
+Using the IMDB::Film module I have been able to automate all of the data gathering.  The module goes off and searches [IMDB][1] for a matching title (in this case I try searching for the file name sans the extension.  Once found you can query the returned object about data such as cast member, genre, director, etc.
+Using this data I then create new folders based on the genre name or individual cast names, then symlink the original file to the new folder.  When I mount the general movie folder and the sorted movie folder, everything ties in well and works pretty nicely!
 
 It does have it's flaws, a couple of films have come back and been the wrong one as IMDB confused the title, but overall it does the job.
 

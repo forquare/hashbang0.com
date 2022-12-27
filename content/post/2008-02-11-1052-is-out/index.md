@@ -1,14 +1,14 @@
 ---
 date: "2008-02-11T23:10:02"
 title: "10.5.2 is out!"
-tags: ["10.5","10.5.2","Apple","leopard","os x"]
-categories: ["Mac OS"]
+tags: ["apple","leopard","os x"]
+categories: ["computing"]
 ---
 
 Today, 11th February, Apple release the second system update to Leopard. So what did we get?
 
 As normal, there are a number of things to make the system generally more stable, these include updates to 'Back to my Mac', 'Active Directory', Networking and some other bit. One thing that I'm looking forward to is the improvements on 802.1X and general AirPort stability.
-
+<!--more-->
 Some things that are updated, which are quite cool include:
 
 **Dock &gt; Stacks:**

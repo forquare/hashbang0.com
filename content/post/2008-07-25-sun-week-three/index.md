@@ -2,7 +2,7 @@
 date: "2008-07-25T21:29:45"
 title: "Sun - Week Three"
 tags: ["serengeti","sunfire"]
-categories: ["Sun"]
+categories: ["industrial year"]
 ---
 
 This last week I have been on yet another training course! This week is was to look at the SunFire mid-range servers, a.k.a. The Serengeti range

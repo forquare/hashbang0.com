@@ -6,7 +6,7 @@ categories: ["computing"]
 ---
 
 At the end of [my last post](/2020/05/31/migrating-my-desktop-to-linux/) I noted that I'd switched from an Ubuntu flavoured distro to [Manjaro Linux](https://www.manjaro.org/).  I've been rocking it for over a month now, first on an 2013 Dell Optiplex 9090 but it just got an upgrade!
-
+<!--more-->
 * AMD Ryzen 5 3600
 * Gigabyte x570 UD
 * Gigabyte GeForce GTX 1650 super

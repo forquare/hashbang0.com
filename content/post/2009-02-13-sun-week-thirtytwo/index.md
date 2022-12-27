@@ -2,10 +2,11 @@
 date: "2009-02-13T16:40:04"
 title: "Sun - Week Thirty-two"
 tags: ["t2000","x2200","x4250"]
-categories: ["Sun"]
+categories: ["industrial year"]
 ---
 
 After having a nice week off, I come into work on Monday to find myself with a ticket stuck on my queue and a meeting at 10am about said ticket...
+<!--more-->
 The ticket is to do with a new feature I'm going to be adding into our inventory database. It will basically look at how long a user has booked a system for, then email them if needs be.
 I spent some time looking at this project before picking up a ticket on my queue, and was also given a ticket.
 The first ticket was just to check to see why a machine wasn't accessible, neither the SP or the host was pingable. I looked at the machine and the power leads had slipped out the back but just a little...But enough to puzzle me at first glance...

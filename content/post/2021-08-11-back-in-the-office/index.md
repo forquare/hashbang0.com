@@ -1,8 +1,8 @@
 ---
 date: 2021-08-11T18:00:00
 title: "Back in the office"
-tags: ["COVID-19","Coronavirus","office  work","WFH"]
-categories: ["Work"]
+tags: ["covid-19","coronavirus","office","wfh"]
+categories: ["work"]
 resources:
 - name: ben-at-home
   src: 2020-03-18.jpg
@@ -23,7 +23,7 @@ Back on the 13th March 2020 work told us:
 > ...if the impact on your work is low and manageable, you should work from home.
 
 Although the office was open to those that needed to go in, we were being encourage to work from home.  This image was taken for one of our Town hall meetings celebrating how well we'd all transitioned in the early days - and I note that it's been used in a few since too!  
-
+<!--more-->
 {{< imgproc ben-at-home Resize "600x" "Ben at work at home" >}}
 
 Work have been really good over the past 17 months:

@@ -1,12 +1,12 @@
 ---
 date: "2008-02-04T21:08:59"
 title: "MacBook Air Vs. Eee PC Vs. OQO"
-tags: ["Apple","asus","asustek","eee pc","mackbook air","Microsoft","ms","oqo","os x","vista","windows","xp"]
-categories: ["Apple","Hardware","Microsoft"]
+tags: ["apple","asus","asustek","eee pc","mackbook air","microsoft","ms","oqo","os x","vista","windows","xp"]
+categories: ["computing"]
 ---
 
 The MacBook Air has had much said about it. Jobs claimed it was the thinnest notebook ever, the most portable Mac ever, the Apple site declares that it is 'thinovation'. But is it really so great? I heard about [OQO][1] computers today in a lecture, and there has been talk about the [ASUS Eee PC][2], so I went to look at these computers and compare them.
-
+<!--more-->
 Lets start with the OQO machine. It is an ultra portable piece of kit, with a width of 1.4cm, height of 0.8cm, a depth of 0.25cm and sports a 12.7cm screen (5 inches), it even weighs less than 500g! It is shipped to you with the Windows Vista operating system, for such a small device one would expect a cut down version, however, it runs the Ultimate version of Microsoft's latest OS!
 
 ![alt text](VIA_OQO.jpg "")

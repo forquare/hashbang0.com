@@ -2,11 +2,11 @@
 date: "2009-05-29T21:45:11"
 title: "Sun – Week Forty-seven"
 tags: []
-categories: ["Sun"]
+categories: ["industrial year"]
 ---
 
 This week felt really long...And I don't really recall everything which happened, so like last week, I'll summarise.
-
+<!--more-->
 Monday was a bank holiday, which was very lucky for me seeing as I missed my train back from Aber!
 
 Tuesday I was back in the office and working on my booking script a bit more.

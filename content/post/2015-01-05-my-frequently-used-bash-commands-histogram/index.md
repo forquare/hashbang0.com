@@ -2,11 +2,11 @@
 date: "2015-01-05T18:59:24"
 title: "My frequently used bash commands histogram"
 tags: ["bash"]
-categories: ["Bash/Shell"]
+categories: ["computing"]
 ---
 
-Taken from [Small Labs Inc.][1], here's a histogram of my most used commands: 
-	
+Taken from [Small Labs Inc.][1], here's a histogram of my most used commands:
+<!--more-->
 ```
    cd   289 ############################################################ 
    ls   282 ########################################################### 

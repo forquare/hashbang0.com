@@ -1,12 +1,12 @@
 ---
 date: "2008-11-28T15:40:37"
 title: "Sun - Week Twenty-one"
-tags: ["SCSI TOI","SMF course"]
-categories: ["Sun"]
+tags: ["scsi toi","smf course"]
+categories: ["industrial year"]
 ---
 
 Monday morning started with us meeting several of our overseas friends. Anthony from Singapore, Micheal from Germany and Tim from America. And we had a TOI about SCSI given by James MacFarlane.
-
+<!--more-->
 Tuesday me and Michael set up some new boxes, and did some other menial tasks.
 
 Wednesday was a good day. We interviewed a student from Aber about next year, he was quite good and has been asked back for a face to face interview.

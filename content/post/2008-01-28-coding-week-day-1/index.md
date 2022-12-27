@@ -1,12 +1,12 @@
 ---
 date: "2008-01-28T21:47:57"
 title: "Coding week - Day 1"
-tags: ["coding week","encoding","iso-8859-1","tv-anytime","Uni","xml","xpath"]
-categories: ["Uni"]
+tags: ["coding week","encoding","iso-8859-1","tv-anytime","xml","xpath"]
+categories: ["uni"]
 ---
 
 Today started off with rolling out of bed at 8:10am, out the house for 8:50, I had left it a tad late to make it up the hill in time, though my phone helped, playing a crap, compressed version of [99 Luftballons][1].
-
+<!--more-->
 I got into the computer room to find some of the group huddled around our computers. Me a Steve got stuck in with looking at how to parse XML using Java and query it using XPath. By 10am we had cracked the parsing; the files we had been given declared they were UTF-8 encoded, however, every time we tried to parse the file we got an error stating something about 1 of 1-byte not UTF-8 or some such nonsense...After looking around, we changed the declaration to ISO-8859-1, this seems to work :D Our data was parsed, or at least displayed no errors!
 We battled on with trying to look at XPath, searching various sites, looking at tutorials, but it was useless. We even tried the [TV-Anytime API][2], but our files wouldn't work correctly, the Genre's weren't being recognised...After talking to one of our Project Managers, [Rhys Parry][3], we retreated down into town for lunch.
 

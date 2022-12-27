@@ -1,11 +1,12 @@
 ---
 date: "2008-12-05T15:45:33"
 title: "Sun - Week Twenty-two"
-tags: ["jumpstart","LX50","Machynlleth"]
-categories: ["Sun"]
+tags: ["jumpstart","lx50","machynlleth"]
+categories: ["industrial year"]
 ---
 
 The weekend was great. We went to Machynlleth on Saturday and had a pub lunch \*word of warning: don't have a heavy ale as your first beverage of the day...\* We met up with Mike, Ben and Lauren in the evening and went down to the fair.
+<!--more-->
 Sunday came and Aled came up to see us all and we went to Weatherspoons for dinner :D
 Monday was spent spending more time with Faye before I had to catch the train home :(
 

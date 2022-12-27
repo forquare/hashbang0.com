@@ -1,14 +1,14 @@
 ---
 date: "2008-08-22T14:43:33"
 title: "Sun - Week Seven"
-tags: ["autofs","nfs","profiles","raid","roles","Solaris","training","zfs","zones"]
-categories: ["Sun"]
+tags: ["autofs","nfs","profiles","raid","roles","solaris","training","zfs","zones"]
+categories: ["industrial year"]
 ---
 
 More training this week.
 
 We started the week looking at how Solaris interfaces with the network, then went on to look at some networking basics related to Solaris.
-
+<!--more-->
 On Tuesday we looked at what Swap was and why and how we should use it and also the pros and cons of using it. We looked at managing crash and core dump files too. We spent the afternoon looking at NFS and AutoFS, these go hand in hand to make an NFS server and allows users to automatically mount file systems on their client machines.
 
 Wednesday began with us looking at RAID, specifically RAID 0,1 and 5, looking at how they worked and in what scenarios we would use them. We also looked at the Solaris Volume Manager software (formally Solstice DiskSuite prior to Solaris 9) to manage our volumes.

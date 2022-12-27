@@ -2,13 +2,13 @@
 date: "2009-01-30T18:56:31"
 title: "Sun - Week Thirty"
 tags: ["tape library","v240","x2100"]
-categories: ["Sun"]
+categories: ["industrial year"]
 ---
 
 Week thirty! Wow, doesn't seem so long when you say it like that...It's been seven months!
 
 Monday started out quite slowly, we had out afternoon meeting in the morning to talk to one of our Australian friends, but he wasn't able to make the meeting. Monday went slowly with not much going on.
-
+<!--more-->
 Tuesday I picked up a ticket which asked for a specific HBA and array to be passed from one machine to another and for some tests to be carried out. After doing some prep work for most of the day (getting machines into a good state), I realised that I would not be able to carry out the plans as the engineer (in India) had not told me how he wanted the setup wired.
 
 Wednesday morning came with an email from the engineer, I sorted some more stuff out but didn't get far with it. I fixed the console to an x2100 by defaulting the BIOS back to defaults which fixed serial redirection.

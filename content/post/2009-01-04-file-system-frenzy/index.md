@@ -1,14 +1,14 @@
 ---
 date: "2009-01-04T03:52:34"
 title: "File system frenzy"
-tags: ["nfs","sharenfs","zfs","Zpool"]
-categories: ["beleg-iâ","OpenSolaris"]
+tags: ["nfs","sharenfs","zfs","zpool","beleg-ia","opensolaris"]
+categories: ["personal projects"]
 ---
 
 On my server, I've been looking into having various ZFS file systems, this would allow me to better manage parts of the system later on.
 
 I have so far set it all up as such:
-
+<!--more-->
 ```
 ben@BELEG-IA:/share/media$ zfs list
 NAME                        USED   AVAIL  REFER  MOUNTPOINT

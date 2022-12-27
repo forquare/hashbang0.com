@@ -1,14 +1,14 @@
 ---
 date: "2009-01-16T16:45:52"
 title: "Sun - Week Twenty-eight"
-tags: ["IPv6","KVM","SAS","t5120","v210","v240","windows"]
-categories: ["Sun"]
+tags: ["ipv6","kvm","sas","t5120","v210","v240","windows"]
+categories: ["industrial year"]
 ---
 
 This week took forever to finish!
 
 The week started off with a couple of light jobs. I replaced a fan in a V210 and racked up an engineers stable system (a V240).
-
+<!--more-->
 Tuesday was spent catching up on some work from the week before.
 
 Wednesday everything went bang! I had started to tidy the cable store, but seeing as we were two men down, I came out and worked on reducing tickets on the queue. I went over to GMP02 and readied a customer system for an engineer, this wasn't too hard, but took a while to get console connections to work.

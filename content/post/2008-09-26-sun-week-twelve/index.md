@@ -2,12 +2,12 @@
 date: "2008-09-26T15:05:07"
 title: "Sun - Week Twelve"
 tags: []
-categories: ["Sun"]
+categories: ["industrial year"]
 ---
 
 Monday started slowly. I cycled in and not much happened in the morning. By the afternoon I had inherited a couple of tickets which I started work on after lunch.
 Immediately after lunch we had the weekly staff meeting, then I got cracking on some tickets...One system wasn't turned on, so I turned it on (very taxing) and I started to look at Liam's ticket about remaining SAN switched.
-
+<!--more-->
 Tuesday was really busy. I finally received the RSC for the [280r][1] that I needed. I installed that then headed over to GMP02 to look at a cluster. I had to repair the box after James had maliciously ripped it to shreds...Or rather he had broken a switch that makes the system power off when the lid is removed. I replaced said switch and some gubbins to do with that, then popped the machine back together. Upon completion, it was lunch time :D
 After lunch I talked to the guy who has booked the cluster system, but didn't get any time to continue work with it. I had to configure the RSC from the [280r][2] platform, which was weird, and after much fiddling and replacing of cables, I finally got it to work. I have also had to explain how to jumpstart a system to an engineer after directing him to the relevant documentation several times. That's taken a large part of the the afternoon!
 

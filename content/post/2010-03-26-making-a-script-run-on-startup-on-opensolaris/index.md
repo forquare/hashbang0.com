@@ -1,12 +1,12 @@
 ---
 date: "2010-03-26T19:21:37"
 title: "Making a script run on startup on OpenSolaris"
-tags: ["OpenSolaris","script","SMF","startup"]
-categories: ["General"]
+tags: ["opensolaris","script","smf","startup"]
+categories: ["computing"]
 ---
 
-While working on my dissertation, I found that virtual NICs and etherstubs don't automatically reappear on a restart.  So, I have a nice little script to make them come back: 
-
+While working on my dissertation, I found that virtual NICs and etherstubs don't automatically reappear on a restart.  So, I have a nice little script to make them come back: 
+<!--more-->
 ```
 #!/bin/bash
 /sbin/dladm up-aggr
@@ -17,7 +17,7 @@ While working on my dissertation, I found that virtual NICs and etherstubs don't
 
 I need this to run on startup. 
  
-Now, as of Solaris 10, things like this should really be done in SMF.  We can easily create a new service using the following template (modify as you require): 
+Now, as of Solaris 10, things like this should really be done in SMF.  We can easily create a new service using the following template (modify as you require): 
 
 ```
 <?xml version="1.0"?>

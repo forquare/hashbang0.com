@@ -1,12 +1,12 @@
 ---
 date: "2009-02-20T18:07:17"
 title: "Sun - Week Thirty-three"
-tags: ["208r","2510","3310","minnow","SAS","SATA","t2000","v215","x2200","x4100","x4140","x4540","x4600"]
-categories: ["General","Sun"]
+tags: ["208r","2510","3310","minnow","sas","sata","t2000","v215","x2200","x4100","x4140","x4540","x4600"]
+categories: ["industrial year"]
 ---
 
 The weekend was great. Faye came down on Friday and went home on Sunday, we had a really nice, weekend doing not much. Parents came round on Saturday too to show Faye the photo scrapbook Mum had made me for my birthday.
-
+<!--more-->
 Monday I worked on a ticket which I had picked up last thing on Friday. It was to install four network cards into a T2000. The T2000 booked was on the back bench under a 3310 array (or something similar). Since my engineer had a genuine booking, I disconnected the T2000, put it back in it's place and set about taking out old cards and adding in the new ones.
 When I came across problems with the SP and asked for help, it transpired that the machine actually belonged to someone else...Tom had cancelled the booking, and I had dismantled the config. I hastily set about undoing what I had done to some success, I emailed the original owner and apologised.
 

@@ -1,12 +1,12 @@
 ---
 date: "2008-01-15T23:34:13"
 title: "MacWorld Expo"
-tags: ["air","Apple","iphone","ipod","macbook","macworld","time capsule","time machine","touch"]
-categories: ["Apple"]
+tags: ["apple","iphone","ipod","macbook air","macworld","time capsule","time machine","touch"]
+categories: ["computing"]
 ---
 
 Held between the 14th and the 18th of January, Apple today released two new exciting products and two enhancements to two of their already awesome product range.
-
+<!--more-->
 ![alt text](ipodtouch-hero.jpg "")
 The first enhancement was a major software upgrade to the [iPod touch][2]. Some of the software includes: Mail, Maps, Stocks, Weather and Notes, as well as a couple of other upgrades! UK users can get the update through iTunes for £12.99
 ![alt text](o2-top-iphone.png "")

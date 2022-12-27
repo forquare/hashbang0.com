@@ -1,7 +1,7 @@
 ---
 date: 2020-12-26T15:32:26
 title: "Hosting bitwarden_rs on FreeBSD"
-tags: ["FreeBSD","password management","password"]
+tags: ["freebsd","password management","password"]
 categories: ["computing"]
 
 ---
@@ -9,7 +9,7 @@ categories: ["computing"]
 ## Background
 
 Almost two years ago I stopped managing my passwords with the excellent [1Password](https://1password.com/) and switched to [Bitwarden](https://bitwarden.com/).
-
+<!--more-->
 ### Why?  
 
 There were a couple of reasons why:

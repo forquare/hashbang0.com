@@ -1,13 +1,13 @@
 ---
 date: "2010-02-07T15:27:11"
-title: "Goodbye George Ward Event – 3/7/10"
-tags: ["George Ward","George Ward School","Home","melksham","Secondary School"]
-categories: ["General"]
+title: "Goodbye George Ward Event – 2010-07-03"
+tags: ["george ward","george ward school","home","melksham","secondary school"]
+categories: ["general"]
 ---
 
 > The George Ward School Association are attempting to organise a 'Goodbye George Ward' Event
 > The date has been set for Saturday 3rd July, from 10am – 5pm with a Celebration Ball in the evening from 7.30-11.30pm. (Tickets to be sold to public nearer the event)
-> 
+>  <!--more-->
 > During the day we hope to have various areas of the school set aside for each of the decades the school has been opened, with music and school related pictures and memories from that era, and if possible, staff! We are hoping that as many ex staff, pupils and Governors can be persuaded to attend as possible, and hopefully be up for a photo shoot too!
 > We are looking to reopen the 'tuck shop' for a one off session, as well and opening the Sports Hall for a soft play/bouncy play and GW sporting hero's area, we may even have a chance to open the school canteen for a small taste of a 'last George Ward School dinner'! The event will finish with a final assembly at 4pm where we hope a few speeches from various headmasters/dignitaries may occur.
 > 

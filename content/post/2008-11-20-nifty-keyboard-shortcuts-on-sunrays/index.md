@@ -1,12 +1,12 @@
 ---
 date: "2008-11-20T17:22:30"
 title: "Nifty keyboard shortcuts on SunRay's"
-tags: ["srss","SunRay"]
-categories: ["Sun"]
+tags: ["srss","sunray"]
+categories: ["industrial year"]
 ---
 
 At work, our department has it's own SunRay servers. I am currently running on a [V890][1] server running build [101a of Nevada][2] and running the [SRSS 4.1 (SunRay Server Software (I think))][3].
-
+<!--more-->
 I was trying to switch tabs in Firefox, in [Camino][4] I can use command+alt+arrow to switch tabs, under [Safari][5] I can use command+shift+arrow. Under Firefox, I can use...Well, I've got no idea what I can use...So I set out to find a way!
 
 I figured there was two ways about going about this. Either I use the trusty Google, to search the net for people who have the answer, or I press buttons until it works...I decided to press buttons.

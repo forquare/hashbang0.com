@@ -1,12 +1,12 @@
 ---
 date: 2019-02-07T10:31:00
 title: "Setting up mfsBSD for receiving ZFS snapshots on systems with low memory"
-tags: ["FreeBSD","ZFS","mfsBSD"]
-categories:  ["FreeBSD"]
+tags: ["freebsd","zfs","mfsbsd"]
+categories:  ["computing"]
 ---
 
 I recently had a need to boot into a fresh server (a VirtualBox VM, actually) with FreeBSD in order to partition the disk and [make it ready to restore another machine onto it](/2019/02/07/restore-freebsd-from-a-zfs-snapshot/).
-
+<!--more-->
 Of course I turned to [mfsBSD](https://mfsbsd.vx.sk).  I downloaded the ISO, started the `zfs recv`, and found sometime later I found my VM had lost its disk and there were messages that looked like the VM had run out of memory.  
 No problem, let's spin our own mfsBSD ISO!
 

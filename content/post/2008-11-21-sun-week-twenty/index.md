@@ -2,10 +2,11 @@
 date: "2008-11-21T11:55:43"
 title: "Sun - Week Twenty"
 tags: ["live upgrade","luactivate","lucreate","lumake","luugrade","sunblade","SunRay"]
-categories: ["Sun"]
+categories: ["industrial year"]
 ---
 
 Monday starts off quietly, with fewer tickets than I expected...I progressed a little with some gDoc code, you can now call up the GUI form the command line with some arguments and the app with automagically search for those words.
+<!--more-->
 I have also been looking into live upgrading from Solaris 10 to Solaris 10 update 6. I think that I have finally understood how to create a new Boot Environment (BE). I am just waiting for the machine (an [880][1]) to copy the current BE into a new one. I will upgrade the new BE while the system is still running. Then when I know that it is OK, I will simply restart the machine and it will boot into the upgraded environment...
 
 ```

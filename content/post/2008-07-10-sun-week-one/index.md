@@ -2,12 +2,12 @@
 date: "2008-07-10T21:24:07"
 title: "Sun - Week One"
 tags: ["console","jlt","js_config","rpower"]
-categories: ["Sun"]
+categories: ["industrial year"]
 ---
 
 After the weeks in Ireland and sitting around at home, I have finally arrived in Surrey and completed my first week at Sun Microsystems.
 It's been a busy and hectic week, with lots of TOI's (transfers of information), but I am happy with it, I have learnt a lot about the tools I'm going to use over the next year, and looked at some of the machines I'll be using too. Here's a quick summary of the week:
-
+<!--more-->
 ## Monday
 We were welcomed into the company by [Paul Humphreys][1] first thing in the morning, he told us the do's and don'ts, company structure, among other things. Later in the afternoon Paul gave us the H&amp;S talk about working in the lab, things like putting the feet out so server cabinets don't go flying and how to tidy cables away, you know, the mundane yet vitally necessary details. In essence, keep it tidy, don't be stupid, the usual common sense stuff.
 
