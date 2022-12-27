@@ -1,11 +1,11 @@
 ---
 date: "2009-04-03T16:39:48"
 title: "Sun - Week Thirty-nine"
-tags: ["april fools","console","customise boot image","devalias","Java cafe"]
-categories: ["Sun"]
+tags: ["april fools","console","customise boot image","devalias","java cafe"]
+categories: ["industrial year"]
 ---
 
-Monday morning is here, we are an hour ahead of last week with the clocks going forward. It seems really sunny today, shame that my day starts off with unblocking the toilet, yuck.
+Monday morning is here, we are an hour ahead of last week with the clocks going forward. It seems really sunny today, shame that my day starts off with unblocking the toilet, yuck.<!--more-->
 Anyhoo, I get into the office as usual, grab a coffee from the Java cafe and spend most of the morning setting up some of the French kit. I've set up console entries in JLT, and all console connections appear to work. I've just got to set up IP addresses for the kit and their SP's, configure all the SP's to work on this network and boot net the hosts. However I must configure boot net for any hosts that are booked, but not jump start them...Something which is very tempting!
 The afternoon was spent in a meting, and finding three machines. I want to test something out: we have had complaints that from Solaris 10 machines, people can't access one of our share through /net though Nevada machines seem to be unaffected...I have three v210's which I have installed Solaris 10 update 4 and 6, and Nevada build 110 on, I have found that I can reproduce the issue, just a case of finding out why!
 

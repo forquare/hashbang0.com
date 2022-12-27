@@ -1,12 +1,12 @@
 ---
 date: "2010-08-05T09:58:47"
 title: "New job!"
-tags: ["ERTMS","Railway"]
-categories: ["Trains"]
+tags: ["ertms","railway"]
+categories: ["work"]
 ---
 
 After a while of searching, I've finally found a job!
-
+<!--more-->
 I now work for a company called [Eldin][1] in the Welsh town of [Machynlleth][2].
 My job is to switch on and off the new [ERTMS][3] system that is being installed on the [Cambrian line][4].
 

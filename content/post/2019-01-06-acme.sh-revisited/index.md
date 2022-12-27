@@ -1,13 +1,13 @@
 ---
 date: 2019-01-06T14:33:43
 title: "acme.sh revisited: ECC & Wildcards"
-tags: ["FreeBSD","acme.sh","Let's Encrypt"]
-categories:  ["FreeBSD", "web"]
+tags: ["Freebsd","acme.sh","let's encrypt"]
+categories:  ["computing"]
 ---
 
 A while ago I [wrote about using acme.sh](/2017/11/05/acme.sh-plus-linode-plus-dns-plus-freebsd/) to automate my HTTPS certificates.  
 In the post I used a domain (bnix.club) along with a number of specific subdomains (“logs.bnix.club”, “f.bnix.club”, “www.bnix.club”).
-
+<!--more-->
 Today I wanted to add a subdomain to an existing domain: manaha.co.uk.  
 This has a number of subdomains, so rather than adding a new one I decided to create a [wildcard certificate](https://github.com/Neilpang/acme.sh#11-issue-wildcard-certificates).  
 While browsing the documentation for `acme.sh`, I came across [ECC certificates](https://github.com/Neilpang/acme.sh#10-issue-ecc-certificates), and thought that if I was recreating a certificate that I could use this too.

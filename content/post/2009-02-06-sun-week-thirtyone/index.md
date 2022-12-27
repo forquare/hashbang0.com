@@ -2,12 +2,13 @@
 date: "2009-02-06T20:59:34"
 title: "Sun - Week Thirty-one"
 tags: ["aber","beer pong","Starbucks","Wasabi"]
-categories: ["General","Sun"]
+categories: ["general"]
 ---
 
 Week off! Woo!!!
 
 I started my time off on Saturday 31st January, I woke up at 5am, was out the house by 6:15am and waiting to catch the 7:02 train to Reading from Blackwater. Everything was good, I'd had a duck and hoisin wrap from Tesco.
+<!--more-->
 The trip from Reading to Oxford was to be taken by bus. I sat upstairs and off we went! About halfway to Oxford, the bus broke down on the dual carriage way. Grrrr! We were there for an hour before another bus came, then we were an hour and a half late!
 I caught the next train to Wolverhampton where I had to wait an hour and a half for the train to Aberystwyth, I wandered into town and got myself a Starbucks :P
 I finally got to Aberystwyth two hours later than I wanted to be, met up with Faye and went home for some dinner!

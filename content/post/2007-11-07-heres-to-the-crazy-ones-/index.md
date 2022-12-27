@@ -1,13 +1,13 @@
 ---
 date: "2007-11-07T10:34:13"
 title: "Here's to the crazy ones..."
-tags: ["ben","crazy ones","lavery","leopard","textedit"]
-categories: ["Mac OS"]
+tags: ["leopard","textedit"]
+categories: ["computing"]
 ---
 
 A fellow Mac User has pointed me to look at TextEdit.app with Coverflow. Blown up it looks like this:
+<!--more-->
 ![alt text](crazyones.png "")
-
 > Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes.
 > 
 > The ones who see things differently. They're not fond of rules. And they have no respect for the status quo.

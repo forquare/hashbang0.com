@@ -1,12 +1,12 @@
 ---
 date: "2008-11-14T22:30:01"
 title: "Sun - Week Nineteen"
-tags: ["6000 chassis","6048 chassis","back to back","blade chassis","gDoc","navada","storage","T1","v20z"]
-categories: ["Sun"]
+tags: ["6000 chassis","6048 chassis","back to back","blade chassis","gdoc","navada","storage","t1","v20z"]
+categories: ["industrial year"]
 ---
 
 After spending most of Sunday cooking meals for the following two weeks, I came in to find that it was fairly quiet. I spent Monday looking at some disk drives, in meetings and looking at gDoc. I also looked at the ticket with the Neptune card. I now needed to put two systems back to back, I corresponded with the engineer to book another system.
-
+<!--more-->
 Tuesday morning we had a meeting with Paul and David to discuss how things were going, we have planned some more TOI's about some of the finer points here and there.
 I picked up a ticket from an engineer in the Czech Republic, he was trying to install the latest [Navada][1] build on a [V20Z][2], but he couldn't...I have tried it also, but couldn't get a lab box to install...Most strange...
 In the afternoon I had heard back about the back-to-back systems. They were at opposite ends of the lab, typical! I patched them through to each other and reported to the engineer what the configuration was complete.

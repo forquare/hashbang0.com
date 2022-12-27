@@ -1,15 +1,15 @@
 ---
 date: "2009-01-23T18:27:22"
 title: "Sun - Week Twenty-nine"
-tags: ["b445","BIOS","dumb terminal","SCSI/SAS","SVM","w1100z","x2200"]
-categories: ["Sun"]
+tags: ["b445","bios","dumb terminal","scsi/sas","svm","w1100z","x2200"]
+categories: ["industrial year"]
 ---
 
 This week was very VERY busy!
 
 Monday starts with me in the lab net booting a w1100z, this old box doesn't output it's BIOS over the serial cable, so a keyboard and screen was attached to allow me to net boot the thing.
 I spent the end of the morning and all afternoon finishing off the cable store. All the boxes of SCSI/SAS cables are all in their own box, and are all labelled! Only took three sessions in there!
-
+<!--more-->
 Tuesday was spent looking into some outstanding tickets.
 
 Wednesday I spent nearly all day working on two new 2200's. Neither of them wanted to give me any output on the serial port. I tried hooking up a monitor and keyboard and found that I could see the BIOS and where the OS should boot, but could not get to the SP. I reeled in an old dumb terminal (circa 1993), and found nothing on there.

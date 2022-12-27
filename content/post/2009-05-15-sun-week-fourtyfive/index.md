@@ -2,13 +2,13 @@
 date: "2009-05-15T18:37:54"
 title: "Sun – Week Forty-five"
 tags: []
-categories: ["Sun"]
+categories: ["industrial year"]
 ---
 
 Monday starts at 5:30 for me, and after getting in from Aber at 12:30, I wasn't feeling too sharp...
 I'm in early all this week so we can support early workers and people in Europe who are an hour ahead of us.
 Today was spent doing some tickets, I had a couple about people not being able to install machines. I also had a short meeting with Simon from Aber about the report...
-
+<!--more-->
 Tuesday I spent again helping install a number of boxes...I also linked up an x2250 to a 6140 and hooked up some gigabit Ethernet connections...
 
 Wednesday was a blur as more tickets came through for help with installing machines. One interesting ticket was to install an Ethernet card into the new x2270 and hook it up t oa different network. I installed the card fine, and hooked the card up to the switch, but didn't get to change it to a different network...

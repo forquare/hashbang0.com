@@ -1,14 +1,14 @@
 ---
 date: "2009-06-01T14:04:39"
 title: "OpenSolaris 2009.06 Released"
-tags: ["2009.06","OpenSolaris"]
-categories: ["Sun"]
+tags: ["2009.06","opensolaris"]
+categories: ["computing"]
 ---
 
 It's finally here! OpenSolaris 2009.06 has been released!
 
 Head over to [opensolaris.org][1] to download the new iso, or run \`pfexec pkg image-update\` (no quotes) as the user you created when you installed your machine to upgrade your current installation.
-
+<!--more-->
 Exciting new features include:
 
 * [Project Crossbow][2] - Virtualise your network

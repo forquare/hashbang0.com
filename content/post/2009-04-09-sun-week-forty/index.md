@@ -2,11 +2,11 @@
 date: "2009-04-09T18:38:12"
 title: "Sun - Week Forty"
 tags: ["connect","database","Java","perl","sybase"]
-categories: ["Sun","Java"]
+categories: ["industrial year"]
 ---
 
 This week I'm going to try and finish that email script...A while ago I was assigned the task of writing a module for our booking system.
-
+<!--more-->
 **The Problem**
 
 Engineers can book hardware to escalation numbers (customer cases), however, we know that a number of engineers take advantage of this, and book systems for other, more personal, uses under the same escalation numbers.

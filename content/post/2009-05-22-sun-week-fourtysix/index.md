@@ -2,11 +2,11 @@
 date: "2009-05-22T12:40:08"
 title: "Sun – Week Forty-six"
 tags: []
-categories: ["Sun"]
+categories: ["industrial year"]
 ---
 
 This week was another short one :D I'll just add highlights for this week.
-
+<!--more-->
 Monday started with me being back on 9am starts. I then started troubleshooting a problem with a server in America which seemed to sort itself out.
 
 Tuesday I fixed several SP's which had gotten themselves into a bad state and needed resetting by pulling the main power...

@@ -1,15 +1,15 @@
 ---
 date: "2007-11-01T10:29:53"
 title: "Leopard"
-tags: ["aberystwyth","Apple","ben","Computing","lavery","leopard","os x"]
-categories: ["Mac OS"]
+tags: ["apple","leopard","os x"]
+categories: ["computing"]
 ---
 
 The 26th October: about 11am, I received a small box from a man who travelled in an Orange lorry.
 With great eagerness I signed the form and ripped open the packaging to find a shiny box containing a DVD on it. On the DVD was Apple's latest edition of OS X: Leopard, Mac OS 10.5.
 
 Thirty minutes it took me to install Leopard, while it was installing I perused the net looking for all the applications I used to have. With a restart I was launched into the Leopard Welcome sequence, swirling through space (like the background in Time Machine). After this I was taken to the set-up screens where I chose my language, set up user accounts etc...
-
+<!--more-->
 Leopard launched me into my desktop environment where I sat for a while in awe. I quickly installed all of my previous applications and copied over some library folders, I was really surprised that when copying the Adium folder I just re-launched Adium and it recognised all my previous settings, down to how big the contacts window was!
 
 With my applications installed I made my way familiarising myself with the new Finder and System Preferences interface...

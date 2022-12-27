@@ -1,12 +1,12 @@
 ---
 date: 2018-12-28T16:07:29
 title: "FreeBSD Ports unable to use multiple Github repos with the same name"
-tags: ["FreeBSD", "Ports"]
-categories:  ["computing", "build"]
+tags: ["freebsd", "ports"]
+categories:  ["computing"]
 ---
 
 I maintain the [hugo](https://gohugo.io) ([www/gohugo](https://www.freshports.org/www/gohugo)) FreeBSD Port.  In a recent release ([0.51](https://github.com/gohugoio/hugo/releases/tag/v0.51)) a situation arose where the dependency “mitchellh/mapstructure” required a fix.  The Github repository for the dependency was forked to “bep/mapstructure” and a [Pull Request to the original repository made](https://github.com/mitchellh/mapstructure/pull/123).  The Pull Request wasn’t pulled into the original repo in time for the 0.51 release (and still haven’t at time of writing), so the developers have instead specified both the original and forked repos as dependencies.
-
+<!--more-->
 When I got a notification that hugo had been updated, I thought to myself “ooo, new stuff!”, and I set about updating the [0.50 Makefile](https://svnweb.freebsd.org/ports/head/www/gohugo/Makefile?revision=483461&view=markup).
 
 Sometimes the changes are very simple, all I have to do is modify the `DISTVERSION` and `COMMIT_ID`, and test the build.  Other times, dependencies change and I must redefine `GH_TUPLE` with those changes - thankfully for this I have [a small hacky shell script](https://github.com/forquare/freebsd-port-helpers/blob/master/scripts/parse_gomod.sh) to make things easier.  

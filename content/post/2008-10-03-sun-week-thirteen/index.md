@@ -1,12 +1,12 @@
 ---
 date: "2008-10-03T17:15:05"
 title: "Sun - Week Thirteen"
-tags: ["Bill Bailey","clive king","console server","enotty","LiveUpgrade","multihead","Royal Albert Hall","Solaris 10","SunRay","Ultra 80"]
-categories: ["Sun"]
+tags: ["bill bailey","clive king","console server","enotty","liveupgrade","multihead","royal albert hall","solaris","sunray","ultra 80"]
+categories: ["industrial year"]
 ---
 
 Unlucky for some, will it be for me? As you possibly guess, I write parts of entries throughout the week and publish on Fridays, so at the time of writing, I have no idea if it's going to be a good or bad week, it's 11:50, Monday morning :P
-
+<!--more-->
 So Monday starts off with me cycling in, sitting down to breakfast then being interrupted because a fibre cable won't come out of it's socket. I went down to the lab where me and the engineer pulled it out and I took the cable upstairs to bin (must do that sometime actually). While getting ready for the day [Clive King][1] popped into the office! Not sure why he's here, but he was checking out some of the M series machines...I'm pitted against the same problems that were pestering me last week, as well as a problem with an [Ultra 10][2] that is pingable, but won't net boot. I made a new group for a multihead SunRay :D
 `utmhadm myName -d 2x1 -p 0123456789ab -l 0123456789ab,cdef01234567`
 I spent the afternoon fixing an [Ultra 10][3], the problem was about lab tool 'js\_config' not being properly configured for the machine. I also had an [Ultra 80][4] to look at, it didn't want to boot, so after rearranging the CPU's, I concluded it was a duff system board, so another one of them is on order...

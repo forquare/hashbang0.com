@@ -1,12 +1,12 @@
 ---
 date: "2009-05-08T16:30:22"
 title: "Sun - Week Forty-four"
-tags: ["LVM","SVM","virtualbox","vmware","zfs"]
-categories: ["Sun"]
+tags: ["lvm","svm","virtualbox","vmware","zfs"]
+categories: ["industrial year"]
 ---
 
 This week is excellent! Monday starts off as a bank holiday, and I have Thursday and Friday off!
-
+<!--more-->
 Tuesday consisted of me pulling some vmware VM's from a box in the lab. This shouldn't have been difficult, but the box was running Linux, the VM's were on a SCSI array, and the array had been made into one volume using LVM. There is hardly any documentation out there for LVM! Linux people, get your arse's in gear and take a leaf out of the ZFS book for goodness sake! It reminds me a lot of what SVM used to be.
 After finally getting the correct command I found I had to activate the volume, which took even more poking around on the net to find out what to do! After that it was just a case of mounting the volume.
 

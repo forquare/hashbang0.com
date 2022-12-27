@@ -1,15 +1,15 @@
 ---
 date: "2009-03-27T16:10:15"
 title: "Sun - Week Thirty-eight"
-tags: ["15k","25k","5100","firmware","js_config","nevada","OpenSolaris","sparc","starcat","T1000","tftp","x4100"]
-categories: ["Sun"]
+tags: ["15k","25k","5100","firmware","js_config","nevada","opensolaris","sparc","starcat","t1000","tftp","x4100"]
+categories: ["industrial year"]
 ---
 
 Monday I was back in the office, Steve was out coming home from a weekend in Aber and James had started a week of touring the UK.
 I picked up a few tickets and knuckled down to get them done. I had one which was to simply check if some connections between a storage array and a host was OK and to provide feedback on how they were configured.
 Another was to do some testing on our lab tool "js\_config", the developer has updated the current version and logged about 25 tickets to test the new and old features out. I picked one which had me installing a SPARC machine with the latest Nevada build, everything seemed to go OK.
 I spent the afternoon moving a crypto card from a stable system and putting it in to a T1000, and back again, and then back again, finally placing it back in the stable system...I still have the original crypto card from the T1000 on my desk actually...
-
+<!--more-->
 Tuesday came and it felt like Monday again :(
 I spent a lot of time in the very warm GMP02 lab working with the 15K over there. I had picked up a ticket which involved getting a starcat domain up running with similar hardware to a customer setup.
 I found a board with the same CPU's, and changed the memory configuration to match too. I then had problems booting the domain, but I needed to leave it as I had other work that was more urgent.

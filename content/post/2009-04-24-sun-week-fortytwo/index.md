@@ -1,12 +1,12 @@
 ---
 date: "2009-04-24T19:45:16"
 title: "Sun - Week Forty-two"
-tags: ["G3","Oracle","Sun","SunBlade 2000","x404","x404.co.uk"]
-categories: ["Sun"]
+tags: ["g3","oracle","sun","sunblade 2000","x404","x404.co.uk"]
+categories: ["industrial year"]
 ---
 
 Monday morning starts with us meeting a newtern for next year. Alex is down for a weeks experience to get used to working at sun. As a result, I've not actually done that much this week.
-
+<!--more-->
 Monday morning begins with Alex coming in to the office, I start looking at a [SunBlade 2000][1] which belongs to an engineer, the machine won't boot, nothing out the graphics card, nothing out the serial port...Before I get any further with the machine, I got an email from Jonathan Schwartz. [ Sun][2] has been bought by [Oracle][3]...I blogged about it too, found [here][4].
 Feeling a little weird, we went off to lunch to come back to a meeting that afternoon. The meeting was the usual Monday afternoon affair, however, we all knew one note on the agenda was Oracle. Paul doesn't know any more than we do, and confirmed that. After the meeting we tidied the lab as we have two student interviews and some guests coming for lab tours over the next few days.
 

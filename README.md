@@ -1,3 +1,27 @@
+# Posts
+
+- A post should fit into one category
+- A post may contain multiple tags
+- All taxonomy should be lowercase
+
+Use the `<!--more-->` tag to dnote when to break a posts summary.
+
+# Categories
+
+Try and stick to the following categories:
+
+- computing
+- games
+- general
+- industrial year
+- musings
+- personal projects
+- podcasts
+- railway
+- rants
+- uni
+- work
+
 # Workflow
 
 ## Developing

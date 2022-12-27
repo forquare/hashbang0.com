@@ -1,12 +1,12 @@
 ---
 date: "2008-11-07T18:26:13"
 title: "Sun - Week Eighteen"
-tags: ["multihead","SunRay","utmhadm"]
-categories: ["Sun"]
+tags: ["multihead","sunray","utmhadm"]
+categories: ["industrial year"]
 ---
 
 Monday was spent travelling back from Aber, I arrived back in Camberley at just past midnight
-
+<!--more-->
 Tuesday was spent getting some storage trays set up for an engineer. It just comprised of setting up two trays really, there was thought about getting me to hook the systems up, but the engineer decided to do the rest himself.
 I spent a portion of the afternoon postbooking some systems in th 02 lab as they were appearing dead. I brought two of them back to life...One still needs my attention.
 

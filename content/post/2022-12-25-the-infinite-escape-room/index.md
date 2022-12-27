@@ -1,8 +1,8 @@
 ---
 date: 2022-12-25T10:00:00
 title: "The Infinite Escape Room"
-tags: ["TIER"]
-categories: ["Podcasts"]
+tags: ["tier"]
+categories: ["podcasts"]
 ---
 
 Back in 2018 I was at the [Frocester Beer Festival](https://www.frocesterfestival.com/) with some friends, it had become an annual tradition to go to this festival for a weekend of sampling beers, and catching up - sometimes for the first time since the last beer festival.  

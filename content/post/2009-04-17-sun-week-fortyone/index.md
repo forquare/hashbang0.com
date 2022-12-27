@@ -1,12 +1,12 @@
 ---
 date: "2009-04-17T12:50:11"
 title: "Sun Week Forty-one"
-tags: ["15k","Java email","NIS+","Solaris zones","SunBlade 2000","Ultra 80","vi"]
-categories: ["Sun","Java"]
+tags: ["15k","java email","nis+","Solaris zones","sunblade 2000","ultra 80","vi"]
+categories: ["industrial year"]
 ---
 
 This week starts on Tuesday, Monday being Easter Monday and a day dedicated to getting over a "chocolate hangover", whatever one of those is...
-
+<!--more-->
 Tuesday started with me trying to figure out how to send an email using Java. But before I sunk my teeth into it, I realised I had promised to change the hardware of the stable zones box for some engineers.
 The stable zones box is just a box which is set up to create and test Solaris zones on, the current machine (A [Sun Blade 2000][1]) was restarting every 24 hours, seemingly this has something to do with Solaris 10 update 5 and above....
 So I got an [Ultra 80][2], set up the zones stuff and made it ready to take the place of the current zones box. At 4pm I scheduled some downtime and swapped the boxes, they are heavy things, and powered up the Ultra 80. I had console access, I had changed the details in NIS+, and I just had to change the hostname, which was easy thanks to [this][3] page :D

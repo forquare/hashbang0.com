@@ -1,13 +1,13 @@
 ---
 date: 2019-02-07T10:21:31
 title: "Restore FreeBSD from a ZFS Snapshot"
-tags: ["FreeBSD","ZFS","Backup and Restore"]
-categories: ["FreeBSD"]
+tags: ["freebsd","zfs","backup and restore"]
+categories: ["computing"]
 ---
 
+This was a beautiful sight this morning.  The image below is a VirtualBox console showing a booted FreeBSD system.  That system has been restored from a ZFS snapshot taken last November.  So, how did we do it?
+<!--more-->
 ![alt text](success.png "VirtualBox console with VPS booting inside")
-
-This was a beautiful sight this morning.  The image above is a VirtualBox console showing a booted FreeBSD system.  That system has been restored from a ZFS snapshot taken last November.  So, how did we do it?
 
 ## Creating the Snapshot
 

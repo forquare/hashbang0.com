@@ -1,13 +1,13 @@
 ---
 date: "2010-01-31T19:57:08"
 title: "Apple iPad"
-tags: ["A4","Apple","ipad","PARC","Xerox"]
-categories: ["iPad","Musings"]
+tags: ["a4","apple","ipad","parc","xerox"]
+categories: [musings"]
 ---
 
 So, I'm a little late to the blogsphere on this one, but then when am I not? I've read some pretty damning things about the [iPad][1], it doesn't have a SD card reader, it doesn't have a camera, it has files and no file system, it doesn't do Flash, and that the name suggests a type of adult nappy...
 I thought that I'd look at these comments and generally give my views on the iPad and it's hardware.
-
+<!--more-->
 First up, I'd like to say that the lack of an SD card reader really doesn't bug me. All my photos are stored in iPhoto, I transfer them there via a cable from my camera. And this is, perhaps, one of the reasons why people seem to hate the fact there is no viable file system on the iPad. Windows users are used to dragging files around, Mac users (with the introduction to iLife) have enjoyed the magic of self-organised photos, movies and music. Windows users have applications available to them, but many don't see to use them, Mac users seem to like the increased productivity iPhoto and iTunes gives them.
 I believe in a number of years, all these files will be gone. File space and network speeds will mean that compression is no longer needed, so people will only have to concern themselves with Photos, Documents, Music, Spreadsheets, Movies, etc...Apple know that the desktop isn't ready yet, but the mobile platforms of today are.
 Having said all of that, Apple have created an accessory for connecting a camera via USB or by using a SD card.

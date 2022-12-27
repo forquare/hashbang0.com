@@ -1,12 +1,12 @@
 ---
 date: "2008-08-29T18:41:16"
 title: "Sun - Week Eight"
-tags: ["NIS+","v240","x2200"]
-categories: ["Sun"]
+tags: []
+categories: ["industrial year"]
 ---
 
 Now this week started off brilliantly, I mean who can argue with your boss telling you 'it's OK, take Monday off, and we'll pay you!' Of course, it was bank holiday Monday :wink:
-
+<!--more-->
 Anyhoo, Tuesday started off with me clearing up some details in NIS+, some servers had gone but not been taken out and some things needed to be moved from one subnet to another. I still have a niggling problem with one [v240,][1] it's SP still doesn't respond to pings..
 Tuesday afternoon saw the start of a new server being set up. I had to label up the box, evacuate disks and other devices inside the box, and then cable it up. Cabling the SP and the network wasn't too bad, but there was no space left for the serial connection, too late in the day to be worrying about this, so off I went home.
 

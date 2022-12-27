@@ -1,13 +1,13 @@
 ---
 date: "2008-08-01T11:25:11"
 title: "Sun - Week Four"
-tags: ["jlt","moat","nigel hardy","photos","post-booking","sparc","spark","Sun","work"]
-categories: ["Sun"]
+tags: ["jlt","moat","nigel hardy","photos","post-booking","sparc","spark","sun","work"]
+categories: ["industrial year"]
 ---
 
 ## Monday
-When I got into the office today, James had stolen Michael's nice big monitor, and swapped it for a small 17"one. So, after claiming Michael's desk, I set about looking for two CRT monitors that worked, both are about 20", but do consume a lot of desk room. I had to set up two SunRay clients too, one to be a master and control one screen as well as the keyboard and mouse, and another to be the slave, controlling the second screen. I'll try and get a picture tomorrow.
-In the middle of this, James gave us a TOI on servers, past and present, as well as giving us a good, general overview of the history of the SPARC processors.
+When I got into the office today, James had stolen Michael's nice big monitor, and swapped it for a small 17"one. So, after claiming Michael's desk, I set about looking for two CRT monitors that worked, both are about 20", but do consume a lot of desk room. I had to set up two SunRay clients too, one to be a master and control one screen as well as the keyboard and mouse, and another to be the slave, controlling the second screen. I'll try and get a picture tomorrow.<!--more-->  
+In the middle of this, James gave us a TOI on servers, past and present, as well as giving us a good, general overview of the history of the SPARC processors.  
 The afternoon came and we had our regular meeting, Steve, Tom and myself were asked to relabel some racks, and change the locations of the servers in the database if they had changed. My other task for the week is to localise some documentation given to new interns, I had mentioned it was difficult to follow as the American servers I hadn't heard of, but if they had been localised, I might have understood the document a bit more, so I've got to do that somewhen...
 
 ## Tuesday

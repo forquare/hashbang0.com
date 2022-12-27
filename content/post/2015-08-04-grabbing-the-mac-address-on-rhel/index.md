@@ -1,12 +1,12 @@
 ---
 date: "2015-08-04T11:07:03"
 title: "Grabbing the MAC address on RHEL"
-tags: ["ifconfig","RHEL","network","code snippet"]
-categories: ["Linux","Bash/Shell"]
+tags: ["ifconfig","rhel","network","code snippet"]
+categories: ["computing"]
 ---
 
 At work I deploy Red Hat Enterprise Linux VMs, for a variety of reasons, mostly by hand. 
- 
+<!--more-->
 One of the steps I loath is setting up the network, it's almost the only thing that truly requires manually tapping each character out. I have, however, learnt this bash one-liner such that I type it out without thinking: 
  
 ```

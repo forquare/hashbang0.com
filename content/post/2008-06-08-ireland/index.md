@@ -2,13 +2,13 @@
 date: "2008-06-08T21:37:10"
 title: "Ireland"
 tags: ["art","guinness","ireland","jamesons"]
-categories: ["General"]
+categories: ["general"]
 ---
 
 ## Day One
 
 We got up early and did last minute things then left at about 11:15. We travelled up to Holyhead. We found that the online booking form had got out times wrong! We were booked to leave from Dublin, and get to Holyhead...Not what we wanted. The ferry place switched the times for today and Friday for us and we had a three hour wait. Things weren't going to plan, but this just spelled out: Adventure!
-
+<!--more-->
 As we waited for the ferry, I indulged myself with asking lots of half annoying questions, to satisfy my boredom and curiosity.
 We checked in at 16:30, and boarded the ferry, another chance to ask lots of questions! Then after a short wait, we were off! Skimming along the Irish sea!
 We walked around the deck, went around the outside deck, and around the duty-free shop, then found we had nowhere else to sit...

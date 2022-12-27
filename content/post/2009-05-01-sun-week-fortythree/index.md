@@ -1,13 +1,13 @@
 ---
 date: "2009-05-01T17:14:40"
 title: "Sun - Week Forty-three"
-tags: ["10 gigabit","10GB","64-bit","BIOS","Java","PCI option ROM","POST","raid","t2000","windows","x4100","x4150","x4250"]
-categories: ["Sun"]
+tags: ["10 gigabit","10gb","64-bit","bios","java","pci option rom","post","raid","t2000","windows","x4100","x4150","x4250"]
+categories: ["industrial year"]
 ---
 
 Monday starts off OK. Coming into work to find some tickets on the queue and some work to be done from last week.
 My main ticket is setting up an [x4100][1] over in the 02 lab for an engineer who wants to install VM's. There is a problem with this, he wants to use [Windows][2] and whenever someone says that, there are always groans, why? Because Windows == licensing. He wants to use MSDN licenses, however, he isn't the only user of the systems-to-be, so he needs to use volume licenses. We have an old VM machine which has valid volume licenses on, but I can't access the VM files so I can't transfer them...
-
+<!--more-->
 Tuesday was a terrible day, it started terrible and ended terrible. I woke up late, to Tom asking if I was ready to go at 8:30. After telling him I'd just got up and rushed to get ready and get the next bus.
 When I got in the ticketing system was down, when it came back up one of my tickets had gone from being a normal priority to a high priority...The ticket was to set up two Intel boxes, an [x4150][3] and an [x4250][4], each with a 10 gigabit Ethernet card. This should have been a really easy ticket. However it turned into a nightmare.
 Installing the 10GB card gave me PCI option ROM errors during POST, I wouldn't usually care, but this meant the BIOS couldn't see the RAID card and so couldn't use the disks. After flashing the BIOS and trying the on-board disk controller and still getting no where, it was 6:25pm and I decided enough was enough.

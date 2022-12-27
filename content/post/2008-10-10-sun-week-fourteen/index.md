@@ -1,12 +1,12 @@
 ---
 date: "2008-10-10T16:59:17"
 title: "Sun - Week Fourteen"
-tags: ["drivers","fibre cards","Floppy disk","jumpstart","jumpstart profile","LX50","mirror","multiple mirrors over jumpstart","patchadd","Solaris 9","V65s","windows"]
-categories: ["Sun"]
+tags: ["drivers","fibre cards","floppy disk","jumpstart","jumpstart profile","LX50","mirror","multiple mirrors over jumpstart","patchadd","solaris 9","v65s","windows"]
+categories: ["industrial year"]
 ---
 
 Monday starts off with me looking into this jumpstart image. It turns out to be really easy! All I needed to do was to find the Solaris 10 Update 4 image, this had a file called setup\_install\_server (or similar), I just used this executable file to install the image to another directory. After this it was a case of using the patchadd command:
-
+<!--more-->
 ```patchadd -C```
 
 And this installed that patch onto the image for installation at install time! A bit clever or what!?

@@ -1,12 +1,12 @@
 ---
 date: 2017-11-05T22:07:27+01:00
 title: "acme.sh, plus Linode, plus DNS, plus FreeBSD"
-tags: ["FreeBSD","acme.sh","Let's Encrypt"]
-categories:  ["FreeBSD", "web"]
+tags: ["freebsd","acme.sh","let's encrypt"]
+categories:  ["computing"]
 ---
 
 I've been meaning to use Let's Encrypt for some time now, I don't really have a good excuse as to why it's taken so long, other than I wanted to use DNS to verify I owned the relevant domains, and I hadn't found an easy enough tool to use.
-
+<!--more-->
 My lame excuse faltered when [Dan Langille](http://dan.langille.org) ported the [acme.sh](https://github.com/Neilpang/acme.sh) client to [FreeBSD](http://www.freshports.org/security/acme.sh/).
 
 It's taken me a while to figure out exactly how I aught to use it, as I wasn't 100% about what I was doing.  But after a few false starts, I've placed my first certificates into use!

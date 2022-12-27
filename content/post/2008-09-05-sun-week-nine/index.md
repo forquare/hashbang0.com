@@ -2,11 +2,11 @@
 date: "2008-09-05T18:27:37"
 title: "Sun - Week Nine"
 tags: []
-categories: ["Sun"]
+categories: ["industrial year"]
 ---
 
 So, two months on and we have moved from knowing nothing, to knowing a bit more about what we're doing.
-
+<!--more-->
 Monday started with panic, one of our SunRay servers had been upgraded, and now things didn't work...Though we think it was an ITOPs issue, as we didn't fix it...The server is question has been upgraded to a later version of Navada.
 The afternoon was littered with tickets and went very quickly.
 

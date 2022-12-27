@@ -1,12 +1,12 @@
 ---
 date: "2009-01-03T18:18:29"
-title: "Beleg Iâ - Building"
-tags: []
-categories: ["beleg-iâ","Hardware","OpenSolaris"]
+title: "Beleg Ia - Building"
+tags: ["beleg-ia", "hardware", "opensolaris"]
+categories: ["personal projects"]
 ---
 
-So, I had ordered the parts and the parts had arrived.  I was very good, although everything was with me by last Tuesday, I refrained from building them up until Friday.
-
+So, I had ordered the parts and the parts had arrived.  I was very good, although everything was with me by last Tuesday, I refrained from building them up until Friday.
+<!--more-->
 So this is my new case:
 
 ![alt text](XL803229.jpg "Chassis side")
@@ -28,7 +28,7 @@ The hard drives are screwed into the bracket and then the brackets are screwed i
 
 The above picture shows all the wiring complete
 
-Here is my DVD drive mounted in it's bracket.  A nice black DVD drive would have been nice, but a white one was all I had to hand.
+Here is my DVD drive mounted in it's bracket.  A nice black DVD drive would have been nice, but a white one was all I had to hand.
 
 ![alt text](XL803238.jpg "DVD drive in bracket")
 
