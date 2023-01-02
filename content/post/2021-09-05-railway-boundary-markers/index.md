@@ -6,11 +6,11 @@ categories: ["railway"]
 ---
 
 Back in June this year we bought our first house!  The process was stressful, and not something I want to go through again ant time soon!
-<!--more-->
+
 Our house is located in the town of [Risca](https://en.wikipedia.org/wiki/Risca), well to be more precise it's actually in [Pontymister](https://en.wikipedia.org/wiki/Pontymister).
 
 I had noticed a slightly odd metal thing poking out of the ground near our garage:
-
+<!--more-->
 ![alt text](IMG_2312.jpg "Great Western Railway Boundary Marker near my house")
 
 There is some print on top, but it's worn and hard to read.  
