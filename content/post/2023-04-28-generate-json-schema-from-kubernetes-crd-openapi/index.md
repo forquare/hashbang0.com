@@ -1,5 +1,5 @@
 ---
-date: 2023-04-28T12:00:00
+date: 2023-04-28T12:17:00
 title: "Generate JSON Schema from Kubernetes CRD OpenAPI"
 tags: ["kubernetes", "openapi", "json schema"]
 categories: ["computing"]
