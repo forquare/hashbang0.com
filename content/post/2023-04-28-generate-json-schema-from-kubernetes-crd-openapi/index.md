@@ -15,25 +15,20 @@ I didn't find many helpful results.
 
 I tried ChatGPT, but each program it generated either errored or produced invalid JSON.  I tried a few other tools, but they all had the same problem.
 
-Then I came across a [blog post by Sean Liao](https://seankhliao.com/blog/12021-08-07-json-schema-openapi-kubernetes-crd/), it was somewhat thin on details, but gave me just enough to get started.
+Then I came across a [comment on a GitHub issue](https://github.com/yannh/kubeconform/issues/51#issuecomment-880223640) with the information I needed!.
 
-Since I already have a Kubernetes cluster with the version of ArgoCD that we use installed, I can use the OpenAPI endpoint to get the OpenAPI spec for the CRD.
-
-```shell
-kubectl get --raw /openapi/v3
-```
-
-This returned a collection of specs each with a `serverRelativeURL`.  Rather than doing any fancy filtering I simply grep'd for `argocd` and grabbed the URL, and reissued by request:
+I had already tried [https://github.com/yannh/openapi2jsonschema](https://github.com/yannh/openapi2jsonschema) and had some errors running it, but this comment made reference to another copy of the python script.  So I went ahead and downloaded that, then ran it:
 
 ```shell
-kubectl get --raw '/openapi/v3/apis/argoproj.io/v1alpha1?hash=<huge hash>' | jq '.' > argo.json
+curl -s -L "https://raw.githubusercontent.com/yannh/kubeconform/master/scripts/openapi2jsonschema.py" -o openapi2jsonschema.py
+python3 ./openapi2jsonschema.py https://raw.githubusercontent.com/argoproj/argo-cd/master/manifests/crds/application-crd.yaml
 ```
 
-I then used [openapi2jsonschema](https://github.com/yannh/openapi2jsonschema) to convert the OpenAPI spec to JSON Schema:
+This script outputted the following:
 
-```shell
-openapi2jsonschema argo.json
+```
+JSON schema written to application_v1alpha1.json
 ```
 
-This places all of the schemas in a directory called `schemas`.  
-I was then able to copy the schema for the ArgoCD Application over the top of our old one to be used in CI.
+Indeed, looking in my current working directory I do see a file called `application_v1alpha1.json`.  
+This has now been copied over the top of our old one to be used in CI.
