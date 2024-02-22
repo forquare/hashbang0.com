@@ -28,6 +28,10 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
+      - name: Set timezone
+        uses: MathRobin/timezone-action@089a978eb83af183f6225bbfc010df73e083d523  #v1.1
+        with:
+          timezoneLinux: "UTC"
       - name: Build Site
         run: |
           hugo --cleanDestinationDir --enableGitInfo --minify
