@@ -2,8 +2,6 @@ baseURL: https://hashbang0.com/
 languageCode: en-gb
 title: '#!0 - A Site of Life & Geekery'
 theme: rehyde-x
-author:
-  name: Ben Lavery-Griffiths
 outputs:
   home:
   - HTML
@@ -15,6 +13,8 @@ taxonomies:
   category: categories
   tag: tags
 params:
+  author:
+    name: Ben Lavery-Griffiths
   email: ben@lavery-griffiths.com
   colorTheme: theme-base-0b
   fullWidth: true

@@ -32,7 +32,7 @@ jobs:
           timezoneLinux: "UTC"
       - name: Build Site
         run: |
-          hugo --cleanDestinationDir --enableGitInfo --minify --baseURL="https://dev.hashbang0.com/" --buildFuture --buildDrafts --ignoreCache --verbose
+          hugo --cleanDestinationDir --enableGitInfo --minify --baseURL="https://dev.hashbang0.com/" --buildFuture --buildDrafts --ignoreCache --logLevel info
           date >> ./public/build_date.txt
       - name: Deploy with rsync
         run: rsync -avz --omit-dir-times -e "ssh -p ${{ secrets.SSH_PORT }}" ./public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.DEPLOY_BASE_PATH }}/dev_hashbang0/
