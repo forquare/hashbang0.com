@@ -1,7 +1,8 @@
 baseURL: https://hashbang0.com/
 languageCode: en-gb
 title: '#!0 - A Site of Life & Geekery'
-theme: rehyde-x
+#theme: rehyde-x
+theme: 'github.com/forquare/rehyde-x'
 outputs:
   home:
   - HTML
