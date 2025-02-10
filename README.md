@@ -4,7 +4,7 @@
 - A post may contain multiple tags
 - All taxonomy should be lowercase
 
-Use the `<!--more-->` tag to dnote when to break a posts summary.
+Use the `<!--more-->` tag to denote when to break a posts summary.
 
 # Categories
 
