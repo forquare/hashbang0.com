@@ -27,9 +27,9 @@ Before I started this process, I cleaned out the old certificates and settings
 
 ## 1. Issuing an ECC Wildcard certificate
 
-	$ acme.sh --issue --dns dns_linode_v4 -d 'manaha.co.uk' -d '*.manaha.co.uk' --keylength ec-256
+	$ acme.sh --issue --dns dns_hetzner -d 'manaha.co.uk' -d '*.manaha.co.uk' --keylength ec-256
 
-This issues a new certificate to `manaha.co.uk`, and all subdomains (wildcard - see the `*` in the second domain declaration).  It uses Linode DNS to verify I have control of the domains.  The `--keylength ec-256` part tells `acme.sh` to create an ECDSA certificate (prime256v1, "ECDSA P-256”).
+This issues a new certificate to `manaha.co.uk`, and all subdomains (wildcard - see the `*` in the second domain declaration).  It uses Hetzner's DNS to verify I have control of the domains.  The `--keylength ec-256` part tells `acme.sh` to create an ECDSA certificate (prime256v1, "ECDSA P-256”).
 
 ## 2. Installing the certificate 
 
@@ -43,6 +43,12 @@ The only real difference between this post and the last one is the `--ecc`, this
 
 This was already done for me, and it’s documented in the original post.
 
-## 2021 Update
+## Updates
+
+### 2025
+
+I've been using the Hetzner DNS API for the past couple of yearsm sothe issuing of an ECC wildcard certificate has been amended to reflect that.
+
+### 2021
 
 I've started using the Linode V4 API, so the issuing of an ECC wildcard certificate has been amended to reflect that.
